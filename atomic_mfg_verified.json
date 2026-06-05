@@ -1,0 +1,760 @@
+[
+  {
+    "title": "Atomic-scale manufacturing for chemical sensing",
+    "doi": "10.1088/2631-7990/ae34f8",
+    "authors": [
+      "Xinan Ma",
+      "Shundong Ge",
+      "Hanxue Yang"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-scale manufacturing for chemical sensing"
+  },
+  {
+    "title": "Visualized Atomic‐Scale Manufacturing Using Transmission Electron Microscope",
+    "doi": "10.1002/adfm.202526864",
+    "authors": [
+      "Mingrui Zhou",
+      "Chen Li",
+      "Hua Hong"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Visualized Atomic‐Scale Manufacturing Using Transmission Electron Microscope"
+  },
+  {
+    "title": "Atomic and Near-atomic Scale Additive Manufacturing: Past, Present, and Future Outlook",
+    "doi": "10.1115/1.889114_ch1",
+    "authors": [
+      "Pankaj Sonia",
+      "Jinesh K Jain",
+      "Kuldeep K Saxena"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic and Near-atomic Scale Additive Manufacturing: Past, Present, and Future Outlook"
+  },
+  {
+    "title": "Atomic Layer Etching for Extreme Manufacturing: Pushing the Limits of Atomic Scale Precision",
+    "doi": "10.1007/s41871-026-00297-w",
+    "authors": [
+      "Yuqun Feng",
+      "Bowen Sun",
+      "Fan Yang"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Layer Etching for Extreme Manufacturing: Pushing the Limits of Atomic Scale Precision"
+  },
+  {
+    "title": "Atomic and Near-atomic Scale Additive Manufacturing Processes: Progress, Challenges, and Circular Economy",
+    "doi": "10.1115/1.889114",
+    "authors": [
+      "Ankit Sharma",
+      "Piyush Sharma",
+      "Kuldeep Kumar Saxena"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic and Near-atomic Scale Additive Manufacturing Processes: Progress, Challenges, and Circular Ec"
+  },
+  {
+    "title": "Chip scale atomic vapors: from fundamental physics to large scale manufacturing and applications",
+    "doi": "10.1117/12.3089846",
+    "authors": [
+      "Uriel Levy"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Chip scale atomic vapors: from fundamental physics to large scale manufacturing and applications"
+  },
+  {
+    "title": "A Novel Approach for Atomic-Scale Manufacturing via Enzymatic Hydrolysis Machining",
+    "doi": "10.1016/j.eng.2026.01.024",
+    "authors": [
+      "Bing Wu",
+      "Yongjie Zhang",
+      "Yinhui Wang"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "A Novel Approach for Atomic-Scale Manufacturing via Enzymatic Hydrolysis Machining"
+  },
+  {
+    "title": "In situ atomic-scale characterization techniques: A key to unlocking atomic manufacturing of two-dimensional materials",
+    "doi": "10.1016/j.orig.2026.04.001",
+    "authors": [
+      "Hui-Ming Cheng"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "In situ atomic-scale characterization techniques: A key to unlocking atomic manufacturing of two-dim"
+  },
+  {
+    "title": "Atomic layer processing for Ångström-scale precision in 3D-integrated semiconductor manufacturing",
+    "doi": "10.1088/2631-7990/ae536b",
+    "authors": [
+      "Hae Lin Yang",
+      "Min Chan Kim",
+      "Gi-Beom Park"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic layer processing for Ångström-scale precision in 3D-integrated semiconductor manufacturing"
+  },
+  {
+    "title": "Metallofullerenes: One of the ideal basic units for constructing atomic-scale manufacturing devices",
+    "doi": "10.1360/sspma-2025-0488",
+    "authors": [
+      "WenJie XIE",
+      "Yuan SHUI",
+      "FeiYang HUANG"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Metallofullerenes: One of the ideal basic units for constructing atomic-scale manufacturing devices"
+  },
+  {
+    "title": "Atomic-layer Additive Manufacturing of Indium(III) Sulfide",
+    "doi": "10.1007/s42250-025-01521-8",
+    "authors": [
+      "Yaraset A. Galván Dominguez",
+      "Syrine Khaled",
+      "Tadahiro Yokosawa"
+    ],
+    "year": 2026,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-layer Additive Manufacturing of Indium(III) Sulfide"
+  },
+  {
+    "title": "Atomic-layer-by-layer molecular beam epitaxy of Ruddlesden-Popper nickelates",
+    "doi": "10.1038/s41535-026-00906-3",
+    "authors": [
+      "X. Shi",
+      "A. T. Bollinger",
+      "L. Aggarwal"
+    ],
+    "year": 2026,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-layer-by-layer molecular beam epitaxy of Ruddlesden-Popper nickelates"
+  },
+  {
+    "title": "Novel Atomic Layer Processes for Semiconductor Manufacturing: Area Selective Deposition, Atomic Layer Annealing, and Atomic Layer Etching",
+    "doi": "10.1007/s12541-025-01337-z",
+    "authors": [
+      "Sangwon Lee",
+      "Gyuha Lee",
+      "Jeongmin Oh"
+    ],
+    "year": 2025,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Novel Atomic Layer Processes for Semiconductor Manufacturing: Area Selective Deposition, Atomic Laye"
+  },
+  {
+    "title": "Advances in core technologies for semiconductor manufacturing: applications and challenges of atomic layer etching, neutral beam etching and atomic layer deposition",
+    "doi": "10.1039/d4na00784k",
+    "authors": [
+      "Tzu-Yi Lee",
+      "Pei-Tien Chen",
+      "Chien-Chi Huang"
+    ],
+    "year": 2025,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Advances in core technologies for semiconductor manufacturing: applications and challenges of atomic"
+  },
+  {
+    "title": "Direct-patterning SnO                     <sub>2</sub>                     deposition by atomic-layer additive manufacturing",
+    "doi": "10.1039/d5ma00182j",
+    "authors": [
+      "Sonja Kürten",
+      "Kimia Hashemizadeh",
+      "Mingjian Wu"
+    ],
+    "year": 2025,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Direct-patterning SnO\n                    <sub>2</sub>\n                    deposition by atomic-laye"
+  },
+  {
+    "title": "Atomic layer deposition",
+    "doi": "10.1038/s43586-025-00444-5",
+    "authors": [],
+    "year": 2025,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Atomic layer deposition"
+  },
+  {
+    "title": "Atomic layer deposition",
+    "doi": "10.1038/s43586-025-00435-6",
+    "authors": [
+      "Erwin Kessels",
+      "Anjana Devi",
+      "Jin-Seong Park"
+    ],
+    "year": 2025,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Atomic layer deposition"
+  },
+  {
+    "title": "Plasma Corrosion Resistant Atomic Layer Deposited Coatings for Semiconductor Manufacturing Process Equipment",
+    "doi": "10.1109/cstic61820.2024.10532021",
+    "authors": [
+      "Lassi Leppilahti"
+    ],
+    "year": 2024,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Plasma Corrosion Resistant Atomic Layer Deposited Coatings for Semiconductor Manufacturing Process E"
+  },
+  {
+    "title": "Material manufacturing from atomic layer",
+    "doi": "10.1088/2631-7990/acf3b8",
+    "authors": [
+      "Xinwei Wang",
+      "Rong Chen",
+      "Shuhui Sun"
+    ],
+    "year": 2023,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Material manufacturing from atomic layer"
+  },
+  {
+    "title": "Additive Manufacturing in Atomic Layer Processing Mode",
+    "doi": "10.1002/smtd.202101546",
+    "authors": [
+      "Ivan Kundrata",
+      "Maïssa K. S. Barr",
+      "Sarah Tymek"
+    ],
+    "year": 2022,
+    "category": "原子层沉积与薄膜",
+    "verification_status": "verified",
+    "crossref_title": "Additive Manufacturing in Atomic Layer Processing Mode"
+  },
+  {
+    "title": "Surface-energy-compensated fabrication of single-crystal alloy films with atomic-scale flatness",
+    "doi": "10.1038/s41467-025-68196-0",
+    "authors": [
+      "Jiaxin Shao",
+      "Sheng Li",
+      "Zhuofeng Shi"
+    ],
+    "year": 2026,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Surface-energy-compensated fabrication of single-crystal alloy films with atomic-scale flatness"
+  },
+  {
+    "title": "<i>(Invited)</i> Atomic/Molecular Scale Fabrication for 2D Materials",
+    "doi": "10.1149/ma2025-01131054mtgabs",
+    "authors": [
+      "Yunqi Liu"
+    ],
+    "year": 2025,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "<i>(Invited)</i> Atomic/Molecular Scale Fabrication for 2D Materials"
+  },
+  {
+    "title": "Effect of Mechanical Load on Atomic-Scale Fabrication Based on Local Anodic Oxidation",
+    "doi": "10.1007/s41871-025-00258-9",
+    "authors": [
+      "Ning Huang",
+      "Ping Zhou",
+      "Fengzhou Fang"
+    ],
+    "year": 2025,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Effect of Mechanical Load on Atomic-Scale Fabrication Based on Local Anodic Oxidation"
+  },
+  {
+    "title": "Single Dopant Lithography for the Fabrication of Atomic-scale Devices and Quantum Systems",
+    "doi": "10.23919/mixdes62605.2024.10614012",
+    "authors": [
+      "Ivo W. Rangelow",
+      "Thomas Schenkel",
+      "Arun Persaud"
+    ],
+    "year": 2024,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Single Dopant Lithography for the Fabrication of Atomic-scale Devices and Quantum Systems"
+  },
+  {
+    "title": "Deep silicon cell fabrication for chip-scale atomic sensors",
+    "doi": "10.1117/12.2657383",
+    "authors": [
+      "James McGilligan",
+      "Sean Dyer",
+      "Paul F. Griffin"
+    ],
+    "year": 2023,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Deep silicon cell fabrication for chip-scale atomic sensors"
+  },
+  {
+    "title": "Structure Fabrication on Silicon at Atomic and Close-To-Atomic Scale Using Atomic Force Microscopy: Implications for Nanopatterning and Nanodevice Fabrication",
+    "doi": "10.3390/mi13040524",
+    "authors": [
+      "Paven Thomas Mathew",
+      "Wei Han",
+      "Brian J. Rodriguez"
+    ],
+    "year": 2022,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Structure Fabrication on Silicon at Atomic and Close-To-Atomic Scale Using Atomic Force Microscopy: "
+  },
+  {
+    "title": "Atomic‐Scale Fabrication: A Molecular Drone for Atomic‐Scale Fabrication Working under Ambient Conditions (Adv. Mater. 21/2021)",
+    "doi": "10.1002/adma.202170166",
+    "authors": [
+      "Matteo Baldoni",
+      "Francesco Mercuri",
+      "Massimiliano Cavallini"
+    ],
+    "year": 2021,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic‐Scale Fabrication: A Molecular Drone for Atomic‐Scale Fabrication Working under Ambient Condi"
+  },
+  {
+    "title": "Atomic-scale Dopant Integration During CMOS Device Fabrication",
+    "doi": "10.1149/ma2021-0230918mtgabs",
+    "authors": [
+      "Andrew Leenheer",
+      "Connor Halsey",
+      "Daniel Ward"
+    ],
+    "year": 2021,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-scale Dopant Integration During CMOS Device Fabrication"
+  },
+  {
+    "title": "Atomic-scale Feedback-controlled Electron Beam Fabrication of 2D Materials",
+    "doi": "10.1017/s1431927621010631",
+    "authors": [
+      "Matthew Boebinger",
+      "Sudhajit Misra",
+      "Yiling Yu"
+    ],
+    "year": 2021,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-scale Feedback-controlled Electron Beam Fabrication of 2D Materials"
+  },
+  {
+    "title": "A Molecular Drone for Atomic‐Scale Fabrication Working under Ambient Conditions",
+    "doi": "10.1002/adma.202007150",
+    "authors": [
+      "Matteo Baldoni",
+      "Francesco Mercuri",
+      "Massimiliano Cavallini"
+    ],
+    "year": 2021,
+    "category": "原子尺度加工与制造",
+    "verification_status": "verified",
+    "crossref_title": "A Molecular Drone for Atomic‐Scale Fabrication Working under Ambient Conditions"
+  },
+  {
+    "title": "Recent Advances in Atomic Force Microscopy‐Based Local Anodic Oxidation Nanolithography of 2D Materials",
+    "doi": "10.1002/admi.202500137",
+    "authors": [
+      "Jing Yu",
+      "Abdulsalam Aji Suleiman",
+      "Jing‐Wen Shi"
+    ],
+    "year": 2025,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Recent Advances in Atomic Force Microscopy‐Based Local Anodic Oxidation Nanolithography of 2D Materi"
+  },
+  {
+    "title": "atomic force microscopy",
+    "doi": "10.1351/goldbook.09452",
+    "authors": [],
+    "year": 2025,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "atomic force microscopy"
+  },
+  {
+    "title": "Coordination environment manipulation of single atom catalysts: Regulation strategies, characterization techniques and applications",
+    "doi": "10.1016/j.ccr.2024.215952",
+    "authors": [
+      "Wentao Zhang",
+      "Yue Zhao",
+      "Wenguang Huang"
+    ],
+    "year": 2024,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Coordination environment manipulation of single atom catalysts: Regulation strategies, characterizat"
+  },
+  {
+    "title": "Atomic force microscopy as a nanolithography tool to investigate the DNA/gold interface",
+    "doi": "10.1016/j.coelec.2024.101444",
+    "authors": [
+      "Paolo Canepa",
+      "Silvia Maria Cristina Rotondi",
+      "Ornella Cavalleri"
+    ],
+    "year": 2024,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Atomic force microscopy as a nanolithography tool to investigate the DNA/gold interface"
+  },
+  {
+    "title": "Optimizing single-atom catalysts via adjacent atom manipulation",
+    "doi": "10.1016/j.checat.2023.100659",
+    "authors": [
+      "Xiong Zhang",
+      "Xuning Li",
+      "Yanqiang Huang"
+    ],
+    "year": 2023,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Optimizing single-atom catalysts via adjacent atom manipulation"
+  },
+  {
+    "title": "Atom electronics in single-molecule transistors: single-atom access and manipulation",
+    "doi": "10.1080/23746149.2023.2165148",
+    "authors": [
+      "Yiping Ouyang",
+      "Feng Wang",
+      "Minhao Zhang"
+    ],
+    "year": 2023,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Atom electronics in single-molecule transistors: single-atom access and manipulation"
+  },
+  {
+    "title": "Coordination Manipulation of Single Atom Catalysts for Lithium‐Sulfur Batteries: Advances and Prospects",
+    "doi": "10.1002/batt.202200494",
+    "authors": [
+      "Haorui Zhao",
+      "Yingze Song",
+      "Jingyu Sun"
+    ],
+    "year": 2023,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Coordination Manipulation of Single Atom Catalysts for Lithium‐Sulfur Batteries: Advances and Prospe"
+  },
+  {
+    "title": "Multigrating design for integrated single-atom trapping, manipulation, and readout",
+    "doi": "10.1103/physreva.105.053520",
+    "authors": [
+      "Aiping Liu",
+      "Jiawei Liu",
+      "Wei Peng"
+    ],
+    "year": 2022,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Multigrating design for integrated single-atom trapping, manipulation, and readout"
+  },
+  {
+    "title": "Atomic Force Microscopy",
+    "doi": "10.1201/9780367811815-2",
+    "authors": [
+      "Andrew A. Gewirth",
+      "John R. LaGraff"
+    ],
+    "year": 2022,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Force Microscopy"
+  },
+  {
+    "title": "Cyclic Single Atom Vertical Manipulation on a Nonmetallic Surface",
+    "doi": "10.1021/acs.jpclett.1c02271",
+    "authors": [
+      "David Abbasi-Pérez",
+      "Hongqian Sang",
+      "Filipe L. Q. Junqueira"
+    ],
+    "year": 2021,
+    "category": "原子操纵与探针技术",
+    "verification_status": "verified",
+    "crossref_title": "Cyclic Single Atom Vertical Manipulation on a Nonmetallic Surface"
+  },
+  {
+    "title": "Self-assembled silicon photonic cavities with atomic-scale confinement",
+    "doi": "10.1364/cleo_si.2024.stu4q.5",
+    "authors": [
+      "Ali Nawaz Babar",
+      "Thor August Schimmell Weis",
+      "Konstantinos Tsoukalas"
+    ],
+    "year": 2024,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Self-assembled silicon photonic cavities with atomic-scale confinement"
+  },
+  {
+    "title": "Atomic Scale Structure of Self‐Assembled Lipidated Peptide Nanomaterials",
+    "doi": "10.1002/adma.202311103",
+    "authors": [
+      "Billy J. Williams‐Noonan",
+      "Ketav Kulkarni",
+      "Nevena Todorova"
+    ],
+    "year": 2024,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Scale Structure of Self‐Assembled Lipidated Peptide Nanomaterials"
+  },
+  {
+    "title": "Atomic Force Microscopy Imaging of Elastin Nanofibers Self-Assembly",
+    "doi": "10.3390/ma16124313",
+    "authors": [
+      "Kyriaki Sambani",
+      "Stylianos Vasileios Kontomaris",
+      "Dido Yova"
+    ],
+    "year": 2023,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Force Microscopy Imaging of Elastin Nanofibers Self-Assembly"
+  },
+  {
+    "title": "Self-assembled photonic cavities with atomic-scale confinement",
+    "doi": "10.1038/s41586-023-06736-8",
+    "authors": [
+      "Ali Nawaz Babar",
+      "Thor August Schimmell Weis",
+      "Konstantinos Tsoukalas"
+    ],
+    "year": 2023,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Self-assembled photonic cavities with atomic-scale confinement"
+  },
+  {
+    "title": "Ligand–Ligand-Interaction-Dominated Self-Assembly of Gold Nanoparticles at the Oil/Water Interface: An Atomic-Scale Simulation",
+    "doi": "10.1021/acs.jpcb.2c07937",
+    "authors": [
+      "Haihong Jia",
+      "Yan-Fang Zhang",
+      "Chunlei Zhang"
+    ],
+    "year": 2023,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Ligand–Ligand-Interaction-Dominated Self-Assembly of Gold Nanoparticles at the Oil/Water Interface: "
+  },
+  {
+    "title": "Atomic-Scale Insights into the Self-Assembly of Alternating AlN/TiN Lamellar Nanostructures via Spinodal Decomposition in AlTiN Coating",
+    "doi": "10.1021/acsami.2c22516",
+    "authors": [
+      "Zheyuan Liu",
+      "Sai Tang",
+      "Hong Mao"
+    ],
+    "year": 2023,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic-Scale Insights into the Self-Assembly of Alternating AlN/TiN Lamellar Nanostructures via Spin"
+  },
+  {
+    "title": "Probing self-assembly dynamics by high speed-atomic force microscopy",
+    "doi": "10.1016/j.bpj.2021.11.1162",
+    "authors": [
+      "Wouter H. Roos"
+    ],
+    "year": 2022,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Probing self-assembly dynamics by high speed-atomic force microscopy"
+  },
+  {
+    "title": "Electro‐assisted Molecular Assembly Giving Atomic‐Scale Catalytic Active‐Site Detection",
+    "doi": "10.1002/chem.202202700",
+    "authors": [
+      "Qianqian Fan",
+      "Zirui Liu",
+      "Feng Qiu"
+    ],
+    "year": 2022,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Electro‐assisted Molecular Assembly Giving Atomic‐Scale Catalytic Active‐Site Detection"
+  },
+  {
+    "title": "Wafer-Level Assembly of Physics Package for Chip-Scale Atomic Clocks",
+    "doi": "10.1109/jsen.2022.3151407",
+    "authors": [
+      "Ping Guo",
+      "Hongling Meng",
+      "Lin Dan"
+    ],
+    "year": 2022,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Wafer-Level Assembly of Physics Package for Chip-Scale Atomic Clocks"
+  },
+  {
+    "title": "Atomic Force Microscopy in the Study of Protein Self-Assembly",
+    "doi": "10.1016/j.bpj.2019.11.1203",
+    "authors": [
+      "Natalia V. Kuzmina",
+      "Evgeniy V. Dubrovin",
+      "Olga N. Koroleva"
+    ],
+    "year": 2020,
+    "category": "自组装与分子制造",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Force Microscopy in the Study of Protein Self-Assembly"
+  },
+  {
+    "title": "Atomically Precise Nanoclusters as SERS Probes",
+    "doi": "10.1021/acs.nanolett.5c05462",
+    "authors": [
+      "Sujan Manna",
+      "Anant O. Bhasin",
+      "Vivek Yadav"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomically Precise Nanoclusters as SERS Probes"
+  },
+  {
+    "title": "Precision Manufacturing Techniques for Display Manufacturing Equipment",
+    "doi": "10.36948/ijfmr.2026.v08i01.67515",
+    "authors": [
+      "Ganesh Babu Chandrasekaran"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Precision Manufacturing Techniques for Display Manufacturing Equipment"
+  },
+  {
+    "title": "Machine Tools, Advanced Manufacturing, and Precision Manufacturing",
+    "doi": "10.3390/app16042127",
+    "authors": [
+      "Abhilash Puthanveettil Madathil",
+      "Xichun Luo"
+    ],
+    "year": 2026,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Machine Tools, Advanced Manufacturing, and Precision Manufacturing"
+  },
+  {
+    "title": "Frontiers in atomic-level manufacturing: atomic-scale electrochemical deposition",
+    "doi": "10.1088/2631-7990/adf6a3",
+    "authors": [
+      "Zubair Akbar",
+      "Haibin Liu",
+      "Nan Zhang"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Frontiers in atomic-level manufacturing: atomic-scale electrochemical deposition"
+  },
+  {
+    "title": "Grating interferometer: The dominant positioning strategy in atomic and close-to-atomic scale manufacturing",
+    "doi": "10.1016/j.jmsy.2025.08.008",
+    "authors": [
+      "Can Cui",
+      "Xinghui Li",
+      "Xiaohao Wang"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Grating interferometer: The dominant positioning strategy in atomic and close-to-atomic scale manufa"
+  },
+  {
+    "title": "Perovskite nanomaterials and nanostructures manufacturing: from atomic to wafer scale engineering",
+    "doi": "10.37188/lam.2025.086",
+    "authors": [
+      "Sergey Makarov",
+      "Emmanuel Stratakis",
+      "Nikolay V. Petrov"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Perovskite nanomaterials and nanostructures manufacturing: from atomic to wafer scale engineering"
+  },
+  {
+    "title": "Atomic Manufacturing of Advanced Nanomaterials",
+    "doi": "10.1002/adma.202306689",
+    "authors": [
+      "Yiran Ding",
+      "Chenyang Wang",
+      "Mengqi Zeng"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomic Manufacturing of Advanced Nanomaterials"
+  },
+  {
+    "title": "Electrosynthesis of Atomically Precise Au Nanoclusters",
+    "doi": "10.1002/advs.202414057",
+    "authors": [
+      "Jing Dong",
+      "Yawei Li",
+      "Yu Ding"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Electrosynthesis of Atomically Precise Au Nanoclusters"
+  },
+  {
+    "title": "Atomically Precise Alloy Nanoclusters Steering Photocatalysis",
+    "doi": "10.1002/smll.202505282",
+    "authors": [
+      "Zi‐Han Zheng",
+      "Fang‐Xing Xiao",
+      "Yi‐Jun Xu"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomically Precise Alloy Nanoclusters Steering Photocatalysis"
+  },
+  {
+    "title": "Atomically precise metal nanoclusters for photocatalysis",
+    "doi": "10.1007/s42247-025-01262-x",
+    "authors": [
+      "Ghulam Murtaza",
+      "Kanwal Iqbal",
+      "Anam Iqbal"
+    ],
+    "year": 2025,
+    "category": "原子级制造综述与概念",
+    "verification_status": "verified",
+    "crossref_title": "Atomically precise metal nanoclusters for photocatalysis"
+  }
+]

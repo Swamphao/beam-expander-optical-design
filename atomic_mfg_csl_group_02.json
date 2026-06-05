@@ -1,0 +1,975 @@
+[
+  {
+    "type": "article-journal",
+    "title": "Atomically Precise Nanoclusters as SERS Probes",
+    "DOI": "10.1021/acs.nanolett.5c05462"
+  },
+  {
+    "type": "article-journal",
+    "title": "Precision Manufacturing Techniques for Display Manufacturing Equipment",
+    "DOI": "10.36948/ijfmr.2026.v08i01.67515"
+  },
+  {
+    "type": "article-journal",
+    "title": "Machine Tools, Advanced Manufacturing, and Precision Manufacturing",
+    "DOI": "10.3390/app16042127"
+  },
+  {
+    "type": "article-journal",
+    "title": "Frontiers in atomic-level manufacturing: atomic-scale electrochemical deposition",
+    "DOI": "10.1088/2631-7990/adf6a3"
+  },
+  {
+    "type": "article-journal",
+    "title": "Grating interferometer: The dominant positioning strategy in atomic and close-to-atomic scale manufa",
+    "DOI": "10.1016/j.jmsy.2025.08.008"
+  },
+  {
+    "type": "article-journal",
+    "title": "Perovskite nanomaterials and nanostructures manufacturing: from atomic to wafer scale engineering",
+    "DOI": "10.37188/lam.2025.086"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Manufacturing of Advanced Nanomaterials",
+    "DOI": "10.1002/adma.202306689"
+  },
+  {
+    "type": "article-journal",
+    "title": "Electrosynthesis of Atomically Precise Au Nanoclusters",
+    "DOI": "10.1002/advs.202414057"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomically Precise Alloy Nanoclusters Steering Photocatalysis",
+    "DOI": "10.1002/smll.202505282"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomically precise metal nanoclusters for photocatalysis",
+    "DOI": "10.1007/s42247-025-01262-x"
+  },
+  {
+    "type": "article-journal",
+    "title": "Towards atomic and close-to-atomic scale manufacturing",
+    "DOI": "10.1088/2631-7990/ab0dfc",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      },
+      {
+        "given": "Nan",
+        "family": "Zhang"
+      },
+      {
+        "given": "Dongming",
+        "family": "Guo"
+      },
+      {
+        "given": "Kornel",
+        "family": "Ehmann"
+      },
+      {
+        "given": "Benny",
+        "family": "Cheung"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and close-to-atomic scale manufacturing—A trend in manufacturing development",
+    "DOI": "10.1007/s11465-016-0402-1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Proposition of atomic and close-to-atomic scale manufacturing",
+    "DOI": "10.1007/s40436-023-00442-4",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ju-Fan",
+        "family": "Zhang"
+      },
+      {
+        "given": "Jens",
+        "family": "Ducree"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and Close-to-Atomic Scale Manufacturing: The Fundamental Technology of Manufacturing III",
+    "DOI": "10.1007/978-3-031-54034-9_9",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      },
+      {
+        "given": "Xichun",
+        "family": "Luo"
+      },
+      {
+        "given": "Gaoliang",
+        "family": "Dai"
+      },
+      {
+        "given": "Yasuhiro",
+        "family": "Takaya"
+      },
+      {
+        "given": "Wei",
+        "family": "Gao"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and close-to-atomic scale manufacturing: perspectives and measures",
+    "DOI": "10.1088/2631-7990/aba495",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and Close-to-Atomic Scale Manufacturing: Status and Challenges",
+    "DOI": "10.1109/icac57885.2023.10275165",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Hifza",
+        "family": "Hafeez"
+      },
+      {
+        "given": "Wenkun",
+        "family": "Xie"
+      },
+      {
+        "given": "Xichun",
+        "family": "Luo"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Fundamentals of atomic and close-to-atomic scale manufacturing: a review",
+    "DOI": "10.1088/2631-7990/ac3bb2",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jian",
+        "family": "Gao"
+      },
+      {
+        "given": "Xichun",
+        "family": "Luo"
+      },
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      },
+      {
+        "given": "Jining",
+        "family": "Sun"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Intermolecular and surface forces in atomic-scale manufacturing",
+    "DOI": "10.1088/2631-7990/ac5e13",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Xin",
+        "family": "Hou"
+      },
+      {
+        "given": "Jingyang",
+        "family": "Li"
+      },
+      {
+        "given": "Yuanzhe",
+        "family": "Li"
+      },
+      {
+        "given": "Yu",
+        "family": "Tian"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Area selective deposition for bottom-up atomic-scale manufacturing",
+    "DOI": "10.1016/j.ijmachtools.2024.104173",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Rong",
+        "family": "Chen"
+      },
+      {
+        "given": "Eryan",
+        "family": "Gu"
+      },
+      {
+        "given": "Kun",
+        "family": "Cao"
+      },
+      {
+        "given": "Jingming",
+        "family": "Zhang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Opportunities and challenges for DNA in atomic and close-to-atomic scale manufacturing",
+    "DOI": "10.1088/1361-6528/ace262",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zhuang",
+        "family": "Cai"
+      },
+      {
+        "given": "Bei",
+        "family": "Yang"
+      },
+      {
+        "given": "Rui",
+        "family": "Gao"
+      },
+      {
+        "given": "Huajie",
+        "family": "Liu"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and Close-to-Atomic Scale Manufacturing: A Review on Atomic Layer Removal Methods Using Atomic Force Microscopy",
+    "DOI": "10.1007/s41871-020-00067-2",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Paven",
+        "family": "Thomas Mathew"
+      },
+      {
+        "given": "Brian",
+        "family": "J. Rodriguez"
+      },
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Foreword to the Special Issue on Nanofabrication, Atomic and Close-to-atomic Scale Manufacturing",
+    "DOI": "10.1007/s41871-020-00073-4",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Xichun",
+        "family": "Luo"
+      },
+      {
+        "given": "Jiang",
+        "family": "Guo"
+      },
+      {
+        "given": "Saeed",
+        "family": "Chavoshi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Advance in additive manufacturing of 2D materials at the atomic and close-to-atomic scale",
+    "DOI": "10.1038/s41699-024-00456-x",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yixin",
+        "family": "Chen"
+      },
+      {
+        "given": "Fengzhou",
+        "family": "Fang"
+      },
+      {
+        "given": "Nan",
+        "family": "Zhang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Sustainable scale-up studies of Atomic Layer Deposition for microelectronics manufacturing",
+    "DOI": "10.1109/issst.2010.5507682",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Chris",
+        "family": "Y. Yuan"
+      },
+      {
+        "given": "Yangping",
+        "family": "Sheng"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "In Situ Interfacial Sublimation of Zn2GeO4 Nanowire for Atomic-Scale Manufacturing",
+    "DOI": "10.1021/acsanm.0c00740.s001"
+  },
+  {
+    "type": "article-journal",
+    "title": "Nucleic acid-metal complex and its application in atomic-scale manufacturing",
+    "DOI": "10.7498/aps.70.20201430",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Sheng-Kai",
+        "family": "Li"
+      },
+      {
+        "given": "Qing",
+        "family": "Hao"
+      },
+      {
+        "given": "Tian-Huan",
+        "family": "Peng"
+      },
+      {
+        "given": "Zhuo",
+        "family": "Chen"
+      },
+      {
+        "given": "Wei-Hong",
+        "family": "Tan"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "In Situ Interfacial Sublimation of Zn2GeO4 Nanowire for Atomic-Scale Manufacturing",
+    "DOI": "10.1021/acsanm.0c00740.s002"
+  },
+  {
+    "type": "article-journal",
+    "title": "Foreword to the Special Issue on Nanomanufacturing and Atomic &amp; Close-to-Atomic Scale Manufacturing (ACSM)",
+    "DOI": "10.1007/s41871-022-00153-7",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Nan",
+        "family": "Yu"
+      },
+      {
+        "given": "Stuart",
+        "family": "Reid"
+      },
+      {
+        "given": "Rebecca",
+        "family": "Cheung"
+      },
+      {
+        "given": "Vasileios",
+        "family": "Koutsos"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Analysis of optical measurement precision limit for close-to-atomic scale manufacturing",
+    "DOI": "10.7498/aps.70.20201924",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Hai-Yang",
+        "family": "Zhan"
+      },
+      {
+        "given": "Fei",
+        "family": "Xing"
+      },
+      {
+        "given": "Li",
+        "family": "Zhang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Scale",
+    "DOI": "10.1115/1.2021-mar3",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Abrams"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-scale understanding of microstructural evolution in electrochemical additive manufacturing of metallic nickel",
+    "DOI": "10.1016/j.matdes.2024.113288",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Honggang",
+        "family": "Zhang"
+      },
+      {
+        "given": "Kai",
+        "family": "Chen"
+      },
+      {
+        "given": "Chengwei",
+        "family": "Kang"
+      },
+      {
+        "given": "Haibin",
+        "family": "Liu"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Manipulation",
+    "DOI": "10.1021/cen-v082n038.p010a",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "SUSAN",
+        "family": "MORRISSEY"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "atomic time scale",
+    "DOI": "10.1007/springerreference_8361"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-scale structures",
+    "DOI": "10.1016/s0961-1290(01)80006-5",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-scale imaging",
+    "DOI": "10.1016/0261-3069(94)90068-x",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Adhesion",
+    "DOI": "10.1007/978-94-011-1729-6_23",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "U.",
+        "family": "Dürig"
+      },
+      {
+        "given": "O.",
+        "family": "Züger"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Imaging",
+    "DOI": "10.1093/oso/9780198856559.003.0007",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "C.",
+        "family": "Julian Chen"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Legos",
+    "DOI": "10.1038/scientificamerican1214-50",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Andre",
+        "family": "K. Geim"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Imaging",
+    "DOI": "10.1093/acprof:oso/9780199211500.003.0007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "C.",
+        "family": "Julian Chen"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Friction",
+    "DOI": "10.1016/b978-0-12-409547-2.11003-0",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "F.",
+        "family": "Hausen"
+      },
+      {
+        "given": "P.",
+        "family": "Egberts"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Magnetism",
+    "DOI": "10.1201/b15523-28",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Spintronics",
+    "DOI": "10.1007/978-94-007-7604-3_30-1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jens",
+        "family": "Brede"
+      },
+      {
+        "given": "Bruno",
+        "family": "Chilian"
+      },
+      {
+        "given": "Alexander",
+        "family": "Ako Khajetoorians"
+      },
+      {
+        "given": "Jens",
+        "family": "Wiebe"
+      },
+      {
+        "given": "Roland",
+        "family": "Wiesendanger"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Scale Spintronics",
+    "DOI": "10.1007/978-94-007-6892-5_30",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jens",
+        "family": "Brede"
+      },
+      {
+        "given": "Bruno",
+        "family": "Chilian"
+      },
+      {
+        "given": "Alexander",
+        "family": "Ako Khajetoorians"
+      },
+      {
+        "given": "Jens",
+        "family": "Wiebe"
+      },
+      {
+        "given": "Roland",
+        "family": "Wiesendanger"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "atomic time scale",
+    "DOI": "10.1007/1-4020-0613-6_957",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Martin",
+        "family": "H. Weik"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-scale engineering",
+    "DOI": "10.1038/331301a0",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J.",
+        "family": "B. Pethica"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic manufacturing of advanced materials",
+    "DOI": "10.1360/tb-2023-0447",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zhouyang",
+        "family": "Wang"
+      },
+      {
+        "given": "Yiran",
+        "family": "Ding"
+      },
+      {
+        "given": "Mengqi",
+        "family": "Zeng"
+      },
+      {
+        "given": "Lei",
+        "family": "Fu"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomically Precise Manufacturing of Silicon Electronics",
+    "DOI": "10.1021/acsnano.3c10412",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jason",
+        "family": "Pitters"
+      },
+      {
+        "given": "Jeremiah",
+        "family": "Croshaw"
+      },
+      {
+        "given": "Roshan",
+        "family": "Achal"
+      },
+      {
+        "given": "Lucian",
+        "family": "Livadaru"
+      },
+      {
+        "given": "Samuel",
+        "family": "Ng"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomically Precise Manufacturing and Responsible Innovation",
+    "DOI": "10.4018/ijt.2019070101",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Steven",
+        "family": "Umbrello"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomically Precise Manufacturing for 2D-Designed Materials",
+    "DOI": "10.2172/1855572",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "James",
+        "family": "Owen"
+      },
+      {
+        "given": "Wiley",
+        "family": "Kirk"
+      },
+      {
+        "given": "Richard",
+        "family": "Silver"
+      },
+      {
+        "given": "Garnett",
+        "family": "Bryant"
+      },
+      {
+        "given": "Jonathan",
+        "family": "Wyrick"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Novel Probes for Tip-Based Atomically Precise Manufacturing",
+    "DOI": "10.2172/1488736",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Scott",
+        "family": "Lockledge"
+      },
+      {
+        "given": "Jinju",
+        "family": "Lee"
+      },
+      {
+        "given": "Joseph",
+        "family": "Lyding"
+      }
+    ]
+  }
+]

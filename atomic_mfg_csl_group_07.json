@@ -1,0 +1,963 @@
+[
+  {
+    "type": "article-journal",
+    "title": "Quantum state manipulation of single-Cesium-atom qubit in a micro-optical trap",
+    "DOI": "10.1007/s11467-014-0442-0",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zhi-Hui",
+        "family": "Wang"
+      },
+      {
+        "given": "Gang",
+        "family": "Li"
+      },
+      {
+        "given": "Ya-Li",
+        "family": "Tian"
+      },
+      {
+        "given": "Tian-Cai",
+        "family": "Zhang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Optical tweezer manipulation for atom tetris",
+    "DOI": "10.1117/12.2268849",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Hyosub",
+        "family": "Kim"
+      },
+      {
+        "given": "Woojun",
+        "family": "Lee"
+      },
+      {
+        "given": "Jaewook",
+        "family": "Ahn"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Manipulation of photon-atom momentum entanglement",
+    "DOI": "10.1364/weqd.2008.aps1",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Hong",
+        "family": "Guo"
+      },
+      {
+        "given": "Rui",
+        "family": "Guo"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Beam Manipulation and Atom Lithography",
+    "DOI": "10.2184/lsj.32.443",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ryuzo",
+        "family": "OHMUKAI"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atom Manipulation by Atomic Force Microscopy",
+    "DOI": "10.1541/ieejjournal.134.824",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yoshiaki",
+        "family": "SUGIMOTO"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atom cooling, trapping, and quantum manipulation",
+    "DOI": "10.1103/revmodphys.71.s253",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Carl",
+        "family": "E. Wieman"
+      },
+      {
+        "given": "David",
+        "family": "E. Pritchard"
+      },
+      {
+        "given": "David",
+        "family": "J. Wineland"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Quantum Rings Engineered by Atom Manipulation",
+    "DOI": "10.1103/physrevlett.123.066801",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Van",
+        "family": "Dong Pham"
+      },
+      {
+        "given": "Kiyoshi",
+        "family": "Kanisawa"
+      },
+      {
+        "given": "Stefan",
+        "family": "Fölsch"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atom Cooling, Trapping, and Quantum Manipulation",
+    "DOI": "10.1007/978-1-4612-1512-7_26",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Carl",
+        "family": "E. Wieman"
+      },
+      {
+        "given": "David",
+        "family": "E. Pritchard"
+      },
+      {
+        "given": "David",
+        "family": "J. Wineland"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Embedded Atom Letters Fabricated by Atom-Pen Method Using Vertical Interchange Atom Manipulation",
+    "DOI": "10.1380/jsssj.30.454",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Seizo",
+        "family": "MORITA"
+      },
+      {
+        "given": "Yoshiaki",
+        "family": "SUGIMOTO"
+      },
+      {
+        "given": "Masayuki",
+        "family": "ABE"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Coherent manipulation of a single magnetic atom using polarized single electron transport in a double quantum dot",
+    "DOI": "10.1103/physrevb.92.155433",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Wenxi",
+        "family": "Lai"
+      },
+      {
+        "given": "Wen",
+        "family": "Yang"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy single atom/molecule manipulation and its application to nanoscience and technology",
+    "DOI": "10.1116/1.1990161",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Saw-Wai",
+        "family": "Hla"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Laser lithography by photon scanning tunneling microscopy",
+    "DOI": "10.1063/1.44854",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ida",
+        "family": "Lee"
+      },
+      {
+        "given": "R.",
+        "family": "J. Warmack"
+      },
+      {
+        "given": "T.",
+        "family": "L. Ferrell"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic manipulation and lithography using scanning tunneling microscopy",
+    "DOI": "10.1016/0141-6359(94)90035-3",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy.",
+    "DOI": "10.1380/jsssj.10.686",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Shigeyuki",
+        "family": "HOSOKI"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-981-10-6156-1_97",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yukio",
+        "family": "Hasegawa"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1016/s0167-2991(08)65014-4",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "SCANNING TUNNELING MICROSCOPY",
+    "DOI": "10.1002/9781119244752.ch56",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Kwok‐Wai",
+        "family": "Ng"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1073/pnas.84.14.4666",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Heinrich",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-642-20617-7_100409",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-540-34315-8_2",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Masahiko",
+        "family": "Tomitori"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-1-4615-7682-2_1",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Binnig"
+      },
+      {
+        "given": "H.",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.32388/xihkj5",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-90-481-9751-4_45",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yimei",
+        "family": "Zhu"
+      },
+      {
+        "given": "Hiromi",
+        "family": "Inada"
+      },
+      {
+        "given": "Achim",
+        "family": "Hartschuh"
+      },
+      {
+        "given": "Li",
+        "family": "Shi"
+      },
+      {
+        "given": "Ada",
+        "family": "Della Pia"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1002/0471266965.com084",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Miquel",
+        "family": "Salmeron"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1081/e-esmc-120019172",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Lucidalva",
+        "family": "S. Pinheiro"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-540-28617-2_3",
+    "author": [
+      {
+        "given": "Didier",
+        "family": "Stiévenard"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1002/9783527620524.ch12",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-642-82727-3_14",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "R.",
+        "family": "J. Behm"
+      },
+      {
+        "given": "W.",
+        "family": "Hösler"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-1-4615-3394-8_2",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Horst",
+        "family": "Niehus"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1380/jsssj.5.42",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Takeo",
+        "family": "ICHINOKAWA"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1063/1.338189",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Paul",
+        "family": "K. Hansma"
+      },
+      {
+        "given": "Jerry",
+        "family": "Tersoff"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1016/0039-6028(85)90120-7",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Binnig"
+      },
+      {
+        "given": "H.",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1016/s0378-4363(84)80008-x",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Binnig"
+      },
+      {
+        "given": "H.",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1016/0167-9317(86)90083-3",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "H.",
+        "family": "Salemink"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1016/c2009-0-21347-x",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-94-017-9780-1_45",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ada",
+        "family": "Della Pia"
+      },
+      {
+        "given": "Giovanni",
+        "family": "Costantini"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1016/0039-6028(83)90716-1",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Binnig"
+      },
+      {
+        "given": "H.",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-662-45240-0_20",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Bert",
+        "family": "Voigtländer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-94-011-1812-5",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.21236/ada249262",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "John",
+        "family": "D. Dow"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1002/9783527619283.ch12b",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-1-4613-2209-2_1",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "S.",
+        "family": "Chiang"
+      },
+      {
+        "given": "R.",
+        "family": "J. Wilson"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1146/annurev.matsci.20.1.219",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J.",
+        "family": "Griffith"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Microscopy, Scanning Tunneling",
+    "DOI": "10.1002/0471732877.emd296",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Virginia",
+        "family": "M. Ayres"
+      },
+      {
+        "given": "Lalita",
+        "family": "Udpa"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-662-53120-4_300593",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1016/b0-08-043152-6/01480-7",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "D.A.",
+        "family": "Bonnell"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.2115/fiber.44.6_p207",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "TAKASHI",
+        "family": "TAGAWA"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Microscopy, Scanning Tunneling",
+    "DOI": "10.4135/9781412972093.n231",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning tunneling microscopy",
+    "DOI": "10.1016/0167-2584(83)90071-3",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Binnig"
+      },
+      {
+        "given": "H.",
+        "family": "Rohrer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Scanning Tunneling Microscopy",
+    "DOI": "10.1007/978-3-642-34243-1_19",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ada",
+        "family": "Della Pia"
+      },
+      {
+        "given": "Giovanni",
+        "family": "Costantini"
+      }
+    ]
+  }
+]

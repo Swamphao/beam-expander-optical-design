@@ -1,0 +1,1320 @@
+[
+  {
+    "type": "article-journal",
+    "title": "Atomic force microscopy",
+    "DOI": "10.1036/1097-8542.801300"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Force Microscopy",
+    "DOI": "10.32388/ancam9",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Force Microscopy",
+    "DOI": "10.1007/978-3-540-36352-1_6"
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Force Microscopy",
+    "DOI": "10.1007/978-3-030-13654-3",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Bert",
+        "family": "Voigtländer"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Force Microscopy",
+    "DOI": "10.1016/b978-0-08-055294-1.00083-0",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "L.-C.",
+        "family": "Xu"
+      },
+      {
+        "given": "C.A.",
+        "family": "Siedlecki"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Force Microscopy",
+    "DOI": "10.1016/b0-08-043152-6/00074-7",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "W.G.",
+        "family": "Morris"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-Force Microscopy",
+    "DOI": "10.1088/0031-8949/1987/t19a/008",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G",
+        "family": "K Binnig"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer molecular beam epitaxy of InAs/A1As heterostructures",
+    "DOI": "10.1016/0022-0248(90)90857-h",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "M.",
+        "family": "Vasquez"
+      },
+      {
+        "given": "J.P.",
+        "family": "Silveira"
+      },
+      {
+        "given": "L.",
+        "family": "Gonzalez"
+      },
+      {
+        "given": "M.",
+        "family": "Perez"
+      },
+      {
+        "given": "G.",
+        "family": "Armelles"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer molecular beam epitaxy (ALMBE): growth kinetics and applications",
+    "DOI": "10.1016/0022-0248(91)90970-g",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "F.",
+        "family": "Briones"
+      },
+      {
+        "given": "A.",
+        "family": "Ruiz"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Lanthanum aluminate by atomic layer deposition and molecular beam epitaxy",
+    "DOI": "10.1116/1.2131077",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "D.",
+        "family": "H. Triyoso"
+      },
+      {
+        "given": "H.",
+        "family": "Li"
+      },
+      {
+        "given": "R.",
+        "family": "I. Hegde"
+      },
+      {
+        "given": "Z.",
+        "family": "Yu"
+      },
+      {
+        "given": "K.",
+        "family": "Moore"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Layer Epitaxy of ZnS on GaAs Substrates by Metalorganic Molecular Beam Epitaxy",
+    "DOI": "10.1143/jjap.29.l727",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yi-hong",
+        "family": "Wu"
+      },
+      {
+        "given": "Takashi",
+        "family": "Toyoda"
+      },
+      {
+        "given": "Yoichi",
+        "family": "Kawakami"
+      },
+      {
+        "given": "Shizuo",
+        "family": "Fujita"
+      },
+      {
+        "given": "Shigeo",
+        "family": "Fujita"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy of ZnSe on GaAs(100) by metalorganic molecular beam epitaxy",
+    "DOI": "10.1016/0022-0248(92)90634-u",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ryuhei",
+        "family": "Kimura"
+      },
+      {
+        "given": "Makoto",
+        "family": "Konagai"
+      },
+      {
+        "given": "Kiyoshi",
+        "family": "Takahashi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Indium surface segregation in InGaAs-based structures prepared by molecular beam epitaxy and atomic layer molecular beam epitaxy",
+    "DOI": "10.1016/0022-0248(94)00892-2",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "S",
+        "family": "Franchi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Electrical and photoluminescence properties of undoped GaSb prepared by molecular beam epitaxy and atomic layer molecular beam epitaxy",
+    "DOI": "10.1016/0022-0248(95)80058-k",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A.",
+        "family": "Bosacchi"
+      },
+      {
+        "given": "S.",
+        "family": "Franchi"
+      },
+      {
+        "given": "P.",
+        "family": "Allegri"
+      },
+      {
+        "given": "V.",
+        "family": "Avanzini"
+      },
+      {
+        "given": "A.",
+        "family": "Baraldi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Optical properties of (113) GaAs/AlAs superlattices grown by molecular beam epitaxy and atomic layer molecular beam epitaxy",
+    "DOI": "10.1063/1.359523",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G.",
+        "family": "Bacquet"
+      },
+      {
+        "given": "F.",
+        "family": "Hassen"
+      },
+      {
+        "given": "N.",
+        "family": "Lauret"
+      },
+      {
+        "given": "G.",
+        "family": "Armelles"
+      },
+      {
+        "given": "P.",
+        "family": "S. Dominguez"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Indium surface segregation in InGaAs-based structures prepared by molecular beam epitaxy and atomic layer molecular beam epitaxy",
+    "DOI": "10.1016/0022-0248(95)80204-p",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A.",
+        "family": "Bosacchi"
+      },
+      {
+        "given": "F.",
+        "family": "Colonna"
+      },
+      {
+        "given": "S.",
+        "family": "Franchi"
+      },
+      {
+        "given": "P.",
+        "family": "Pascarella"
+      },
+      {
+        "given": "P.",
+        "family": "Allegri"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer by atomic layer growth of DyBaCuO superconducting thin films by molecular beam epitaxy",
+    "DOI": "10.1063/1.103430",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A.",
+        "family": "Schuhl"
+      },
+      {
+        "given": "R.",
+        "family": "Cabanel"
+      },
+      {
+        "given": "S.",
+        "family": "Lequien"
+      },
+      {
+        "given": "B.",
+        "family": "Ghyselen"
+      },
+      {
+        "given": "S.",
+        "family": "Tyč"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy of GaAs by chemical beam epitaxy",
+    "DOI": "10.1016/0022-0248(90)90354-n",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "T.H.",
+        "family": "Chiu"
+      },
+      {
+        "given": "J.E.",
+        "family": "Cunningham"
+      },
+      {
+        "given": "A.",
+        "family": "Robertson"
+      },
+      {
+        "given": "D.L.",
+        "family": "Malm"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Deep levels in GaAs grown by atomic layer molecular beam epitaxy",
+    "DOI": "10.1063/1.112512",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "E.",
+        "family": "Gombia"
+      },
+      {
+        "given": "R.",
+        "family": "Mosca"
+      },
+      {
+        "given": "A.",
+        "family": "Bosacchi"
+      },
+      {
+        "given": "M.",
+        "family": "Madellaf"
+      },
+      {
+        "given": "S.",
+        "family": "Franchi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer-by-layer molecular beam epitaxy of complex oxide films and heterostructures",
+    "DOI": "10.1016/b978-0-12-387839-7.00021-x",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "James",
+        "family": "N. Eckstein"
+      },
+      {
+        "given": "Mao",
+        "family": "Zheng"
+      },
+      {
+        "given": "Xiaofang",
+        "family": "Zhai"
+      },
+      {
+        "given": "Bruce",
+        "family": "Davidson"
+      },
+      {
+        "given": "Maitri",
+        "family": "Warusawithana"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Synthesis of La2−xSrxCuO4 films via atomic layer-by-layer molecular beam epitaxy",
+    "DOI": "10.1063/5.0087223",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Xiaotao",
+        "family": "Xu"
+      },
+      {
+        "given": "Xi",
+        "family": "He"
+      },
+      {
+        "given": "Xiaoyan",
+        "family": "Shi"
+      },
+      {
+        "given": "Ivan",
+        "family": "Božović"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Layer Growth of SrCuO2 Thin Film by Molecular Beam Epitaxy.",
+    "DOI": "10.1380/jsssj.14.283",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Ziyuan",
+        "family": "LIU"
+      },
+      {
+        "given": "Takashi",
+        "family": "HANADA"
+      },
+      {
+        "given": "Maki",
+        "family": "KAWAI"
+      },
+      {
+        "given": "Masahiro",
+        "family": "KUDO"
+      },
+      {
+        "given": "Hideomi",
+        "family": "KOINUMA"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy growth of ZnS on (100)GaAs using molecular beam epitaxy system",
+    "DOI": "10.1016/0022-0248(94)00149-g",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Toyoyasu",
+        "family": "Tadokoro"
+      },
+      {
+        "given": "Shin-ichi",
+        "family": "Ohta"
+      },
+      {
+        "given": "Takashi",
+        "family": "Ishiguro"
+      },
+      {
+        "given": "Yukio",
+        "family": "Ichinose"
+      },
+      {
+        "given": "Satoshi",
+        "family": "Kobayashi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer molecular beam epitaxy growth of InAs on GaAs substrates",
+    "DOI": "10.1007/bf00617022",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A.",
+        "family": "Ruiz"
+      },
+      {
+        "given": "L.",
+        "family": "Gonz�lez"
+      },
+      {
+        "given": "A.",
+        "family": "Mazuelas"
+      },
+      {
+        "given": "F.",
+        "family": "Briones"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "SnTe-doping of GaAs grown by atomic layer molecular beam epitaxy",
+    "DOI": "10.1063/1.359458",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "M.",
+        "family": "Kuball"
+      },
+      {
+        "given": "M.",
+        "family": "Cardona"
+      },
+      {
+        "given": "A.",
+        "family": "Mazuelas"
+      },
+      {
+        "given": "K.",
+        "family": "H. Ploog"
+      },
+      {
+        "given": "J.",
+        "family": "J. Pérez-Camacho"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Summary Abstract: Molecular-beam epitaxy and atomic-layer epitaxy growth mechanisms for ZnSe(100)",
+    "DOI": "10.1116/1.584369",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "H.",
+        "family": "H. Farrell"
+      },
+      {
+        "given": "M.",
+        "family": "C. Tamargo"
+      },
+      {
+        "given": "J.",
+        "family": "L. de Miguel"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Sandwich Tunnel Junction with DyBaCuO Grown by Molecular Beam Atomic Layer Epitaxy",
+    "DOI": "10.1007/978-1-4684-1345-8_44",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A.",
+        "family": "Schuhl"
+      },
+      {
+        "given": "R.",
+        "family": "Cabanel"
+      },
+      {
+        "given": "B.",
+        "family": "Ghyselen"
+      },
+      {
+        "given": "G.",
+        "family": "Creuzet"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer doped field-effect transistor fabricated using Si molecular beam epitaxy",
+    "DOI": "10.1063/1.101263",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Kiyokazu",
+        "family": "Nakagawa"
+      },
+      {
+        "given": "Aart",
+        "family": "A. van Gorkum"
+      },
+      {
+        "given": "Yasuhiro",
+        "family": "Shiraki"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Constructing oxide interfaces and heterostructures by atomic layer-by-layer laser molecular beam epitaxy",
+    "DOI": "10.1038/s41535-017-0015-x",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Qingyu",
+        "family": "Lei"
+      },
+      {
+        "given": "Maryam",
+        "family": "Golalikhani"
+      },
+      {
+        "given": "Bruce",
+        "family": "A. Davidson"
+      },
+      {
+        "given": "Guozhen",
+        "family": "Liu"
+      },
+      {
+        "given": "Darrell",
+        "family": "G. Schlom"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Self-assembling nanostructures and atomic layer precise etching in molecular beam epitaxy",
+    "DOI": "10.1016/s0167-2738(00)00622-6",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "K.",
+        "family": "Eberl"
+      },
+      {
+        "given": "M.K.",
+        "family": "Zundel"
+      },
+      {
+        "given": "H.",
+        "family": "Schuler"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Hydrogen-Assisted GaAs Molecular Beam Epitaxy",
+    "DOI": "10.1143/jjap.34.238",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yoshitaka",
+        "family": "Okada"
+      },
+      {
+        "given": "Takeyoshi",
+        "family": "Sugaya"
+      },
+      {
+        "given": "Shigeru",
+        "family": "Ohta"
+      },
+      {
+        "given": "Tomoya",
+        "family": "Fujita"
+      },
+      {
+        "given": "Mitsuo",
+        "family": "Kawabe Mitsuo Kawabe"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Growth of ZnS/ZnTe and ZnSe/ZnTe superlattices by molecular beam epitaxy and atomic layer epitaxy",
+    "DOI": "10.1016/0039-6028(86)90469-3",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "T.",
+        "family": "Takeda"
+      },
+      {
+        "given": "T.",
+        "family": "Kurosu"
+      },
+      {
+        "given": "M.",
+        "family": "Lida"
+      },
+      {
+        "given": "T.",
+        "family": "Yao"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Growth of ZnS/ZnTe and ZnSe/ZnTe superlattices by molecular beam epitaxy and atomic layer epitaxy",
+    "DOI": "10.1016/0167-2584(86)90096-4",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "T.",
+        "family": "Takeda"
+      },
+      {
+        "given": "T.",
+        "family": "Kurosu"
+      },
+      {
+        "given": "M.",
+        "family": "Lida"
+      },
+      {
+        "given": "T.",
+        "family": "Yao"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "High-Temperature Superconducting Multilayers and Heterostructures Grown by Atomic Layer-By-Layer Molecular Beam Epitaxy",
+    "DOI": "10.1146/annurev.ms.25.080195.003335",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J",
+        "family": "N Eckstein"
+      },
+      {
+        "given": "I",
+        "family": "Bozovic"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Laser-assisted atomic layer epitaxy of GaP in chemical beam epitaxy",
+    "DOI": "10.1016/0040-6090(93)90128-c",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Masahiro",
+        "family": "Yoshimoto"
+      },
+      {
+        "given": "Atsushi",
+        "family": "Kajimoto"
+      },
+      {
+        "given": "Hiroyuki",
+        "family": "Matsunami"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy and molecular beam epitaxy of CdTe/MnTe superlattices: A structural and optical study",
+    "DOI": "10.1063/1.368648",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J.",
+        "family": "M. Hartmann"
+      },
+      {
+        "given": "F.",
+        "family": "Kany"
+      },
+      {
+        "given": "M.",
+        "family": "Charleux"
+      },
+      {
+        "given": "Y.",
+        "family": "Samson"
+      },
+      {
+        "given": "J.",
+        "family": "L. Rouvière"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Two-dimensional superconductivity in the cuprates revealed by atomic-layer-by-layer molecular beam epitaxy",
+    "DOI": "10.1088/0953-2048/29/10/103001",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A",
+        "family": "T Bollinger"
+      },
+      {
+        "given": "I",
+        "family": "Božović"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic and Molecular Beams Control in Molecular Beam Epitaxy",
+    "DOI": "10.17587/nmst.23.47-56",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "N.A.",
+        "family": "Kulchitsky"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Low temperature growth of highly doped GaAs:Si by atomic layer molecular beam epitaxy",
+    "DOI": "10.1063/1.112299",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J.",
+        "family": "P. Silveira"
+      },
+      {
+        "given": "F.",
+        "family": "Briones"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Preparation by molecular beam epitaxy and atomic layer molecular beam epitaxy and characterization of InAs layers 1 monolayer thick in GaAs-based structures",
+    "DOI": "10.1016/0921-5107(94)90043-4",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "C.",
+        "family": "Ferrari"
+      },
+      {
+        "given": "C.",
+        "family": "Bocchi"
+      },
+      {
+        "given": "A.",
+        "family": "Bosacchi"
+      },
+      {
+        "given": "S.",
+        "family": "Franchi"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Use of atomic layer epitaxy buffer for the growth of InSb on GaAs by molecular beam epitaxy",
+    "DOI": "10.1063/1.347608",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "P.",
+        "family": "E. Thompson"
+      },
+      {
+        "given": "J.",
+        "family": "L. Davis"
+      },
+      {
+        "given": "J.",
+        "family": "Waterman"
+      },
+      {
+        "given": "R.",
+        "family": "J. Wagner"
+      },
+      {
+        "given": "D.",
+        "family": "Gammon"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer by atomic layer growth of BiSrCaCu oxide superconducting thin films by molecular beam epitaxy",
+    "DOI": "10.1016/0921-4534(91)91131-m",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "S.",
+        "family": "Sakai"
+      },
+      {
+        "given": "Y.",
+        "family": "Kasai"
+      },
+      {
+        "given": "H.",
+        "family": "Tanoue"
+      },
+      {
+        "given": "H.",
+        "family": "Matsuhata"
+      },
+      {
+        "given": "P.",
+        "family": "Bodin"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy",
+    "DOI": "10.1063/1.337344",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Colin",
+        "family": "H. L. Goodman"
+      },
+      {
+        "given": "Markus",
+        "family": "V. Pessa"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy",
+    "DOI": "10.1016/s0920-2307(89)80010-6",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Tuomo",
+        "family": "Suntola"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Layer Epitaxy",
+    "DOI": "10.1007/978-94-009-0389-0",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    }
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer epitaxy",
+    "DOI": "10.1016/s0920-2307(89)80006-4",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Tuomo",
+        "family": "Suntola"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic layer and unit-cell layer growth of superconducting thin films by laser molecular beam epitaxy",
+    "DOI": "10.1016/0040-6090(92)90864-8",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Tomoji",
+        "family": "Kawai"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic Layer Epitaxy",
+    "DOI": "10.1146/annurev.ms.15.080185.001141",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Tuomo",
+        "family": "Suntola"
+      },
+      {
+        "given": "Jaakko",
+        "family": "Hyvarinen"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Atomic-scale modeling of InxGa1−xN quantum dot self-assembly",
+    "DOI": "10.1116/1.3579462",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zhenli",
+        "family": "Zhang"
+      },
+      {
+        "given": "Alok",
+        "family": "Chatterjee"
+      },
+      {
+        "given": "Christoph",
+        "family": "Grein"
+      },
+      {
+        "given": "Anthony",
+        "family": "J. Ciani"
+      },
+      {
+        "given": "Peter",
+        "family": "W. Chung"
+      }
+    ]
+  },
+  {
+    "type": "article-journal",
+    "title": "Stepwise self-assembly of C60 mediated by atomic scale moiré magnifiers",
+    "DOI": "10.1038/ncomms2706",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "D.V.",
+        "family": "Gruznev"
+      },
+      {
+        "given": "A.V.",
+        "family": "Matetskiy"
+      },
+      {
+        "given": "L.V.",
+        "family": "Bondarenko"
+      },
+      {
+        "given": "O.A.",
+        "family": "Utas"
+      },
+      {
+        "given": "A.V.",
+        "family": "Zotov"
+      }
+    ]
+  }
+]
