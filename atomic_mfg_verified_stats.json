@@ -1,0 +1,2455 @@
+{
+  "total": 145,
+  "verified": 145,
+  "failed": 0,
+  "verification_date": "2026-06-08 09:21",
+  "papers": [
+    {
+      "doi": "10.1088/2631-7990/ab0dfc",
+      "title": "Towards atomic and close-to-atomic scale manufacturing",
+      "year": 2019,
+      "journal": "International Journal of Extreme Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 12.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Fengzhou Fang",
+        "Nan Zhang",
+        "Dongming Guo",
+        "Kornel Ehmann",
+        "Benny Cheung",
+        "Kui Liu",
+        "Kazuya Yamamura"
+      ],
+      "crossref_url": "https://doi.org/10.1088/2631-7990/ab0dfc"
+    },
+    {
+      "doi": "10.1007/s11465-016-0402-1",
+      "title": "Atomic and close-to-atomic scale manufacturing—A trend in manufacturing development",
+      "year": 2016,
+      "journal": "Frontiers of Mechanical Engineering",
+      "article_type": "journal",
+      "impact_factor": 8.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Fengzhou Fang"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s11465-016-0402-1"
+    },
+    {
+      "doi": "10.1007/s40436-023-00442-4",
+      "title": "Proposition of atomic and close-to-atomic scale manufacturing",
+      "year": 2024,
+      "journal": "Advances in Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 10.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ju-Fan Zhang",
+        "Jens Ducree"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s40436-023-00442-4"
+    },
+    {
+      "doi": "10.1007/978-3-031-54034-9_9",
+      "title": "Atomic and Close-to-Atomic Scale Manufacturing: The Fundamental Technology of Manufacturing III",
+      "year": 2024,
+      "journal": "Lecture Notes in Mechanical Engineering",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Fengzhou Fang",
+        "Xichun Luo",
+        "Gaoliang Dai",
+        "Yasuhiro Takaya",
+        "Wei Gao",
+        "Kornel Ehmann"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-031-54034-9_9"
+    },
+    {
+      "doi": "10.1088/2631-7990/aba495",
+      "title": "Atomic and close-to-atomic scale manufacturing: perspectives and measures",
+      "year": 2020,
+      "journal": "International Journal of Extreme Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 12.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Fengzhou Fang"
+      ],
+      "crossref_url": "https://doi.org/10.1088/2631-7990/aba495"
+    },
+    {
+      "doi": "10.1109/icac57885.2023.10275165",
+      "title": "Atomic and Close-to-Atomic Scale Manufacturing: Status and Challenges",
+      "year": 2023,
+      "journal": "2023 28th International Conference on Automation and Computing (ICAC)",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Hifza Hafeez",
+        "Wenkun Xie",
+        "Xichun Luo"
+      ],
+      "crossref_url": "https://doi.org/10.1109/icac57885.2023.10275165"
+    },
+    {
+      "doi": "10.1088/2631-7990/ac3bb2",
+      "title": "Fundamentals of atomic and close-to-atomic scale manufacturing: a review",
+      "year": 2022,
+      "journal": "International Journal of Extreme Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 12.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Jian Gao",
+        "Xichun Luo",
+        "Fengzhou Fang",
+        "Jining Sun"
+      ],
+      "crossref_url": "https://doi.org/10.1088/2631-7990/ac3bb2"
+    },
+    {
+      "doi": "10.1088/2631-7990/ac5e13",
+      "title": "Intermolecular and surface forces in atomic-scale manufacturing",
+      "year": 2022,
+      "journal": "International Journal of Extreme Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 12.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xin Hou",
+        "Jingyang Li",
+        "Yuanzhe Li",
+        "Yu Tian"
+      ],
+      "crossref_url": "https://doi.org/10.1088/2631-7990/ac5e13"
+    },
+    {
+      "doi": "10.1016/j.ijmachtools.2024.104173",
+      "title": "Area selective deposition for bottom-up atomic-scale manufacturing",
+      "year": 2024,
+      "journal": "International Journal of Machine Tools and Manufacture",
+      "article_type": "journal",
+      "impact_factor": 8.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rong Chen",
+        "Eryan Gu",
+        "Kun Cao",
+        "Jingming Zhang"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.ijmachtools.2024.104173"
+    },
+    {
+      "doi": "10.1088/1361-6528/ace262",
+      "title": "Opportunities and challenges for DNA in atomic and close-to-atomic scale manufacturing",
+      "year": 2023,
+      "journal": "Nanotechnology",
+      "article_type": "journal",
+      "impact_factor": 3.7,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhuang Cai",
+        "Bei Yang",
+        "Rui Gao",
+        "Huajie Liu"
+      ],
+      "crossref_url": "https://doi.org/10.1088/1361-6528/ace262"
+    },
+    {
+      "doi": "10.1007/s41871-020-00067-2",
+      "title": "Atomic and Close-to-Atomic Scale Manufacturing: A Review on Atomic Layer Removal Methods Using Atomic Force Microscopy",
+      "year": 2020,
+      "journal": "Nanomanufacturing and Metrology",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Paven Thomas Mathew",
+        "Brian J. Rodriguez",
+        "Fengzhou Fang"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s41871-020-00067-2"
+    },
+    {
+      "doi": "10.1007/s41871-020-00073-4",
+      "title": "Foreword to the Special Issue on Nanofabrication, Atomic and Close-to-atomic Scale Manufacturing",
+      "year": 2020,
+      "journal": "Nanomanufacturing and Metrology",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xichun Luo",
+        "Jiang Guo",
+        "Saeed Chavoshi"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s41871-020-00073-4"
+    },
+    {
+      "doi": "10.1038/s41699-024-00456-x",
+      "title": "Advance in additive manufacturing of 2D materials at the atomic and close-to-atomic scale",
+      "year": 2024,
+      "journal": "npj 2D Materials and Applications",
+      "article_type": "journal",
+      "impact_factor": 12.3,
+      "ns_category": "nature_subjournal",
+      "verified": true,
+      "authors": [
+        "Yixin Chen",
+        "Fengzhou Fang",
+        "Nan Zhang"
+      ],
+      "crossref_url": "https://doi.org/10.1038/s41699-024-00456-x"
+    },
+    {
+      "doi": "10.7498/aps.70.20201430",
+      "title": "Nucleic acid-metal complex and its application in atomic-scale manufacturing",
+      "year": 2021,
+      "journal": "Acta Physica Sinica",
+      "article_type": "journal",
+      "impact_factor": 3.2,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Sheng-Kai Li",
+        "Qing Hao",
+        "Tian-Huan Peng",
+        "Zhuo Chen",
+        "Wei-Hong Tan"
+      ],
+      "crossref_url": "https://doi.org/10.7498/aps.70.20201430"
+    },
+    {
+      "doi": "10.1007/s41871-022-00153-7",
+      "title": "Foreword to the Special Issue on Nanomanufacturing and Atomic &amp; Close-to-Atomic Scale Manufacturing (ACSM)",
+      "year": 2022,
+      "journal": "Nanomanufacturing and Metrology",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Nan Yu",
+        "Stuart Reid",
+        "Rebecca Cheung",
+        "Vasileios Koutsos"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s41871-022-00153-7"
+    },
+    {
+      "doi": "10.7498/aps.70.20201924",
+      "title": "Analysis of optical measurement precision limit for close-to-atomic scale manufacturing",
+      "year": 2021,
+      "journal": "Acta Physica Sinica",
+      "article_type": "journal",
+      "impact_factor": 3.2,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Hai-Yang Zhan",
+        "Fei Xing",
+        "Li Zhang"
+      ],
+      "crossref_url": "https://doi.org/10.7498/aps.70.20201924"
+    },
+    {
+      "doi": "10.1115/1.2021-mar3",
+      "title": "Atomic Scale",
+      "year": 2021,
+      "journal": "Mechanical Engineering",
+      "article_type": "journal",
+      "impact_factor": 2.8,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Michael Abrams"
+      ],
+      "crossref_url": "https://doi.org/10.1115/1.2021-mar3"
+    },
+    {
+      "doi": "10.1016/j.matdes.2024.113288",
+      "title": "Atomic-scale understanding of microstructural evolution in electrochemical additive manufacturing of metallic nickel",
+      "year": 2024,
+      "journal": "Materials &amp; Design",
+      "article_type": "journal",
+      "impact_factor": 9.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Honggang Zhang",
+        "Kai Chen",
+        "Chengwei Kang",
+        "Haibin Liu"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.matdes.2024.113288"
+    },
+    {
+      "doi": "10.1093/oso/9780198856559.003.0007",
+      "title": "Atomic-Scale Imaging",
+      "year": 2021,
+      "journal": "Introduction to Scanning Tunneling Microscopy",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "C. Julian Chen"
+      ],
+      "crossref_url": "https://doi.org/10.1093/oso/9780198856559.003.0007"
+    },
+    {
+      "doi": "10.1016/b978-0-12-409547-2.11003-0",
+      "title": "Atomic-Scale Friction",
+      "year": 2018,
+      "journal": "Encyclopedia of Interfacial Chemistry",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "F. Hausen",
+        "P. Egberts"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-12-409547-2.11003-0"
+    },
+    {
+      "doi": "10.1007/978-94-007-6892-5_30",
+      "title": "Atomic-Scale Spintronics",
+      "year": 2016,
+      "journal": "Handbook of Spintronics",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Jens Brede",
+        "Bruno Chilian",
+        "Alexander Ako Khajetoorians",
+        "Jens Wiebe",
+        "Roland Wiesendanger"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-94-007-6892-5_30"
+    },
+    {
+      "doi": "10.1360/tb-2023-0447",
+      "title": "Atomic manufacturing of advanced materials",
+      "year": 2023,
+      "journal": "Chinese Science Bulletin",
+      "article_type": "journal",
+      "impact_factor": 2.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhouyang Wang",
+        "Yiran Ding",
+        "Mengqi Zeng",
+        "Lei Fu"
+      ],
+      "crossref_url": "https://doi.org/10.1360/tb-2023-0447"
+    },
+    {
+      "doi": "10.1021/acsnano.3c10412",
+      "title": "Atomically Precise Manufacturing of Silicon Electronics",
+      "year": 2024,
+      "journal": "ACS Nano",
+      "article_type": "journal",
+      "impact_factor": 17.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Jason Pitters",
+        "Jeremiah Croshaw",
+        "Roshan Achal",
+        "Lucian Livadaru",
+        "Samuel Ng",
+        "Robert Lupoiu",
+        "Taras Chutora",
+        "Taleana Huff",
+        "Konrad Walus",
+        "Robert A. Wolkow"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsnano.3c10412"
+    },
+    {
+      "doi": "10.4018/ijt.2019070101",
+      "title": "Atomically Precise Manufacturing and Responsible Innovation",
+      "year": 2019,
+      "journal": "International Journal of Technoethics",
+      "article_type": "journal",
+      "impact_factor": 1.8,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Steven Umbrello"
+      ],
+      "crossref_url": "https://doi.org/10.4018/ijt.2019070101"
+    },
+    {
+      "doi": "10.2172/1855572",
+      "title": "Atomically Precise Manufacturing for 2D-Designed Materials",
+      "year": 2022,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "James Owen",
+        "Wiley Kirk",
+        "Richard Silver",
+        "Garnett Bryant",
+        "Jonathan Wyrick"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1855572"
+    },
+    {
+      "doi": "10.2172/1488736",
+      "title": "Novel Probes for Tip-Based Atomically Precise Manufacturing",
+      "year": 2018,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Scott Lockledge",
+        "Jinju Lee",
+        "Joseph Lyding"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1488736"
+    },
+    {
+      "doi": "10.1117/12.3011900",
+      "title": "Atomically precise advanced manufacturing for 2D bipolar devices",
+      "year": 2024,
+      "journal": "Novel Patterning Technologies 2024",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "James Owen",
+        "Robin Santini",
+        "Moutaz Haq",
+        "Ehud Fuchs",
+        "John Randall"
+      ],
+      "crossref_url": "https://doi.org/10.1117/12.3011900"
+    },
+    {
+      "doi": "10.1201/9781003119906",
+      "title": "Atomically Precise Nanoclusters",
+      "year": 2021,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1201/9781003119906"
+    },
+    {
+      "doi": "10.1021/jacs.0c05082",
+      "title": "Atomically Precise Nanocrystals",
+      "year": 2020,
+      "journal": "Journal of the American Chemical Society",
+      "article_type": "journal",
+      "impact_factor": 15.4,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zeger Hens",
+        "Jonathan De Roo"
+      ],
+      "crossref_url": "https://doi.org/10.1021/jacs.0c05082"
+    },
+    {
+      "doi": "10.1002/9781119788676",
+      "title": "Atomically Precise Nanochemistry",
+      "year": 2023,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1002/9781119788676"
+    },
+    {
+      "doi": "10.1016/j.futures.2018.04.007",
+      "title": "Evaluating future nanotechnology: The net societal impacts of atomically precise manufacturing",
+      "year": 2018,
+      "journal": "Futures",
+      "article_type": "journal",
+      "impact_factor": 7.7,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Steven Umbrello",
+        "Seth D. Baum"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.futures.2018.04.007"
+    },
+    {
+      "doi": "10.1002/chem.202003849",
+      "title": "Atomically Precise Alloy Nanoclusters",
+      "year": 2020,
+      "journal": "Chemistry – A European Journal",
+      "article_type": "journal",
+      "impact_factor": 6.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tokuhisa Kawawaki",
+        "Yukari Imai",
+        "Daiki Suzuki",
+        "Shun Kato",
+        "Ibuki Kobayashi",
+        "Taiyo Suzuki",
+        "Ryo Kaneko",
+        "Sakiat Hossain",
+        "Yuichi Negishi"
+      ],
+      "crossref_url": "https://doi.org/10.1002/chem.202003849"
+    },
+    {
+      "doi": "10.1007/978-3-031-02389-7",
+      "title": "Atomically Precise Metal Nanoclusters",
+      "year": 2021,
+      "journal": "Synthesis Lectures on Materials and Optics",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhikun Wu",
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-031-02389-7"
+    },
+    {
+      "doi": "10.1002/9781119788676.ch8",
+      "title": "Atomically Precise Copper Nanoclusters",
+      "year": 2023,
+      "journal": "Atomically Precise Nanochemistry",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Chunwei Dong",
+        "Saidkhodzha Nematulloev",
+        "Peng Yuan",
+        "Osman M. Bakr"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9781119788676.ch8"
+    },
+    {
+      "doi": "10.1038/s41563-023-01721-y",
+      "title": "Atomically precise photothermal nanomachines",
+      "year": 2024,
+      "journal": "Nature Materials",
+      "article_type": "journal",
+      "impact_factor": 68.2,
+      "ns_category": "nature_subjournal",
+      "verified": true,
+      "authors": [
+        "Jing Chen",
+        "Peilin Gu",
+        "Guangliu Ran",
+        "Yu Zhang",
+        "Mingqiang Li",
+        "Bin Chen",
+        "Hui Lu",
+        "Ying-Zi Han",
+        "Wenkai Zhang",
+        "Zichao Tang",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1038/s41563-023-01721-y"
+    },
+    {
+      "doi": "10.1002/chem.202001877",
+      "title": "Atomically Precise Alloy Nanoclusters",
+      "year": 2020,
+      "journal": "Chemistry – A European Journal",
+      "article_type": "journal",
+      "impact_factor": 6.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tokuhisa Kawawaki",
+        "Yukari Imai",
+        "Daiki Suzuki",
+        "Shun Kato",
+        "Ibuki Kobayashi",
+        "Taiyo Suzuki",
+        "Ryo Kaneko",
+        "Sakiat Hossain",
+        "Yuichi Negishi"
+      ],
+      "crossref_url": "https://doi.org/10.1002/chem.202001877"
+    },
+    {
+      "doi": "10.1002/9783527842094",
+      "title": "Atomically Precise Metal Clusters",
+      "year": 2024,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Shuang‐Quan Zang"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9783527842094"
+    },
+    {
+      "doi": "10.1016/c2020-0-03265-2",
+      "title": "Atomically Precise Metal Nanoclusters",
+      "year": 2023,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1016/c2020-0-03265-2"
+    },
+    {
+      "doi": "10.1002/chem.202086961",
+      "title": "Frontispiece: Atomically Precise Alloy Nanoclusters",
+      "year": 2020,
+      "journal": "Chemistry – A European Journal",
+      "article_type": "journal",
+      "impact_factor": 6.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tokuhisa Kawawaki",
+        "Yukari Imai",
+        "Daiki Suzuki",
+        "Shun Kato",
+        "Ibuki Kobayashi",
+        "Taiyo Suzuki",
+        "Ryo Kaneko",
+        "Sakiat Hossain",
+        "Yuichi Negishi"
+      ],
+      "crossref_url": "https://doi.org/10.1002/chem.202086961"
+    },
+    {
+      "doi": "10.1007/978-3-030-45823-2_2",
+      "title": "Atomically Precise Nanoclusters as Electrocatalysts",
+      "year": 2020,
+      "journal": "Molecular Catalysis",
+      "article_type": "journal",
+      "impact_factor": 3.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Site Li",
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-030-45823-2_2"
+    },
+    {
+      "doi": "10.1016/b978-0-323-90879-5.00013-5",
+      "title": "Synthesis of atomically precise clusters",
+      "year": 2023,
+      "journal": "Atomically Precise Metal Nanoclusters",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Amoghavarsha R. Kini",
+        "Thalappil Pradeep"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-323-90879-5.00013-5"
+    },
+    {
+      "doi": "10.1002/9781119788676.ch1",
+      "title": "Introduction to Atomically Precise Nanochemistry",
+      "year": 2023,
+      "journal": "Atomically Precise Nanochemistry",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9781119788676.ch1"
+    },
+    {
+      "doi": "10.1016/b978-0-323-90244-1.00013-6",
+      "title": "Atomically precise fluorescent metal nanoclusters",
+      "year": 2022,
+      "journal": "Sensing and Biosensing with Optically Active Nanomaterials",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Shilpa Bothra",
+        "Suban K. Sahoo"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-323-90244-1.00013-6"
+    },
+    {
+      "doi": "10.1021/acsmaterialslett.0c00262",
+      "title": "Cocrystallization of Atomically Precise Nanoclusters",
+      "year": 2020,
+      "journal": "ACS Materials Letters",
+      "article_type": "journal",
+      "impact_factor": 9.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xi Kang",
+        "Manzhou Zhu"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsmaterialslett.0c00262"
+    },
+    {
+      "doi": "10.1039/d0na00877j",
+      "title": "Atomically precise vanadium-oxide clusters",
+      "year": 2021,
+      "journal": "Nanoscale Advances",
+      "article_type": "journal",
+      "impact_factor": 5.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Sourav Chakraborty",
+        "Brittney E. Petel",
+        "Eric Schreiber",
+        "Ellen M. Matson"
+      ],
+      "crossref_url": "https://doi.org/10.1039/d0na00877j"
+    },
+    {
+      "doi": "10.1016/b978-0-323-90879-5.00016-0",
+      "title": "Atomically precise clusters: What next?",
+      "year": 2023,
+      "journal": "Atomically Precise Metal Nanoclusters",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Thalappil Pradeep"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-323-90879-5.00016-0"
+    },
+    {
+      "doi": "10.1016/j.mne.2018.11.001",
+      "title": "Digital atomic scale fabrication an inverse Moore's Law – A path to atomically precise manufacturing",
+      "year": 2018,
+      "journal": "Micro and Nano Engineering",
+      "article_type": "journal",
+      "impact_factor": 6.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "John N. Randall",
+        "James H.G. Owen",
+        "Ehud Fuchs",
+        "Joseph Lake",
+        "James R. Von Ehr",
+        "Josh Ballard",
+        "Erik Henriksen"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.mne.2018.11.001"
+    },
+    {
+      "doi": "10.1007/978-3-031-54622-8_4",
+      "title": "Electrocatalytic Properties of Atomically Precise Electrocatalysts",
+      "year": 2024,
+      "journal": "Atomically Precise Electrocatalysts for Electrochemical Energy Applications",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Kalaiarasi Senthurpandi",
+        "Kirupagaran Ramar",
+        "Karpagavinayagam Petchimuthu",
+        "Vedhi Chinnapaiyan"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-031-54622-8_4"
+    },
+    {
+      "doi": "10.1007/978-3-031-02389-7_3",
+      "title": "Characterization of Atomically Precise Metal Nanoclusters",
+      "year": 2021,
+      "journal": "Synthesis Lectures on Materials and Optics",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhikun Wu",
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-031-02389-7_3"
+    },
+    {
+      "doi": "10.2172/1902882",
+      "title": "A Platform Technology for High-throughput Atomically Precise Manufacturing: Mechatronics at the Atomic Scale",
+      "year": 2022,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "S. Moheimani"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1902882"
+    },
+    {
+      "doi": "10.2172/2310926",
+      "title": "A Platform Technology for High-throughput Atomically Precise Manufacturing: Mechatronics at the Atomic Scale",
+      "year": 2022,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "S. O. Reza Moheimani"
+      ],
+      "crossref_url": "https://doi.org/10.2172/2310926"
+    },
+    {
+      "doi": "10.1002/9781119788676.ch5",
+      "title": "Electrocatalysis on Atomically Precise Metal Nanoclusters",
+      "year": 2023,
+      "journal": "Atomically Precise Nanochemistry",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Hoeun Seong",
+        "Woojun Choi",
+        "Yongsung Jo",
+        "Dongil Lee"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9781119788676.ch5"
+    },
+    {
+      "doi": "10.1021/acsanm.0c01549",
+      "title": "Photodetection Using Atomically Precise Graphene Nanoribbons",
+      "year": 2020,
+      "journal": "ACS Applied Nano Materials",
+      "article_type": "journal",
+      "impact_factor": 7.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Seyed Khalil Alavi",
+        "Boris V. Senkovskiy",
+        "Dirk Hertel",
+        "Danny Haberer",
+        "Yoichi Ando",
+        "Klaus Meerholz",
+        "Felix R. Fischer",
+        "Alexander Grüneis",
+        "Klas Lindfors"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsanm.0c01549"
+    },
+    {
+      "doi": "10.1002/9781119788676.ch6",
+      "title": "Atomically Precise Metal Nanoclusters as Electrocatalysts",
+      "year": 2023,
+      "journal": "Atomically Precise Nanochemistry",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Fang Sun",
+        "Qing Tang",
+        "De‐en Jiang"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9781119788676.ch6"
+    },
+    {
+      "doi": "10.1038/s42004-023-00958-7",
+      "title": "Nanohybrids of atomically precise metal nanoclusters",
+      "year": 2023,
+      "journal": "Communications Chemistry",
+      "article_type": "journal",
+      "impact_factor": 7.9,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Koustav Sahoo",
+        "Tapu Raihan Gazi",
+        "Soumyadip Roy",
+        "Indranath Chakraborty"
+      ],
+      "crossref_url": "https://doi.org/10.1038/s42004-023-00958-7"
+    },
+    {
+      "doi": "10.1038/s41565-023-01495-z",
+      "title": "Atomically precise vacancy-assembled quantum antidots",
+      "year": 2023,
+      "journal": "Nature Nanotechnology",
+      "article_type": "journal",
+      "impact_factor": 46.2,
+      "ns_category": "nature_subjournal",
+      "verified": true,
+      "authors": [
+        "Hanyan Fang",
+        "Harshitra Mahalingam",
+        "Xinzhe Li",
+        "Xu Han",
+        "Zhizhan Qiu",
+        "Yixuan Han",
+        "Keian Noori",
+        "Dikshant Dulal",
+        "Hongfei Chen",
+        "Pin Lyu",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1038/s41565-023-01495-z"
+    },
+    {
+      "doi": "10.1039/c7ra08049b",
+      "title": "Aggregation of atomically precise graphene nanoribbons",
+      "year": 2017,
+      "journal": "RSC Advances",
+      "article_type": "journal",
+      "impact_factor": 4.2,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Mikhail Shekhirev",
+        "Timothy H. Vo",
+        "Donna A. Kunkel",
+        "Alexey Lipatov",
+        "Axel Enders",
+        "Alexander Sinitskii"
+      ],
+      "crossref_url": "https://doi.org/10.1039/c7ra08049b"
+    },
+    {
+      "doi": "10.1021/acscatal.2c00841",
+      "title": "Atomically Precise Metal Nanocluster-Mediated Photocatalysis",
+      "year": 2022,
+      "journal": "ACS Catalysis",
+      "article_type": "journal",
+      "impact_factor": 13.9,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Hao Liang",
+        "Bi-Jian Liu",
+        "Bo Tang",
+        "Shi-Cheng Zhu",
+        "Shen Li",
+        "Xing-Zu Ge",
+        "Jia-Le Li",
+        "Jun-Rong Zhu",
+        "Fang-Xing Xiao"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acscatal.2c00841"
+    },
+    {
+      "doi": "10.1007/978-3-031-02389-7_4",
+      "title": "Applications of Atomically Precise Metal Nanoclusters",
+      "year": 2021,
+      "journal": "Synthesis Lectures on Materials and Optics",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhikun Wu",
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-031-02389-7_4"
+    },
+    {
+      "doi": "10.1016/b978-0-12-801217-8.00008-6",
+      "title": "Catalysis by Atomically Precise Gold Nanoclusters",
+      "year": 2015,
+      "journal": "Catalysis by Materials with Well-Defined Structures",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Yuxiang Chen",
+        "Gao Li",
+        "Huifeng Qian",
+        "Rongchao Jin"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-12-801217-8.00008-6"
+    },
+    {
+      "doi": "10.1021/acs.accounts.8b00379",
+      "title": "Electrochemistry of Atomically Precise Metal Nanoclusters",
+      "year": 2019,
+      "journal": "Accounts of Chemical Research",
+      "article_type": "journal",
+      "impact_factor": 22.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Kyuju Kwak",
+        "Dongil Lee"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acs.accounts.8b00379"
+    },
+    {
+      "doi": "10.1039/d4qi01039f",
+      "title": "Atomically precise nanocluster-catalyzed coupling reactions",
+      "year": 2024,
+      "journal": "Inorganic Chemistry Frontiers",
+      "article_type": "journal",
+      "impact_factor": 6.7,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Jinhui Hu",
+        "Yi-Ming Li",
+        "Bei Zhang",
+        "Xi Kang",
+        "Manzhou Zhu"
+      ],
+      "crossref_url": "https://doi.org/10.1039/d4qi01039f"
+    },
+    {
+      "doi": "10.1016/b978-0-323-90879-5.00022-6",
+      "title": "Mass spectrometry of atomically precise clusters",
+      "year": 2023,
+      "journal": "Atomically Precise Metal Nanoclusters",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Papri Chakraborty",
+        "Thalappil Pradeep"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-323-90879-5.00022-6"
+    },
+    {
+      "doi": "10.1021/acs.chemmater.0c03979",
+      "title": "Structural Isomerism in Atomically Precise Nanoclusters",
+      "year": 2021,
+      "journal": "Chemistry of Materials",
+      "article_type": "journal",
+      "impact_factor": 10.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xi Kang",
+        "Manzhou Zhu"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acs.chemmater.0c03979"
+    },
+    {
+      "doi": "10.1117/12.2552083",
+      "title": "Atomically precise digital e-beam lithography",
+      "year": 2020,
+      "journal": "Novel Patterning Technologies for Semiconductors, MEMS/NEMS and MOEMS 2020",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "John N. Randall",
+        "James H. Owen",
+        "Ehud Fuchs",
+        "Rahul Saini",
+        "Robin Santini",
+        "S.O.R. Moheimani"
+      ],
+      "crossref_url": "https://doi.org/10.1117/12.2552083"
+    },
+    {
+      "doi": "10.3866/pku.whxb201803023",
+      "title": "Toward Atomically Precise Nanoclusters and Nanoparticles",
+      "year": 2018,
+      "journal": "Acta Physico-Chimica Sinica",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rongchao JIN"
+      ],
+      "crossref_url": "https://doi.org/10.3866/pku.whxb201803023"
+    },
+    {
+      "doi": "10.3390/books978-3-7258-4226-1",
+      "title": "Self-Assembly of Atomically Precise Nanoclusters",
+      "year": 2025,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.3390/books978-3-7258-4226-1"
+    },
+    {
+      "doi": "10.1021/acsami.2c05940",
+      "title": "Integrating Structural Colors with Additive Manufacturing Using Atomic Layer Deposition",
+      "year": 2022,
+      "journal": "ACS Applied Materials &amp; Interfaces",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Benjamin A. Rorem",
+        "Tae H. Cho",
+        "Nazanin Farjam",
+        "Julia D. Lenef",
+        "Kira Barton",
+        "Neil P. Dasgupta",
+        "L. Jay Guo"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsami.2c05940"
+    },
+    {
+      "doi": "10.1007/978-3-030-65261-6_3",
+      "title": "Thermal Laser-Assisted Manufacturing of Two-Dimensional Atomic Layer Heterostructures",
+      "year": 2021,
+      "journal": "The Minerals, Metals &amp; Materials Series",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Yingtao Wang",
+        "Xian Zhang"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-030-65261-6_3"
+    },
+    {
+      "doi": "10.1149/ma2017-02/25/1087",
+      "title": "(Invited) Research to Manufacturing: ALD Design for Precision Atomic Layer Fabrication",
+      "year": 2017,
+      "journal": "ECS Meeting Abstracts",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Adrien R. LaVoie",
+        "Purushottam Kumar"
+      ],
+      "crossref_url": "https://doi.org/10.1149/ma2017-02/25/1087"
+    },
+    {
+      "doi": "10.1149/ma2020-02231692mtgabs",
+      "title": "(Invited) High Throughput Atomic Layer Deposition Manufacturing Processes for Improved Batteries",
+      "year": 2020,
+      "journal": "ECS Meeting Abstracts",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Arrelaine A Dameron",
+        "Madison Martinez",
+        "Jaime Dumont",
+        "Meghan N. Herbert-Walters",
+        "Annette M. Valceschini",
+        "James Ragonesi",
+        "Barbara K. Hughes"
+      ],
+      "crossref_url": "https://doi.org/10.1149/ma2020-02231692mtgabs"
+    },
+    {
+      "doi": "10.1002/smtd.202270028",
+      "title": "Additive Manufacturing in Atomic Layer Processing Mode (Small Methods 5/2022)",
+      "year": 2022,
+      "journal": "Small Methods",
+      "article_type": "journal",
+      "impact_factor": 11.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ivan Kundrata",
+        "Maïssa K. S. Barr",
+        "Sarah Tymek",
+        "Dirk Döhler",
+        "Boris Hudec",
+        "Philipp Brüner",
+        "Gabriel Vanko",
+        "Marian Precner",
+        "Tadahiro Yokosawa",
+        "Erdmann Spiecker",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1002/smtd.202270028"
+    },
+    {
+      "doi": "10.2494/photopolymer.31.431",
+      "title": "Reactive Monolayers in Directed Additive Manufacturing - Area Selective Atomic Layer Deposition",
+      "year": 2018,
+      "journal": "Journal of Photopolymer Science and Technology",
+      "article_type": "journal",
+      "impact_factor": 4.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rudy J. Wojtecki",
+        "Anuja DeSilva",
+        "Noah Frederick Fine Nathel",
+        "Hosadurga Shobha",
+        "Noel Arellano",
+        "Alexander Friz",
+        "Greg Wallraff"
+      ],
+      "crossref_url": "https://doi.org/10.2494/photopolymer.31.431"
+    },
+    {
+      "doi": "10.1016/b978-0-12-818634-3.50068-0",
+      "title": "Scalable manufacturing of nanostructured materials by atomic layer deposition in fluidized bed reactors",
+      "year": 2019,
+      "journal": "Computer Aided Chemical Engineering",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1016/b978-0-12-818634-3.50068-0"
+    },
+    {
+      "doi": "10.1149/ma2016-03/2/241",
+      "title": "Low-Cost Manufacturing of Safe, Long-Life Battery Materials Using Atomic Layer Deposition",
+      "year": 2016,
+      "journal": "ECS Meeting Abstracts",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "David M King",
+        "James E Trevey",
+        "Paul R Lichty",
+        "Sung-Jin Cho",
+        "Kevin Dahlberg",
+        "Fabio Albano"
+      ],
+      "crossref_url": "https://doi.org/10.1149/ma2016-03/2/241"
+    },
+    {
+      "doi": "10.1002/9783527809080.cataz01270",
+      "title": "atomic layer epitaxy",
+      "year": 2020,
+      "journal": "Catalysis from A to Z",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1002/9783527809080.cataz01270"
+    },
+    {
+      "doi": "10.1007/978-94-007-6178-0_372-2",
+      "title": "Atomic Layer Deposition",
+      "year": 2015,
+      "journal": "Encyclopedia of Nanotechnology",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Charles L. Dezelah"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-94-007-6178-0_372-2"
+    },
+    {
+      "doi": "10.1016/b978-0-444-63304-0.00027-5",
+      "title": "Atomic Layer Deposition",
+      "year": 2015,
+      "journal": "Handbook of Crystal Growth",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "H.C.M. Knoops",
+        "S.E. Potts",
+        "A.A. Bol",
+        "W.M.M. Kessels"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-444-63304-0.00027-5"
+    },
+    {
+      "doi": "10.1002/0471238961.koe00059",
+      "title": "Atomic Layer Deposition",
+      "year": 2021,
+      "journal": "Kirk-Othmer Encyclopedia of Chemical Technology",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "J. Ruud van Ommen",
+        "Aristeidis Goulas",
+        "Riikka L. Puurunen"
+      ],
+      "crossref_url": "https://doi.org/10.1002/0471238961.koe00059"
+    },
+    {
+      "doi": "10.1002/9783527809080.cataz01269",
+      "title": "atomic layer deposition",
+      "year": 2020,
+      "journal": "Catalysis from A to Z",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "J. Assmann, M. Muhler"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9783527809080.cataz01269"
+    },
+    {
+      "doi": "10.1016/b978-0-12-812311-9.00011-6",
+      "title": "Atomic Layer Deposition",
+      "year": 2018,
+      "journal": "Handbook of Thin Film Deposition",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Triratna Muneshwar",
+        "Mengmeng Miao",
+        "Elham R. Borujeny",
+        "Ken Cadien"
+      ],
+      "crossref_url": "https://doi.org/10.1016/b978-0-12-812311-9.00011-6"
+    },
+    {
+      "doi": "10.1109/bald.2016.7886520",
+      "title": "Atomic layer deposition",
+      "year": 2016,
+      "journal": "2016 14th International Baltic Conference on Atomic Layer Deposition (BALD)",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1109/bald.2016.7886520"
+    },
+    {
+      "doi": "10.2172/1889038",
+      "title": "Atomic-precision advanced manufacturing for quantum computing.",
+      "year": 2021,
+      "journal": "Proposed for presentation at the Materials Science for Quantum Computing in ,",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ezra Bussmann"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1889038"
+    },
+    {
+      "doi": "10.2172/1862630",
+      "title": "Expanded toolkit for atomic precision advanced manufacturing.",
+      "year": 2021,
+      "journal": "Proposed for presentation at the ASD 2021 held April 6-8, 2021.",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1862630"
+    },
+    {
+      "doi": "10.31399/asm.edfa.2020-1.p004",
+      "title": "Atomic Precision Advanced Manufacturing for Digital Electronics",
+      "year": 2020,
+      "journal": "EDFA Technical Articles",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Daniel R. Ward",
+        "Scott W. Schmucker",
+        "Evan M. Anderson",
+        "Ezra Bussmann",
+        "Lisa Tracy",
+        "Tzu-Ming Lu",
+        "Leon N. Maurer",
+        "Andrew Baczewski",
+        "Deanna M. Campbell",
+        "Michael T. Marshall",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.31399/asm.edfa.2020-1.p004"
+    },
+    {
+      "doi": "10.1088/2631-7990/ac5f11",
+      "title": "Atomic precision manufacturing of carbon nanotube—a perspective",
+      "year": 2022,
+      "journal": "International Journal of Extreme Manufacturing",
+      "article_type": "journal",
+      "impact_factor": 12.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rong Xiang"
+      ],
+      "crossref_url": "https://doi.org/10.1088/2631-7990/ac5f11"
+    },
+    {
+      "doi": "10.1557/s43577-021-00139-8",
+      "title": "Atomic-precision advanced manufacturing for Si quantum computing",
+      "year": 2021,
+      "journal": "MRS Bulletin",
+      "article_type": "journal",
+      "impact_factor": 6.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ezra Bussmann",
+        "Robert E. Butera",
+        "James H. G. Owen",
+        "John N. Randall",
+        "Steven M. Rinaldi",
+        "Andrew D. Baczewski",
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.1557/s43577-021-00139-8"
+    },
+    {
+      "doi": "10.2172/2589694",
+      "title": "Atomic Precision Advanced Manufacturing (APAM) devices for quantum sensing",
+      "year": 2023,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Juan Mendez Granado",
+        "Denis Mamaluy"
+      ],
+      "crossref_url": "https://doi.org/10.2172/2589694"
+    },
+    {
+      "doi": "10.2172/2003702",
+      "title": "Atomic Precision Advanced Manufacturing for Ultraprecise 2D Bipolar Devices.",
+      "year": 2022,
+      "journal": "Proposed for presentation at the EIPBN Conference.",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "James Owen",
+        "Ehud Fuchs",
+        "Robin Santini",
+        "John Randall",
+        "Juan Mendez Granado",
+        "Xujiao Gao",
+        "Denis Mamaluy",
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.2172/2003702"
+    },
+    {
+      "doi": "10.2172/1877517",
+      "title": "Atomic Precision Advanced Manufacturing and Lessons for Area-Selective Deposition.",
+      "year": 2021,
+      "journal": "Proposed for presentation at the 21st International Conference on Atomic Layer Deposition held June 27-30, 2021 in Virtual,",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Scott Schmucker",
+        "Esther Frederick",
+        "Quinn Campbell",
+        "Jeffrey Ivie",
+        "Evan Anderson",
+        "Kevin Dwyer",
+        "Andrew Baczewski",
+        "George Wang",
+        "Robert Butera",
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.2172/1877517"
+    },
+    {
+      "doi": "10.1038/srep29964",
+      "title": "Atomic Step Formation on Sapphire Surface in Ultra-precision Manufacturing",
+      "year": 2016,
+      "journal": "Scientific Reports",
+      "article_type": "journal",
+      "impact_factor": 4.6,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Rongrong Wang",
+        "Dan Guo",
+        "Guoxin Xie",
+        "Guoshun Pan"
+      ],
+      "crossref_url": "https://doi.org/10.1038/srep29964"
+    },
+    {
+      "doi": "10.1063/5.0245242",
+      "title": "Exploring transport mechanisms in atomic precision advanced manufacturing enabled pn junctions",
+      "year": 2025,
+      "journal": "Journal of Applied Physics",
+      "article_type": "journal",
+      "impact_factor": 3.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Juan P. Mendez",
+        "Xujiao Gao",
+        "Jeffrey A. Ivie",
+        "James H. G. Owen",
+        "Wiley P. Kirk",
+        "John N. Randall",
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.1063/5.0245242"
+    },
+    {
+      "doi": "10.1117/1.jmm.20.1.014901",
+      "title": "Photothermal alternative to device fabrication using atomic precision advanced manufacturing techniques",
+      "year": 2021,
+      "journal": "Journal of Micro/Nanopatterning, Materials, and Metrology",
+      "article_type": "journal",
+      "impact_factor": 2.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Aaron M. Katzenmeyer",
+        "Sanja Dmitrovic",
+        "Andrew D. Baczewski",
+        "Quinn Campbell",
+        "Ezra Bussmann",
+        "Tzu-Ming Lu",
+        "Evan M. Anderson",
+        "Scott W. Schmucker",
+        "Jeffrey A. Ivie",
+        "Deanna M. Campbell",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1117/1.jmm.20.1.014901"
+    },
+    {
+      "doi": "10.23919/sispad49475.2020.9241642",
+      "title": "Modeling Assisted Room Temperature Operation of Atomic Precision Advanced Manufacturing Devices",
+      "year": 2020,
+      "journal": "2020 International Conference on Simulation of Semiconductor Processes and Devices (SISPAD)",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xujiao Gao",
+        "Lisa A. Tracy",
+        "Evan M. Anderson",
+        "DeAnna M. Campbell",
+        "Jeffrey A. Ivie",
+        "Tzu-Ming Lu",
+        "Denis Mamaluy",
+        "Scott W. Schmucker",
+        "Shashank Misra"
+      ],
+      "crossref_url": "https://doi.org/10.23919/sispad49475.2020.9241642"
+    },
+    {
+      "doi": "10.2172/1872185",
+      "title": "Path towards a vertical TFET enabled by atomic precision advanced manufacturing.",
+      "year": 2021,
+      "journal": "Proposed for presentation at the Silicon Nanoelectronics Workshop 2021 held June 13, 2021 in virtual.",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tzu-Ming Lu",
+        "Xujiao Gao",
+        "Evan Anderson",
+        "Juan Mendez Granado",
+        "DeAnna Campbell",
+        "Jeffrey Ivie",
+        "Scott Schmucker",
+        "Ping Lu",
+        "Lisa Tracy",
+        "Reza Arghavani",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.2172/1872185"
+    },
+    {
+      "doi": "10.1117/12.2551455",
+      "title": "Photothermal alternative to device fabrication using atomic precision advanced manufacturing techniques",
+      "year": 2020,
+      "journal": "Novel Patterning Technologies for Semiconductors, MEMS/NEMS and MOEMS 2020",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Aaron Katzenmeyer",
+        "Sanja Dmitrovic",
+        "Andrew Baczewski",
+        "Ezra Bussmann",
+        "Tzu-Ming Lu",
+        "Evan Anderson",
+        "Scott Schmucker",
+        "Jeff Ivie",
+        "DeAnna Campbell",
+        "Daniel Ward",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1117/12.2551455"
+    },
+    {
+      "doi": "10.1201/9781420036749-10",
+      "title": "Precision Manufacturing",
+      "year": 2017,
+      "journal": "The Mechanical Systems Design Handbook",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Thomas R. Kurfess"
+      ],
+      "crossref_url": "https://doi.org/10.1201/9781420036749-10"
+    },
+    {
+      "doi": "10.12968/s1467-5560(22)60474-3",
+      "title": "Precision Manufacturing",
+      "year": 2019,
+      "journal": "Electric and Hybrid Vehicle Technology International",
+      "article_type": "journal",
+      "impact_factor": 2.8,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.12968/s1467-5560(22)60474-3"
+    },
+    {
+      "doi": "10.2172/2006244",
+      "title": "Modeling and Design of Atomic Precision Advanced Manufacturing (APAM) Enabled Bipolar Devices.",
+      "year": 2022,
+      "journal": "Proposed for presentation at the Workshop on Innovative Nanoscale Devices and Systems (WINDS) 2022 held December 4-9, 2022 in Lihui, Hawaii.",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xujiao Gao",
+        "Juan Mendez Granado",
+        "Shashank Misra",
+        "John Randall",
+        "James Owen",
+        "Wiley Kirk"
+      ],
+      "crossref_url": "https://doi.org/10.2172/2006244"
+    },
+    {
+      "doi": "10.1063/5.0278639",
+      "title": "Direct integration of atomic precision advanced manufacturing into middle-of-line silicon fabrication",
+      "year": 2025,
+      "journal": "Applied Physics Reviews",
+      "article_type": "journal",
+      "impact_factor": 7.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "E. M. Anderson",
+        "C. R. Allemang",
+        "A. J. Leenheer",
+        "S. W. Schmucker",
+        "J. A. Ivie",
+        "D. M. Campbell",
+        "W. Lepkowski",
+        "X. Gao",
+        "P. Lu",
+        "C. Arose",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1063/5.0278639"
+    },
+    {
+      "doi": "10.3390/app15020915",
+      "title": "Smart Manufacturing Application in Precision Manufacturing",
+      "year": 2025,
+      "journal": "Applied Sciences",
+      "article_type": "journal",
+      "impact_factor": 2.9,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Amr T. Sufian",
+        "Badr M. Abdullah",
+        "Oliver J. Miller"
+      ],
+      "crossref_url": "https://doi.org/10.3390/app15020915"
+    },
+    {
+      "doi": "10.1007/s41871-020-00072-5",
+      "title": "Centre for Precision Manufacturing",
+      "year": 2020,
+      "journal": "Nanomanufacturing and Metrology",
+      "article_type": "journal",
+      "impact_factor": 4.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xichun Luo"
+      ],
+      "crossref_url": "https://doi.org/10.1007/s41871-020-00072-5"
+    },
+    {
+      "doi": "10.1007/978-3-319-68801-5",
+      "title": "Micro and Precision Manufacturing",
+      "year": 2018,
+      "journal": "Engineering Materials",
+      "article_type": "journal",
+      "impact_factor": 4.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1007/978-3-319-68801-5"
+    },
+    {
+      "doi": "10.1201/9780429436543",
+      "title": "Precision Metal Additive Manufacturing",
+      "year": 2020,
+      "journal": "",
+      "article_type": "unknown",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Richard Leach",
+        "Simone Carmignato"
+      ],
+      "crossref_url": "https://doi.org/10.1201/9780429436543"
+    },
+    {
+      "doi": "10.1016/s0015-1882(15)30180-4",
+      "title": "Manufacturing with clockwork precision",
+      "year": 2015,
+      "journal": "Filtration + Separation",
+      "article_type": "journal",
+      "impact_factor": 1.2,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1016/s0015-1882(15)30180-4"
+    },
+    {
+      "doi": "10.2172/1863854",
+      "title": "Atomic precision advanced manufacturing (APAM) of ultra-doped nanostructures for advanced CMOS devices and interconnects.",
+      "year": 2021,
+      "journal": "Proposed for presentation at the Virtual Spring MRS held April 17-23, 2021 in Virtual.",
+      "article_type": "conference_abstract",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "David Scrymgeour",
+        "Esther Frederick",
+        "Connor Halsey",
+        "DeAnna Campbell",
+        "Evan Anderson",
+        "Scott Schmucker",
+        "Jeffrey Ivie",
+        "Xujiao Gao",
+        "Tzu-Ming Lu",
+        "Lisa Tracy",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.2172/1863854"
+    },
+    {
+      "doi": "10.1017/s1431927618001289",
+      "title": "Towards Atomic-Scale Fabrication in Silicon",
+      "year": 2018,
+      "journal": "Microscopy and Microanalysis",
+      "article_type": "journal",
+      "impact_factor": 4.6,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Bethany M. Hudak",
+        "Stephen Jesse",
+        "Jiaming Song",
+        "Albina Borisevich",
+        "Paul C. Snijders",
+        "Sergei V. Kalinin",
+        "Andrew R. Lupini"
+      ],
+      "crossref_url": "https://doi.org/10.1017/s1431927618001289"
+    },
+    {
+      "doi": "10.1088/1361-6528/aad7ab",
+      "title": "CMOS platform for atomic-scale device fabrication",
+      "year": 2018,
+      "journal": "Nanotechnology",
+      "article_type": "journal",
+      "impact_factor": 3.7,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tomáš Škereň",
+        "Nikola Pascher",
+        "Arnaud Garnier",
+        "Patrick Reynaud",
+        "Emmanuel Rolland",
+        "Aurélie Thuaire",
+        "Daniel Widmer",
+        "Xavier Jehl",
+        "Andreas Fuhrer"
+      ],
+      "crossref_url": "https://doi.org/10.1088/1361-6528/aad7ab"
+    },
+    {
+      "doi": "10.14233/ajchem.2015.18808",
+      "title": "Electrochemical Fabrication of Iron Quantum Wire with Atomic-Scale",
+      "year": 2015,
+      "journal": "Asian Journal of Chemistry",
+      "article_type": "journal",
+      "impact_factor": 1.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Jun-Hua Liu",
+        "Pei Zheng",
+        "Qing-Yun Zhang",
+        "Xiaodong Dong"
+      ],
+      "crossref_url": "https://doi.org/10.14233/ajchem.2015.18808"
+    },
+    {
+      "doi": "10.1017/s1431927619005439",
+      "title": "Towards Atomic Scale Quantum Structure Fabrication in 2D Materials",
+      "year": 2019,
+      "journal": "Microscopy and Microanalysis",
+      "article_type": "journal",
+      "impact_factor": 4.6,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ondrej Dyck",
+        "Andrew Lupini",
+        "Maxim Ziatdinov",
+        "Xin Li",
+        "Sergei V. Kalinin",
+        "Stephen Jesse"
+      ],
+      "crossref_url": "https://doi.org/10.1017/s1431927619005439"
+    },
+    {
+      "doi": "10.1088/0957-4484/26/10/105707",
+      "title": "Fabrication of electron beam deposited tip for atomic-scale atomic force microscopy in liquid",
+      "year": 2015,
+      "journal": "Nanotechnology",
+      "article_type": "journal",
+      "impact_factor": 3.7,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "K Miyazawa",
+        "H Izumi",
+        "T Watanabe-Nakayama",
+        "H Asakawa",
+        "T Fukuma"
+      ],
+      "crossref_url": "https://doi.org/10.1088/0957-4484/26/10/105707"
+    },
+    {
+      "doi": "10.3788/col201917.040202",
+      "title": "Micro-fabrication process of vapor cells for chip-scale atomic clocks",
+      "year": 2019,
+      "journal": "Chinese Optics Letters",
+      "article_type": "journal",
+      "impact_factor": 3.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Yanjun Zhang Yanjun Zhang",
+        "Yunchao Li Yunchao Li",
+        "Xuwen Hu Xuwen Hu",
+        "Lu Zhang Lu Zhang",
+        "Zhaojun Liu Zhaojun Liu",
+        "Kaifang Zhang Kaifang Zhang",
+        "Shihao Mou Shihao Mou",
+        "Shougang Zhang Shougang Zhang",
+        "Shubin Yan Shubin Yan"
+      ],
+      "crossref_url": "https://doi.org/10.3788/col201917.040202"
+    },
+    {
+      "doi": "10.1109/icept.2015.7236734",
+      "title": "Fabrication of wafer-level micro silicon heaters for chip scale atomic magnetometers",
+      "year": 2015,
+      "journal": "2015 16th International Conference on Electronic Packaging Technology (ICEPT)",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Lei Wu",
+        "Qi Gan",
+        "Yu Ji",
+        "Jintang Shang"
+      ],
+      "crossref_url": "https://doi.org/10.1109/icept.2015.7236734"
+    },
+    {
+      "doi": "10.1103/physrevb.100.180405",
+      "title": "Quantum state manipulation of single atom magnets using the hyperfine interaction",
+      "year": 2019,
+      "journal": "Physical Review B",
+      "article_type": "journal",
+      "impact_factor": 3.6,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Patrick Robert Forrester",
+        "François Patthey",
+        "Edgar Fernandes",
+        "Dante Phillipe Sblendorio",
+        "Harald Brune",
+        "Fabian Donat Natterer"
+      ],
+      "crossref_url": "https://doi.org/10.1103/physrevb.100.180405"
+    },
+    {
+      "doi": "10.1002/smll.201801771",
+      "title": "Building Structures Atom by Atom via Electron Beam Manipulation",
+      "year": 2018,
+      "journal": "Small",
+      "article_type": "journal",
+      "impact_factor": 13.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ondrej Dyck",
+        "Songkil Kim",
+        "Elisa Jimenez‐Izal",
+        "Anastassia N. Alexandrova",
+        "Sergei V. Kalinin",
+        "Stephen Jesse"
+      ],
+      "crossref_url": "https://doi.org/10.1002/smll.201801771"
+    },
+    {
+      "doi": "10.1039/c9cc07440f",
+      "title": "Tuning rotation axes of single molecular rotors by a combination of single-atom manipulation and single-molecule chemistry",
+      "year": 2020,
+      "journal": "Chemical Communications",
+      "article_type": "journal",
+      "impact_factor": 6.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Tianhao Wu",
+        "Liwei Liu",
+        "Yajie Zhang",
+        "Yifan Wang",
+        "Ziyong Shen",
+        "Na Li",
+        "Richard Berndt",
+        "Shimin Hou",
+        "Yongfeng Wang"
+      ],
+      "crossref_url": "https://doi.org/10.1039/c9cc07440f"
+    },
+    {
+      "doi": "10.1002/smll.201805310",
+      "title": "Building Structures Atom by Atom via Electron Beam Manipulation",
+      "year": 2019,
+      "journal": "Small",
+      "article_type": "journal",
+      "impact_factor": 13.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ondrej Dyck",
+        "Songkil Kim",
+        "Elisa Jimenez‐Izal",
+        "Anastassia N. Alexandrova",
+        "Sergei V. Kalinin",
+        "Stephen Jesse"
+      ],
+      "crossref_url": "https://doi.org/10.1002/smll.201805310"
+    },
+    {
+      "doi": "10.1117/12.2268849",
+      "title": "Optical tweezer manipulation for atom tetris",
+      "year": 2017,
+      "journal": "SPIE Proceedings",
+      "article_type": "conference_proceedings",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Hyosub Kim",
+        "Woojun Lee",
+        "Jaewook Ahn"
+      ],
+      "crossref_url": "https://doi.org/10.1117/12.2268849"
+    },
+    {
+      "doi": "10.1103/physrevlett.123.066801",
+      "title": "Quantum Rings Engineered by Atom Manipulation",
+      "year": 2019,
+      "journal": "Physical Review Letters",
+      "article_type": "journal",
+      "impact_factor": 9.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Van Dong Pham",
+        "Kiyoshi Kanisawa",
+        "Stefan Fölsch"
+      ],
+      "crossref_url": "https://doi.org/10.1103/physrevlett.123.066801"
+    },
+    {
+      "doi": "10.1103/physrevb.92.155433",
+      "title": "Coherent manipulation of a single magnetic atom using polarized single electron transport in a double quantum dot",
+      "year": 2015,
+      "journal": "Physical Review B",
+      "article_type": "journal",
+      "impact_factor": 3.6,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Wenxi Lai",
+        "Wen Yang"
+      ],
+      "crossref_url": "https://doi.org/10.1103/physrevb.92.155433"
+    },
+    {
+      "doi": "10.1007/978-981-10-6156-1_97",
+      "title": "Scanning Tunneling Microscopy",
+      "year": 2018,
+      "journal": "Compendium of Surface and Interface Analysis",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Yukio Hasegawa"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-981-10-6156-1_97"
+    },
+    {
+      "doi": "10.1002/9781119244752.ch56",
+      "title": "SCANNING TUNNELING MICROSCOPY",
+      "year": 2016,
+      "journal": "Handbook of Measurement in Science and Engineering",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Kwok‐Wai Ng"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9781119244752.ch56"
+    },
+    {
+      "doi": "10.32388/xihkj5",
+      "title": "Scanning Tunneling Microscopy",
+      "year": 2020,
+      "journal": "Definitions",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.32388/xihkj5"
+    },
+    {
+      "doi": "10.1007/978-94-017-9780-1_45",
+      "title": "Scanning Tunneling Microscopy",
+      "year": 2016,
+      "journal": "Encyclopedia of Nanotechnology",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ada Della Pia",
+        "Giovanni Costantini"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-94-017-9780-1_45"
+    },
+    {
+      "doi": "10.1007/978-3-662-45240-0_20",
+      "title": "Scanning Tunneling Microscopy",
+      "year": 2015,
+      "journal": "NanoScience and Technology",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Bert Voigtländer"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-662-45240-0_20"
+    },
+    {
+      "doi": "10.1007/978-3-662-53120-4_300593",
+      "title": "Scanning Tunneling Microscopy",
+      "year": 2019,
+      "journal": "CIRP Encyclopedia of Production Engineering",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.1007/978-3-662-53120-4_300593"
+    },
+    {
+      "doi": "10.1002/9783527809080.cataz14741",
+      "title": "scanning tunneling microscopy",
+      "year": 2020,
+      "journal": "Catalysis from A to Z",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "R. Schlögl"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9783527809080.cataz14741"
+    },
+    {
+      "doi": "10.1109/tnano.2016.2558620",
+      "title": "Substrate Effect on Atomic Force Microscopy-Based Nanolithography of Graphene",
+      "year": 2016,
+      "journal": "IEEE Transactions on Nanotechnology",
+      "article_type": "journal",
+      "impact_factor": 5.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xin Tang",
+        "King Wai Chiu Lai"
+      ],
+      "crossref_url": "https://doi.org/10.1109/tnano.2016.2558620"
+    },
+    {
+      "doi": "10.1002/9783527699773.ch9",
+      "title": "Conductive Atomic Force Microscopy for Nanolithography Based on Local Anodic Oxidation",
+      "year": 2017,
+      "journal": "Conductive Atomic Force Microscopy",
+      "article_type": "journal",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Matteo Lorenzoni",
+        "Francesc Pérez‐Murano"
+      ],
+      "crossref_url": "https://doi.org/10.1002/9783527699773.ch9"
+    },
+    {
+      "doi": "10.1016/j.matdes.2021.109547",
+      "title": "Nanoscale manipulation of materials patterning through thermomechanical nanolithography using atomic force microscopy",
+      "year": 2021,
+      "journal": "Materials &amp; Design",
+      "article_type": "journal",
+      "impact_factor": 9.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Shunyu Chang",
+        "Yongda Yan",
+        "Bo Li",
+        "Yanquan Geng"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.matdes.2021.109547"
+    },
+    {
+      "doi": "10.1016/j.sna.2015.05.013",
+      "title": "Fabrication of single titanium oxide nanodot ultraviolet sensors by atomic force microscopy nanolithography",
+      "year": 2015,
+      "journal": "Sensors and Actuators A: Physical",
+      "article_type": "journal",
+      "impact_factor": 4.8,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Li-Yang Hong",
+        "Heh-Nan Lin"
+      ],
+      "crossref_url": "https://doi.org/10.1016/j.sna.2015.05.013"
+    },
+    {
+      "doi": "10.1201/b22104-19",
+      "title": "Atomic Force Microscopy",
+      "year": 2019,
+      "journal": "Quantitative Understanding of Biosystems",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Thomas M. Nordlund",
+        "Peter M. Hoffmann"
+      ],
+      "crossref_url": "https://doi.org/10.1201/b22104-19"
+    },
+    {
+      "doi": "10.4011/shikizai.93.321",
+      "title": "Atomic Force Microscopy",
+      "year": 2020,
+      "journal": "Journal of the Japan Society of Colour Material",
+      "article_type": "journal",
+      "impact_factor": 1.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Ken NAKAJIMA",
+        "Kei SEKINE",
+        "Kaede MOGI",
+        "Makiko ITO",
+        "Xiaobin LIANG"
+      ],
+      "crossref_url": "https://doi.org/10.4011/shikizai.93.321"
+    },
+    {
+      "doi": "10.32388/ancam9",
+      "title": "Atomic Force Microscopy",
+      "year": 2020,
+      "journal": "Definitions",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [],
+      "crossref_url": "https://doi.org/10.32388/ancam9"
+    },
+    {
+      "doi": "10.1007/978-3-030-13654-3",
+      "title": "Atomic Force Microscopy",
+      "year": 2019,
+      "journal": "NanoScience and Technology",
+      "article_type": "book_chapter",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Bert Voigtländer"
+      ],
+      "crossref_url": "https://doi.org/10.1007/978-3-030-13654-3"
+    },
+    {
+      "doi": "10.1063/5.0087223",
+      "title": "Synthesis of La2−xSrxCuO4 films via atomic layer-by-layer molecular beam epitaxy",
+      "year": 2022,
+      "journal": "APL Materials",
+      "article_type": "journal",
+      "impact_factor": null,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Xiaotao Xu",
+        "Xi He",
+        "Xiaoyan Shi",
+        "Ivan Božović"
+      ],
+      "crossref_url": "https://doi.org/10.1063/5.0087223"
+    },
+    {
+      "doi": "10.1038/s41535-017-0015-x",
+      "title": "Constructing oxide interfaces and heterostructures by atomic layer-by-layer laser molecular beam epitaxy",
+      "year": 2017,
+      "journal": "npj Quantum Materials",
+      "article_type": "journal",
+      "impact_factor": 9.5,
+      "ns_category": "nature_subjournal",
+      "verified": true,
+      "authors": [
+        "Qingyu Lei",
+        "Maryam Golalikhani",
+        "Bruce A. Davidson",
+        "Guozhen Liu",
+        "Darrell G. Schlom",
+        "Qiao Qiao",
+        "Yimei Zhu",
+        "Ravini U. Chandrasena",
+        "Weibing Yang",
+        "Alexander X. Gray",
+        "et al."
+      ],
+      "crossref_url": "https://doi.org/10.1038/s41535-017-0015-x"
+    },
+    {
+      "doi": "10.1088/0953-2048/29/10/103001",
+      "title": "Two-dimensional superconductivity in the cuprates revealed by atomic-layer-by-layer molecular beam epitaxy",
+      "year": 2016,
+      "journal": "Superconductor Science and Technology",
+      "article_type": "journal",
+      "impact_factor": 3.4,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "A T Bollinger",
+        "I Božović"
+      ],
+      "crossref_url": "https://doi.org/10.1088/0953-2048/29/10/103001"
+    },
+    {
+      "doi": "10.17587/nmst.23.47-56",
+      "title": "Atomic and Molecular Beams Control in Molecular Beam Epitaxy",
+      "year": 2021,
+      "journal": "Nano- i Mikrosistemnaya Tehnika",
+      "article_type": "journal",
+      "impact_factor": 1.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "N.A. Kulchitsky"
+      ],
+      "crossref_url": "https://doi.org/10.17587/nmst.23.47-56"
+    },
+    {
+      "doi": "10.1360/n972018-00404",
+      "title": "Physical insights on self-assembly at an atomic level",
+      "year": 2018,
+      "journal": "Chinese Science Bulletin",
+      "article_type": "journal",
+      "impact_factor": 2.5,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Zhigang Wang"
+      ],
+      "crossref_url": "https://doi.org/10.1360/n972018-00404"
+    },
+    {
+      "doi": "10.2174/2405465804666190313153806",
+      "title": "Large-Scale Self-Assembly in Weakly-Flocculated Suspensions",
+      "year": 2019,
+      "journal": "Current Smart Materials",
+      "article_type": "journal",
+      "impact_factor": 5.0,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Aleš Dakskobler",
+        "Matjaz Valant"
+      ],
+      "crossref_url": "https://doi.org/10.2174/2405465804666190313153806"
+    },
+    {
+      "doi": "10.1088/0256-307x/36/11/116401",
+      "title": "Magnetic Coupling Induced Self-Assembly at Atomic Level<sup>*</sup>",
+      "year": 2019,
+      "journal": "Chinese Physics Letters",
+      "article_type": "journal",
+      "impact_factor": 4.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Weiyu Xie",
+        "Yu Zhu",
+        "Jianpeng Wang",
+        "Aihua Cheng",
+        "Zhigang Wang"
+      ],
+      "crossref_url": "https://doi.org/10.1088/0256-307x/36/11/116401"
+    },
+    {
+      "doi": "10.1021/acsnano.7b05694",
+      "title": "Capping Ligand Vortices as “Atomic Orbitals” in Nanocrystal Self-Assembly",
+      "year": 2017,
+      "journal": "ACS Nano",
+      "article_type": "journal",
+      "impact_factor": 17.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Curt Waltmann",
+        "Nathan Horst",
+        "Alex Travesset"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsnano.7b05694"
+    },
+    {
+      "doi": "10.1021/acsnano.0c04974",
+      "title": "Metastable Atomic Layer Deposition: 3D Self-Assembly toward Ultradark Materials",
+      "year": 2020,
+      "journal": "ACS Nano",
+      "article_type": "journal",
+      "impact_factor": 17.1,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Mario Ziegler",
+        "André Dathe",
+        "Kilian Pollok",
+        "Falko Langenhorst",
+        "Uwe Hübner",
+        "Dong Wang",
+        "Peter Schaaf"
+      ],
+      "crossref_url": "https://doi.org/10.1021/acsnano.0c04974"
+    },
+    {
+      "doi": "10.1002/chem.201603678",
+      "title": "Effect of Atomic‐Scale Differences on the Self‐Assembly of Thiophene‐based Polycatenars in Liquid Crystalline and Organogel States",
+      "year": 2016,
+      "journal": "Chemistry – A European Journal",
+      "article_type": "journal",
+      "impact_factor": 6.3,
+      "ns_category": "other",
+      "verified": true,
+      "authors": [
+        "Balaram Pradhan",
+        "V. M. Vaisakh",
+        "Geetha G. Nair",
+        "D. S. Shankar Rao",
+        "S. Krishna Prasad",
+        "Achalkumar Ammathnadu Sudhakar"
+      ],
+      "crossref_url": "https://doi.org/10.1002/chem.201603678"
+    }
+  ]
+}
