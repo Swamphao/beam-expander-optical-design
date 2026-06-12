@@ -1,0 +1,5467 @@
+================================================================================
+微纳激光直写与微球超分辨（原子级制造）文献蒸馏报告
+================================================================================
+
+文献总数：110 篇
+
+目录
+----------------------------------------
+  一、原子级制造基础理论 (77 篇)
+  二、扫描隧道显微镜(STM)原子操纵 (7 篇)
+  三、分子自组装与底向上合成 (6 篇)
+  四、原子层沉积(ALD)技术 (4 篇)
+  五、二维材料原子级制造 (2 篇)
+  六、纳米团簇与量子点合成 (3 篇)
+  七、光刻与纳米图案化技术 (3 篇)
+  八、激光直写与微纳加工 (1 篇)
+  九、AI/ML 辅助原子级制造 (4 篇)
+  十、原子精度掺杂与半导体制造 (3 篇)
+
+================================================================================
+
+
+================================================================================
+一、原子级制造基础理论
+================================================================================
+
+[论文 1]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Two-dimensional superconductivity in the cuprates revealed by atomic-layer-by-layer molecular beam epitaxy
+
+### Publication Year
+2016
+
+### DOI
+10.1088/0953-2048/29/10/103001
+
+### Journal
+Superconductor Science and Technology
+
+### Ten Keywords
+high-temperature superconductivity; two-dimensional superconductivity; cuprates; molecular beam epitaxy; atomic-layer-by-layer; superlattices; interface superconductivity; superconductor-insulator transition; thin films
+
+### Authors
+A T Bollinger, I Božović
+
+### Contact Author
+I Božović (bozovic@bnl.gov)
+
+### Affiliations
+1. Condensed Matter Physics and Materials Science Division, Brookhaven National Laboratory, Upton NY 11973, USA
+2. Applied Physics Department, Yale University, New Haven CT 06520, USA
+
+### Abstract
+Various electronic phases displayed by cuprates that exhibit high temperature superconductivity continue to attract much interest. We provide a short review of several experiments that we have performed aimed at investigating the superconducting state in these compounds. Measurements on single-phase films, bilayers, and superlattices all point to the conclusion that the high-temperature superconductivity (HTS) in these materials is an essentially quasi-two dimensional phenomenon. With proper control over the film growth, HTS can exist in a single copper oxide plane with the critical temperatures as high as that achieved in the bulk samples.
+
+### Objective
+利用原子层分子束外延（ALL-MBE）技术研究铜氧化物高温超导体的超导态本质维度特性，系统验证高温超导是否为准二维现象。通过单层膜、双层膜和超晶格的结构化生长，精确控制铜氧化层的数量和间距，探究超导态的维度依赖性。
+
+### Novelty
+通过 ALL-MBE 技术实现原子级精度的铜氧化物薄膜生长，系统性地证明了高温超导本质上是一个准二维现象。关键发现：即使超导层被非超导层分隔高达 60Å，临界温度 Tc 仍不下降，明确证明超导态局域于单个铜氧平面内。
+
+### Method
+使用自制 ALL-MBE 系统在超高真空条件下生长铜氧化物薄膜，生长速率约每分钟一个单原子层，沉积精度达百分之一原子单层。实时 RHEED 监控、臭氧氧化和原子吸收光谱监测分子束流量。生长单组分膜、S-S'-S 超晶格和 S-I-S 超晶格，随后进行退火优化氧含量，通过四探针电阻和磁化率测量超导转变温度。
+
+### Performance Metrics
+Bi2Sr2CuO6（2201）薄膜 Tc≈15K，Bi2Sr2CaCu2O8（2212）薄膜 Tc≈85K。超晶格测试中，即使 2212 超导层被 2201 非超导层分隔达 60Å（5:1 超晶格），Tc 仍保持在 85K 不变。LSCO/LCO S-I-S 超晶格中，仅 1 个晶胞厚度的 LSCO 层仍保持 Tc≈30K 的超导性。薄膜表面粗糙度达 1-2Å 原子级平整。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 2]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+by detecting variations in the current between a conducting tip and the reactive elements
+
+### Publication Year
+2020
+
+### DOI
+Not available
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+National Cancer Institute; National Cancer Institute. Scanning Tunneling Microscopy. NCI Thesaurus. Code
+
+### Abstract
+Not available
+
+### Objective
+本条目旨在定义扫描隧道显微镜（STM）技术，阐明其作为一种原子级成像技术的核心原理。目标是提供STM技术的简明概念描述，帮助读者理解其基本工作机制。
+
+### Novelty
+本文是Qeios开放同行评审平台上的一个定义条目，将STM技术收录为权威的科学术语。其新颖性在于以开放、可访问的方式提供标准化的技术定义，促进科学知识的共享和传播。
+
+### Method
+STM通过在导电探针尖端与样品表面之间的隧道电流变化来实现原子级成像。探针与样品表面保持极近距离时，量子隧穿效应产生的电流对表面形貌极其敏感，从而能够重建表面的原子结构图像。
+
+### Performance Metrics
+STM技术能够实现原子级的空间分辨率，可以分辨单个原子和表面缺陷。隧道电流通常在纳安（nA）量级，对表面高度的灵敏度可达皮米（pm）级别。该技术广泛应用于表面科学、材料科学和纳米技术研究领域。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 3]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+synthesis, print methods, and atomic layer-aligned stacking. The applications of atomic-scale additive
+
+### Publication Year
+2024
+
+### DOI
+10.1038/s41699-024-00456-x
+
+### Journal
+npj | 2D
+
+### Ten Keywords
+Not available
+
+### Authors
+Yixin Chen1, Fengzhou Fang
+
+### Contact Author
+nan.zhang@ucd.ie
+
+### Affiliations
+1Centre of Micro/Nano Manufacturing Technology (MNMT-Dublin), School of Mechanical & Materials Engineering, University College Dublin, Dublin 4, Ireland.; 2State Key Laboratory of Precision Measuring Technology and Instruments, Laboratory of Micro/Nano Manufacturing Technology (MNMT), Tianjin University,
+
+### Abstract
+Not available
+
+### Objective
+本文旨在综述二维材料在原子和近原子尺度上的增材制造技术进展。目标是探索能够实现二维材料位置选择性和层数精确控制的多种原子级增材制造工艺，推动其在电子、生物传感和纳米机电系统中的应用。
+
+### Novelty
+本文是首篇系统综述二维材料原子级增材制造（ACSM）的文献，将传统减材制造与原子级增材制造进行对比分析。文章创新性地梳理了位点选择性CVD、区域选择性ALD、电沉积、激光辅助合成、印刷方法和原子层堆叠等多种技术路线，并提出了实现原子级增材制造的两大核心条件：平面位置控制与层数分辨率。
+
+### Method
+综述了六大类原子级增材制造方法：（1）位点选择性CVD，包括种子法和基底预处理法；（2）区域选择性ALD，利用等离子体增强在低温下实现选择性沉积；（3）电沉积法；（4）激光辅助合成；（5）印刷方法；（6）原子层对准堆叠。每种方法均从原理、实验方案和应用案例三个方面进行了系统分析。
+
+### Performance Metrics
+CVD方法可在单晶Cu基板上生长4英寸石墨烯单晶晶圆（1000°C），MOCVD方法可在200 mm晶圆上制备单层MoS2。位点选择性方法的空间分辨率可达微米至亚微米级别（如2 μm宽度的MoS2图案）。ALD工艺可在低于350°C的低温下工作，相比传统CVD的800°C以上具有明显优势。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 4]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Dongdong Gu*, Xinyu Shi, Reinhart Poprawe, David L. Bourell, Rossitza Setchi, Jihong Zhu
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+additive manufacturing
+
+### Ten Keywords
+Not available
+
+### Authors
+Dongdong Gu*, Xinyu Shi, Reinhart Poprawe, David L. Bourell, Rossitza Setchi, Jihong Zhu
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+本文旨在提出材料-结构-性能一体化增材制造（MSPI-AM）的宏观概念，为激光金属增材制造面临的科学和技术挑战提供系统性解决方案。目标是通过并行设计多材料布局、创新结构和相应打印工艺，主动实现高性能和多功能性。
+
+### Novelty
+本文创新性地提出了"将正确材料打印在正确位置"和"为独特功能打印独特结构"两大方法论理念。与传统的"设计-制造-验证"串行模式不同，MSPI-AM强调材料、结构、工艺和性能四个核心要素的并行集成，从纳米/微米尺度的微观结构到宏观尺度的构件性能实现跨尺度协调。
+
+### Method
+MSPI-AM涵盖三大层次：（1）纳米/微米尺度的材料开发，包括纳米复合材料、原位复合材料和梯度材料的设计与打印；（2）介观尺度的工艺监控，涉及激光与打印物质相互作用的实时监测；（3）宏观尺度的结构控制和性能验证，包括一体化拓扑优化结构、仿生结构和多级细胞结构的设计。
+
+### Performance Metrics
+MSPI-AM实现了从单材料打印到多材料/多功能设计和制造的跨越。激光定向能量沉积（LDED）的沉积层厚度通常不超过1 mm，建造速度可达约11.5 cm³/min。激光粉末床熔合（LPBF）的粉末层厚度通常低于100 μm，最大建造体积边长可达800 mm以上。该技术已成功应用于航空、航天、汽车制造和能源生产等高端工业领域。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 5]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+State Key Laboratory of Intelligent Manufacturing Equipment and Technology, School of Mechanical Science and Engineering, Huazhong University of Science and
+
+### Publication Year
+2024
+
+### DOI
+10.1016/j.ijmachtools.2024.104173
+
+### Journal
+Journal of Machine Tools
+
+### Ten Keywords
+Not available
+
+### Authors
+International Journal of Machine Tools & Manufacture 199 (2024) 104173
+
+### Contact Author
+Not identified
+
+### Affiliations
+State Key Laboratory of Intelligent Manufacturing Equipment and Technology, School of Mechanical Science and Engineering, Huazhong University of Science and
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+先进制造工艺的创新是该工作的核心贡献。论文发表于Journal of Machine Tools (2024)，International Journal of Machine Tools & Manufacture 199 (2024) 104173。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2024年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 6]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+19. W. L. Darnell, W. F. Staylor, S. K. Gupta, F. M. Denn,
+
+### Publication Year
+2039
+
+### DOI
+Not available
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2039)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2039年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 7]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+possess several distinct features that are of particular interest to catalysis. First, metallic
+
+### Publication Year
+2015
+
+### DOI
+10.1016/B978-0-12-801217-8.00008-6
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Yuxiang Chen, Gao Li, Huifeng Qian, Rongchao Jin*
+
+### Contact Author
+rongchao@andrew.cmu.edu
+
+### Affiliations
+Department of Chemistry, Carnegie Mellon University, Pittsburgh, PA, USA; gold nanoparticles (2–100 nm) adopt a face-centered cubic (FCC) structure, but; centers in chemical reactions [7].
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 8]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Tianhao Wu,a Liwei Liu,b Yajie Zhang,a Yifan Wang,a Ziyong Shen,a Na Li,
+
+### Publication Year
+2019
+
+### DOI
+10.1039/c9cc07440f
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Tianhao Wu,a Liwei Liu,b Yajie Zhang,a Yifan Wang,a Ziyong Shen,a Na Li,
+
+### Contact Author
+smhou@pku.edu.cn
+
+### Affiliations
+at positions from the center to the periphery of the molecule.; rotation, and also which functional group (e.g. an oﬀ-center; an oﬀ-center rotation axis,5 double and triple-decker molecules19
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2019)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 9]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+meric resists inevitably entail the use of various chemical solutions or solvents,
+
+### Publication Year
+2025
+
+### DOI
+10.1038/s41467-026-68593-z
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+Cheng Zeng1,2, Yongshan Xu2, Xinqi Wei2, Jianing Liang2,3, Zongdong Sun2,
+
+### Contact Author
+zhaity@hust.edu.cn
+
+### Affiliations
+1Key Laboratory of Flexible Optoelectronic Materials and Technology (Ministry of Education), School of Optoelectronic Materials & Technology, Jianghan; University, Wuhan, China. 2State Key Laboratory of Materials Processing and Die and Mould Technology, School of Materials Science and Engineering,; Huazhong University of Science and Technology, Wuhan, China. 3Yangtze Laboratory, Wuhan, China.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2025)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2025年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 10]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+acknowledges that the United States Government retains a non-exclusive, paid-up, irrevocable, world-wide license to
+
+### Publication Year
+2022
+
+### DOI
+10.1063/5.0087223
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+USDOE Office of Science (SC), Basic Energy Sciences (BES) (SC-22)
+
+### Contact Author
+Not identified
+
+### Affiliations
+U.S. Department of Energy; Brookhaven National Laboratory; Condensed Matter Physics and Materials Science Department
+
+### Abstract
+Atomic layer-by-layer molecular beam epitaxy (ALL-MBE) is a sophisticated technique to synthesize high-temperature superconductor (HTS) materials. ALL-MBE produces single-crystal HTS films with atomically smooth surfaces and interfaces, as well as precise multilayer heterostructures engineered down to a single atomic layer level. This enables the fabrication of tunnel junctions, nanowires, nanorings, and other HTS devices of interest. Our group has been focused on ALL-MBE synthesis and materials science of La2-xSrxCuO4 (LSCO), a representative HTS cuprate. In the past two decades, we have synthesized over three thousand LSCO thin films and characterized them by a range of analytical techniques. Here, we present in full detail a systematic process for the synthesis and engineering of atomically perfect LSCO films. The procedure includes the preparation of substrates, calibration of the elemental sources, the recipe for ALL growth of LSCO films without any secondary-phase precipitates, post-growth annealing of the films, and ex-situ film characterization. This report should aid replication and dissemination of this This is the author’s peer reviewed, accepted manuscript. However, the
+
+### Objective
+研究acknowledges that the United States Government ret。基于摘要内容：Atomic layer-by-layer molecular beam epitaxy (ALL-MBE) is a sophisticated technique to synthesize high-temperature superconductor (HTS) materials. ALL-MBE produces single-crystal HTS films with atomic...
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 11]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+conventional precoat filtration system. The plant had a huge
+
+### Publication Year
+2015
+
+### DOI
+Not available
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Swiss Jura, about an hour from Berne
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 12]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Long-range, high-precision absolute distance measurement technology based on alternately oscillating optoelectronic oscillator
+
+### Publication Year
+2021
+
+### DOI
+10.7498/aps.70.20201924
+
+### Journal
+物理学报
+
+### Ten Keywords
+Not available
+
+### Authors
+引用信息 Citation: Acta Physica Sinica, 70, 060703 (2021)    DOI: 10.7498/aps.70.20201924
+
+### Contact Author
+xingfei@mail.tsinghua.edu.cn
+
+### Affiliations
+laboratory, JPL) 先后使用激光静态和动态干涉
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于物理学报 (2021)，引用信息 Citation: Acta Physica Sinica, 70, 060703 (2021)    DOI: 10.7498/aps.70.20201924。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2021年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 13]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Ondrej Dyck,* Songkil Kim, Elisa Jimenez-Izal, Anastassia N. Alexandrova, Sergei V. Kalinin,
+
+### Publication Year
+2018
+
+### DOI
+10.1002/smll.201801771
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+© 2018 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+### Contact Author
+ondrej.dyck@gmail.com
+
+### Affiliations
+The Center for Nanophase Materials Sciences; Oak Ridge National Laboratory; The Institute for Functional Imaging of Materials
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 14]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Invited for the cover of this issue is the group of Yuichi Negishi at Tokyo University of Science. The image depicts the alloy
+
+### Publication Year
+2020
+
+### DOI
+10.1002/chem.202001877.
+
+### Journal
+Nanotechnology
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Invited for the cover of this issue is the group of Yuichi Negishi at Tokyo University of Science. The image depicts the alloy
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nanotechnology (2020)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 15]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+relations to make great strides in developing new technologies. Nevertheless, effects such as fatigue failure, poor service lifetimes and
+
+### Publication Year
+2018
+
+### DOI
+Not available
+
+### Journal
+Phys. Rev. Lett
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+F Hausen, Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, IEK-9, Jülich, Germany; and RWTH Aachen; University, Department of Chemistry, Aachen, Germany; P Egberts, Department of Mechanical and Manufacturing Engineering, University of Calgary, Calgary, AB, Canada
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Phys. Rev. Lett (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 16]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+a controllable surface structure for the optimization of activity, selectivity, or both. We
+
+### Publication Year
+2015
+
+### DOI
+Not available
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Lei Zhang,1,2 Luke T. Roling,3 Xue Wang,1,2 Madeline Vara,4 Miaofang Chi,5
+
+### Contact Author
+Not identified
+
+### Affiliations
+1Wallace H. Coulter Department of Biomedical Engineering,; Georgia Institute of Technology and Emory University,; Atlanta, GA 30332, USA. 2State Key Laboratory of Physical
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 17]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+transitions. We also show that the absorbance spectra of GNRs evolve with aggregation time, which is
+
+### Publication Year
+2017
+
+### DOI
+10.1039/c7ra08049b
+
+### Journal
+carbon
+
+### Ten Keywords
+Not available
+
+### Authors
+Mikhail Shekhirev,
+
+### Contact Author
+sinitskii@unl.edu
+
+### Affiliations
+aDepartment of Chemistry, University of Nebraska – Lincoln, Lincoln, NE 68588, USA.; bDepartment of Physics and Astronomy, University of Nebraska – Lincoln, Lincoln, NE; cNebraska Center for Materials and Nanoscience, University of Nebraska – Lincoln,
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于carbon (2017)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2017年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 18]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Tokuhisa Kawawaki,[a, b, c] Yukari Imai,[a] Daiki Suzuki,[a] Shun Kato,[a] Ibuki Kobayashi,[a]
+
+### Publication Year
+2020
+
+### DOI
+10.1002/chem.202001877
+
+### Journal
+chem.
+
+### Ten Keywords
+Not available
+
+### Authors
+Tokuhisa Kawawaki,[a, b, c] Yukari Imai,[a] Daiki Suzuki,[a] Shun Kato,[a] Ibuki Kobayashi,[a]
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于chem. (2020)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 19]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Department of Chemistry, Carnegie Mellon University, Pittsburgh, PA15213, USA.
+
+### Publication Year
+2018
+
+### DOI
+10.3866/PKU.WHXB201803023
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Acta Phys. -Chim. Sin. 2018, 34 (7), 737–739
+
+### Contact Author
+rongchao@andrew.cmu.edu
+
+### Affiliations
+Department of Chemistry, Carnegie Mellon University, Pittsburgh, PA15213, USA.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 20]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+17. A. M. Berman, J. S. Johnson, J. Am. Chem. Soc. 126, 5680–5681 (2004).
+
+### Publication Year
+2010
+
+### DOI
+Not available
+
+### Journal
+Nature 456
+
+### Ten Keywords
+Not available
+
+### Authors
+E. J. Corey, L. Kürti, Enantioselective Chemical Synthesis:
+
+### Contact Author
+Not identified
+
+### Affiliations
+tetrasubstituted stereogenic centers. We antici-; and the University of Pittsburgh (P.L.) for financial support.; Centre accession number 1470340 contains the supplementary
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nature 456 (2010)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2010年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 21]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+scientists and researchers to devote significant efforts toward
+
+### Publication Year
+2024
+
+### DOI
+10.1007/s40436-023-00442-4
+
+### Journal
+Nature 2023
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+© Shanghai University and Periodicals Agency of Shanghai University and Springer-Verlag GmbH Germany, part of Springer Nature 2023; School of Mechanical and Materials Engineering, University; College Dublin, Dublin 4, Ireland
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nature 2023 (2024)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2024年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 22]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Joseph J. Richardson, Mattias Björnmalm, Frank Caruso*
+
+### Publication Year
+2015
+
+### DOI
+10.1126/science.aaa2491
+
+### Journal
+SCIENCE
+
+### Ten Keywords
+Not available
+
+### Authors
+Joseph J. Richardson, Mattias Björnmalm, Frank Caruso*
+
+### Contact Author
+fcaruso@unimelb.edu.au
+
+### Affiliations
+Australian Research Council (ARC) Centre of Excellence in; Department of Chemical and Biomolecular Engineering, The; University of Melbourne, Parkville, Victoria 3010, Australia.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于SCIENCE (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 23]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+when exposed to high magnetic ﬁelds and temperatures up to 35 K. Here we address the stability of Ho at small
+
+### Publication Year
+2019
+
+### DOI
+10.1103/PhysRevB.100.180405
+
+### Journal
+PHYSICAL REVIEW B
+
+### Ten Keywords
+Not available
+
+### Authors
+,1,2,* François Patthey,1 Edgar Fernandes,1 Dante Phillipe Sblendorio
+
+### Contact Author
+Not identified
+
+### Affiliations
+1Institute of Physics, École Polytechnique Fédérale de Lausanne, Station 3, CH-1015 Lausanne, Switzerland; 2Department of Physics, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland; *Present address: Department of Physics, Harvard University, Cam-
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于PHYSICAL REVIEW B (2019)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 24]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2001
+
+### DOI
+10.1126/science.1063187
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Self-Assembly and Mineralization of Peptide-Amphiphile Nanofibers
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2001)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2001年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 25]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+extensively in the study of ligand protected atomically precise NCs.8–10 These ligand-protected
+
+### Publication Year
+2023
+
+### DOI
+10.1016/B978-0-323-90879-5.00022-6
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Papri Chakrabortya and Thalappil Pradeepb
+
+### Contact Author
+Not identified
+
+### Affiliations
+Department of Chemistry, Indian Institute of Technology Madras, Chennai, India; bDeepak Parekh Institute Chair Professor and Professor of Chemistry, Department of; Chemistry, Indian Institute of Technology Madras, Chennai, India
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于science (2023)，Papri Chakrabortya and Thalappil Pradeepb。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 26]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Manufacturing I, craft-based manufacturing by hand, as in the Stone, Bronze, and
+
+### Publication Year
+2020
+
+### DOI
+10.1088/2631-7990/aba495
+
+### Journal
+Journal of Extreme Manufacturing
+
+### Ten Keywords
+atomic and close-to-atomic scale, ACSM, manufacturing III, development trend
+
+### Authors
+Xin Hou, Jingyang Li, Yuanzhe Li et al.
+
+### Contact Author
+fzfang@tju.edu.cn
+
+### Affiliations
+and simple division of labor was formed. This was the first development phase of
+
+### Abstract
+This article presents the three paradigms of manufacturing advancement: Manufacturing I, craft-based manufacturing by hand, as in the Stone, Bronze, and Iron Ages, in which manufacturing precision was at the millimeter scale; Manufacturing II, precision-controllable manufacturing using machinery whereby the scales of material removal, migration, and addition were reduced from millimeters to micrometers and even nanometers; and Manufacturing III, manufacturing objectives and processes are directly focused on atoms, spanning the macro through the micro- to the nanoscale, whereby manufacturing is based on removal, migration, and addition at the atomic scale, namely, atomic and close-to-atomic scale manufacturing (ACSM). A typical characteristic of ACSM is that energy directly impacts the atom to be removed, migrated, and added. ACSM, as the next generation of manufacturing technology, will be employed to build atomic-scale features for required functions and performance with the capacity of mass production. It will be the leading development trend in manufacturing technology and will play a significant role in the manufacture of high-end components and future products.
+
+### Objective
+研究Manufacturing I, craft-based manufacturing by hand。基于摘要内容：This article presents the three paradigms of manufacturing advancement: Manufacturing I, craft-based manufacturing by hand, as in the Stone, Bronze, and Iron Ages, in which manufacturing precision was...
+
+### Novelty
+先进制造工艺的创新是该工作的核心贡献。论文发表于Journal of Extreme Manufacturing (2020)，Xin Hou, Jingyang Li, Yuanzhe Li et al.。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 27]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2009
+
+### DOI
+10.1126/science.1174251
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Folding DNA into Twisted and Curved Nanoscale Shapes
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2009)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2009年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 28]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Microelectronics Institute of Barcelona (IMB-CNM, CSIC), NEMS & Nanofabrication group, Campus de la
+
+### Publication Year
+2017
+
+### DOI
+Not available
+
+### Journal
+carbon
+
+### Ten Keywords
+Not available
+
+### Authors
+Matteo Lorenzoni and Francesc Pérez-Murano
+
+### Contact Author
+Not identified
+
+### Affiliations
+Microelectronics Institute of Barcelona (IMB-CNM, CSIC), NEMS & Nanofabrication group, Campus de la
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于carbon (2017)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2017年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 29]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+most important topics for the development of this material. In this perspective, the
+
+### Publication Year
+2022
+
+### DOI
+10.1088/2631-7990/ac5f11
+
+### Journal
+Journal of Extreme Manufacturing
+
+### Ten Keywords
+atomic precision manufacturing, carbon nanotube, nanomaterial
+
+### Authors
+Nanotubes for Commercial Logic and RF
+
+### Contact Author
+xiangrong@zju.edu.cn
+
+### Affiliations
+1 State Key Laboratory of Fluid; School of Mechanical Engineering,; Zhejiang University, Hangzhou
+
+### Abstract
+Carbon nanotube (CNT), particularly single-walled CNT, possesses exceptional properties, and can be utilized in many high-end applications including high-performance electronics. However, the atomic arrangement of a CNT determines its band structure, making the atomic-precision fabrication one of most important topics for the development of this material. In this perspective, the author gives a personal summary on the history, current status of the atomic-precision fabrication of CNT and outlines the remaining challenges as well as the possible paths that may lead the production of atomically precise CNTs from ‘fabrication’ to ‘manufacturing’.
+
+### Objective
+研究most important topics for the development of this 。基于摘要内容：Carbon nanotube (CNT), particularly single-walled CNT, possesses exceptional properties, and can be utilized in many high-end applications including high-performance electronics. However, the atomic a...
+
+### Novelty
+创新点待进一步确认。论文发表于Journal of Extreme Manufacturing (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 30]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+an atomic precision light approach, focusing on exact thickness or facet control, exist and offer can inspire scientists to explore
+
+### Publication Year
+2020
+
+### DOI
+10.1021/jacs.0c05082
+
+### Journal
+Journal of the American
+
+### Ten Keywords
+Not available
+
+### Authors
+is published by the American Chemical Society. 1155 Sixteenth Street N.W.,
+
+### Contact Author
+Not identified
+
+### Affiliations
+†Physics and Chemistry of Nanostructures, Ghent University, 9000 Ghent, Belgium; ‡Center for Nano and Biophotonics, Ghent University, 9000 Ghent, Belgium; §Department of Chemistry, University of Basel, 4058 Basel, Switzerland
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于Journal of the American (2020)，is published by the American Chemical Society. 1155 Sixteenth Street N.W.,。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 31]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+1 School of Chemistry and Chemical Engineering, Chongqing Key Laboratory of Theoretical and Computational Chemistry, Chongqing
+
+### Publication Year
+2023
+
+### DOI
+10.1002/9781119788676.ch6
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Atomically Precise Nanochemistry, First Edition. Edited by Rongchao Jin and De-en Jiang.
+
+### Contact Author
+Not identified
+
+### Affiliations
+1 School of Chemistry and Chemical Engineering, Chongqing Key Laboratory of Theoretical and Computational Chemistry, Chongqing; University, Chongqing 401331, China; 2 Department of Chemical and Biomolecular Engineering, Vanderbilt University, Nashville, TN 37235, USA
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2023)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 32]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+self-oriented on patterned porous silicon and plain silicon substrates is reported.
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+Carbon
+
+### Ten Keywords
+Not available
+
+### Authors
+Carbon Nanotubes and Their
+
+### Contact Author
+Not identified
+
+### Affiliations
+then inserted into the center of a 2-inch quartz
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Carbon (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 33]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+a The State Key Laboratory of Robotics and Systems, Robotics Institute, Harbin Institute of Technology, Harbin, Heilongjiang 150080, PR China
+
+### Publication Year
+2020
+
+### DOI
+10.1016/j.matdes.2021.109547
+
+### Journal
+Not identified
+
+### Ten Keywords
+ Atomic force microscopy
+
+### Authors
+Shunyu Chang a,b, Yongda Yan a,b, Bo Li a,b, Yanquan Geng a,b,⁎
+
+### Contact Author
+Not identified
+
+### Affiliations
+a The State Key Laboratory of Robotics and Systems, Robotics Institute, Harbin Institute of Technology, Harbin, Heilongjiang 150080, PR China; b Center for Precision Engineering, Harbin Institute of Technology, Harbin, Heilongjiang 150001, PR China; ⁎ Corresponding author at: The State Key Laboratory of Robotics and Systems, Robotics
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2020)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 34]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+2NTT Basic Research Laboratories, NTT Corporation, 3-1 Morinosato Wakamiya, Atsugi, Kanagawa 243-0198, Japan
+
+### Publication Year
+2019
+
+### DOI
+10.1103/PhysRevLett.123.066801
+
+### Journal
+PHYSICAL REVIEW LETTERS
+
+### Ten Keywords
+Not available
+
+### Authors
+Van Dong Pham,1 Kiyoshi Kanisawa,2 and Stefan Fölsch1
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于PHYSICAL REVIEW LETTERS (2019)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 35]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Contents lists available at ScienceDirect
+
+### Publication Year
+2015
+
+### DOI
+Not available
+
+### Journal
+Science
+
+### Ten Keywords
+ Titanium
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 36]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2012
+
+### DOI
+10.1126/science.282.5391.1111
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Nanoengineering of Inorganic and Hybrid Hollow Spheres by
+
+### Contact Author
+Not identified
+
+### Affiliations
+19. R. F. Tylecote, in A History of Metallurgy (Institute of; 20. Two copper disks were recovered by the University of; Fund for supporting the laboratory analysis.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2012)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2012年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 37]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Kirkendall Effect, in which pores form because of the difference in diffusion rates
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Yadong Yin, Robert M. Rioux, Can K. Erdonmez, Steven Hughes,
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 38]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+technology researchers doubt that it is feasible (e.g., Smalley, 2001), but those who believe it is feasible anticipate a wide range of
+
+### Publication Year
+2001
+
+### DOI
+10.1016/j.futures.2018.04.007
+
+### Journal
+nanotechnology
+
+### Ten Keywords
+ Atomically precise manufacturing
+
+### Authors
+Steven Umbrello⁎, Seth D. Baum
+
+### Contact Author
+Not identified
+
+### Affiliations
+Global Catastrophic Risk Institute, PO Box 40364, Washington, DC 20016, USA; E-mail addresses: steve@ieet.org (S. Umbrello), seth@gcrinstitute.org (S.D. Baum).
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于nanotechnology (2001)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2001年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 39]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Centre for Precision Manufacturing, Department of Design, Manufacturing & Engineering Management
+
+### Publication Year
+2025
+
+### DOI
+Not available
+
+### Journal
+nature of
+
+### Ten Keywords
+Not available
+
+### Authors
+Atomic and Close-to-Atomic Scale Manufacturing:
+
+### Contact Author
+Not identified
+
+### Affiliations
+Centre for Precision Manufacturing, Department of Design, Manufacturing & Engineering Management; University of Strathclyde
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。先进制造工艺的创新是该工作的核心贡献。论文发表于nature of (2025)，Atomic and Close-to-Atomic Scale Manufacturing:。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2025年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 40]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2009
+
+### DOI
+10.1126/science.1171245
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Large-Area Synthesis of High-Quality and Uniform Graphene Films
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2009)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2009年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 41]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+3D-objects by the addition (or formation) of one patterned layer, of the overall object, onto
+
+### Publication Year
+2018
+
+### DOI
+Not available
+
+### Journal
+Additive manufacturing
+
+### Ten Keywords
+ Monolayers,
+
+### Authors
+Rudy J. Wojtecki1*, Anuja DeSilva2, Noah Frederick Fine Nathel1,
+
+### Contact Author
+Not identified
+
+### Affiliations
+1 IBM Almaden Research Center, 650 Harry Rd., San Jose, CA 95110, United States of America
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Additive manufacturing (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 42]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Philipp Brüner, Gabriel Vanko, Marian Precner, Tadahiro Yokosawa, Erdmann Spiecker,
+
+### Publication Year
+2022
+
+### DOI
+10.1002/smtd.202101546
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Ivan Kundrata, Maïssa K. S. Barr, Sarah Tymek, Dirk Döhler, Boris Hudec,
+
+### Contact Author
+julien.bachmann@fau.de
+
+### Affiliations
+Institute of Electrical Engineering; Friedrich-Alexander University of Erlangen-Nürnberg; Chair of Micro- and Nanostructure Research (IMN) and Center for
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 43]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+* Corresponding author, +86 13913869603, Email: jshang@seu.edu.cn.Shangjintang@hotmai1.com
+
+### Publication Year
+2015
+
+### DOI
+Not available
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Lei Wu, Qi Gan, Yu Ji, Jintang Shang'
+
+### Contact Author
+jshang@seu.edu.cn.Shangjintang
+
+### Affiliations
+Key Laboratory of MEMS of Ministry of Education, Southeast University; example, a) is the approach in a laboratory setting and difficult
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 44]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Accepted: 1 September 2022 / Published online: 21 September 2022
+
+### Publication Year
+2022
+
+### DOI
+10.1007/s41871-022-00153-7
+
+### Journal
+nature of
+
+### Ten Keywords
+Not available
+
+### Authors
+Foreword to the Special Issue on Nanomanufacturing and Atomic &
+
+### Contact Author
+Not identified
+
+### Affiliations
+Institute for Materials and Processes, The University; SUPA Department of Biomedical Engineering, The; University of Strathclyde, Glasgow G1 1QE, UK
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于nature of (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 45]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+bulk metal oxides. Given the structural and electronic similarities of POVs and extended vanadium oxide
+
+### Publication Year
+2021
+
+### DOI
+10.1039/d0na00877j
+
+### Journal
+nature of
+
+### Ten Keywords
+Not available
+
+### Authors
+Sourav Chakraborty,
+
+### Contact Author
+Not identified
+
+### Affiliations
+centres linked together through bridging oxygen atoms, with; University of Rochester, Department of Chemistry, Rochester, NY 14627, USA. E-mail:
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于nature of (2021)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2021年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 46]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+rials. In situ microscopy offers possibilities for obtaining the relevant atomic-
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+nature of
+
+### Ten Keywords
+Not available
+
+### Authors
+Poul L. Hansen,1* Jakob B. Wagner,1,2 Stig Helveg,1
+
+### Contact Author
+Not identified
+
+### Affiliations
+gby, Denmark. 2NBIfAFG, University of Copenhagen,
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。基于探针显微镜的原子尺度表征/操纵是该工作的技术核心。论文发表于nature of (Not identified)，Poul L. Hansen,1* Jakob B. Wagner,1,2 Stig Helveg,1。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 47]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+states of interfacing materials by modulating their separation at the atomic scale. These interlayers
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s41699-026-00664-7
+
+### Journal
+npj | 2D
+
+### Ten Keywords
+Not available
+
+### Authors
+Ju-Hyun Jung1 & Cheol-Joo Kim1,2
+
+### Contact Author
+kimcj@postech.ac.kr
+
+### Affiliations
+1Department of Chemical Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea. 2Center for Van der Waals Quantum; Solids, Institute for Basic Science (IBS), Pohang, Republic of Korea.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于npj | 2D (2026)，Ju-Hyun Jung1 & Cheol-Joo Kim1,2。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2026年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 48]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2003
+
+### DOI
+10.1126/science.1082387
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Meital Reches and Ehud Gazit
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2003)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2003年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 49]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The continuous miniaturization of electronic systems has driven manufacturing into the ultra-precision
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s44334-026-00074-z
+
+### Journal
+npj | advanced
+
+### Ten Keywords
+Not available
+
+### Authors
+Jaya Verma1, Nader Ameli1, Nirmal Kumar Katiyar
+
+### Contact Author
+goels@lsbu.ac.uk
+
+### Affiliations
+1School of Engineering and Design, London South Bank University, London, UK. 2School of Advanced Engineering, University of Petroleum and Energy Studies,; 5Department of Mechanical Engineering, Faculty of Engineering, King Abdulaziz University, Jeddah, Saudi Arabia. 6China Beacons of Excellence Research and; Innovation Institute, University of Nottingham Ningbo China (UNNC), Ningbo, China.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。先进制造工艺的创新是该工作的核心贡献。论文发表于npj | advanced (2026)，Jaya Verma1, Nader Ameli1, Nirmal Kumar Katiyar。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2026年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 50]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Business Contact:                     Kristanya Stangel; 972-883-4513;
+
+### Publication Year
+2022
+
+### DOI
+Not available
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+800 W. Campbell Road, AD15
+
+### Contact Author
+reports@osti.gov
+
+### Affiliations
+University of Texas at Dallas; National Institute of Standards and Technology (NIST); This material is based upon work supported by the U.S. Department of Energy’s Office of Energy
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 51]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+2 Department of Chemistry and Medical Chemistry, Yonsei University, Wonju, Gangwon 26493, Republic of Korea
+
+### Publication Year
+2023
+
+### DOI
+Not available
+
+### Journal
+carbon
+
+### Ten Keywords
+Not available
+
+### Authors
+Atomically Precise Nanochemistry, First Edition. Edited by Rongchao Jin and De-en Jiang.
+
+### Contact Author
+Not identified
+
+### Affiliations
+1 Department of Chemistry, Yonsei University, Seoul 03722, Republic of Korea; 2 Department of Chemistry and Medical Chemistry, Yonsei University, Wonju, Gangwon 26493, Republic of Korea
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于carbon (2023)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 52]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+the only known route to tailor silicon nanoelectronics with full 3D atomic precision, is making an impact
+
+### Publication Year
+2021
+
+### DOI
+10.1557/s43577-021-00139-8
+
+### Journal
+MRS BULLETIN
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Robert E. Butera, Laboratory for Physical Sciences, University of Maryland, USA; rbutera@lps.umd.edu
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于MRS BULLETIN (2021)，Not identified。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2021年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 53]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2001
+
+### DOI
+10.1126/science.291.5505.851
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Yi Cui and Charles M. Lieber
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2001)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2001年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 54]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+establish the applicability of semiclassical simulation, we first
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Electrical Models &
+
+### Contact Author
+Not identified
+
+### Affiliations
+This work is funded under Laboratory Directed Research and; multimission laboratory managed and operated by National Technology and; Honeywell Intemational, Inc., for the U.S. Department of Energy's National
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 55]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+effective digital technologies are not exclusively digital in their operation. Digital electronics is carried out by an-
+
+### Publication Year
+2018
+
+### DOI
+10.1016/j.mne.2018.11.001
+
+### Journal
+nature of
+
+### Ten Keywords
+Not available
+
+### Authors
+John N. Randalla,⁎, James H.G. Owena, Ehud Fuchsa, Joseph Lakea, James R. Von Ehra,
+
+### Contact Author
+Not identified
+
+### Affiliations
+b University of Indiana, United States; c Washington University in St. Louis, United States
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于nature of (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 56]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+patibility, facile synthesis techniques, large stokes shifts, and tunable ﬂuorescence intensity6,34–41.
+
+### Publication Year
+2023
+
+### DOI
+10.1038/s42004-023-00958-7
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+Koustav Sahoo1, Tapu Raihan Gazi
+
+### Contact Author
+indranath@iitkgp.ac.in
+
+### Affiliations
+1 School of Nano Science and Technology, Indian Institute of Technology Kharagpur, Kharagpur 721302, India. ✉email: indranath@iitkgp.ac.in
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2023)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 57]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+School of Civil Engineering and Built Environment, Faculty of Engineering and Technology, Liverpool John
+
+### Publication Year
+2024
+
+### DOI
+10.3390/app15020915
+
+### Journal
+carbon
+
+### Ten Keywords
+smart manufacturing; industry 4.0; digital transformation; operational performance; environmental sustainability
+
+### Authors
+Marjanovic, Slavko Rakic and
+
+### Contact Author
+Not identified
+
+### Affiliations
+School of Civil Engineering and Built Environment, Faculty of Engineering and Technology, Liverpool John; Moores University, Liverpool L3 3AF, UK; b.m.abdullah@ljmu.ac.uk
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于carbon (2024)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2024年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 58]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+The following resources related to this article are available online at
+
+### Publication Year
+2006
+
+### DOI
+10.1126/science.1122716
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+Virus-Enabled Synthesis and Assembly of Nanowires for Lithium Ion
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (2006)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2006年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 59]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+4 School of Mechanical Engineering, Dalian University of Technology, Dalian 116024, People’s Republic
+
+### Publication Year
+2022
+
+### DOI
+10.1088/2631-7990/ac3bb2
+
+### Journal
+Journal of Extreme Manufacturing
+
+### Ten Keywords
+manufacturing, ACSM, quantum mechanics, first-principles, atomic interaction, energy-matter interaction, mechanisms
+
+### Authors
+Fengzhou Fang, Nan Zhang, Dongming
+
+### Contact Author
+xichun.luo@strath.ac.uk
+
+### Affiliations
+1 Centre for Precision Manufacturing, DMEM, University of Strathclyde, Glasgow G1 1XJ, United; 2 State Key Laboratory of Precision Measuring Technology & Instruments, Laboratory of Micro/Nano; Manufacturing Technology (MNMT), Tianjin University, Tianjin 300072, People’s Republic of China
+
+### Abstract
+Atomic and close-to-atomic scale manufacturing (ACSM) represents techniques for manufacturing high-end products in various fields, including future-generation computing, communication, energy, and medical devices and materials. In this paper, the theoretical boundary between ACSM and classical manufacturing is identified after a thorough discussion of quantum mechanics and their effects on manufacturing. The physical origins of atomic interactions and energy beams-matter interactions are revealed from the point view of quantum mechanics. The mechanisms that dominate several key ACSM processes are introduced, and a current numerical study on these processes is reviewed. A comparison of current ACSM processes is performed in terms of dominant interactions, representative processes, resolution and modelling methods. Future fundamental research is proposed for establishing new approaches for modelling ACSM, material selection or preparation and control of manufacturing tools and environments. This paper is by no means comprehensive but provides a starting point for further systematic investigation of ACSM fundamentals to support and accelerate its industrial scale implementation in the
+
+### Objective
+研究4 School of Mechanical Engineering, Dalian Univers。基于摘要内容：Atomic and close-to-atomic scale manufacturing (ACSM) represents techniques for manufacturing high-end products in various fields, including future-generation computing, communication, energy, and med...
+
+### Novelty
+创新点待进一步确认。论文发表于Journal of Extreme Manufacturing (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 60]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+effectively with the mass fraction of nanowires as low as 0.53%. A series of freestanding, elastic,
+
+### Publication Year
+2022
+
+### DOI
+Not available
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Simin Zhang1, Wenxiong Shi2, Xun Wang1*
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2022)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2022年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 61]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+引用格式: 王周扬, 丁一然, 曾梦琪, 等. 先进材料的原子制造. 科学通报, 2023, 68: 4035–4054
+
+### Publication Year
+2023
+
+### DOI
+Not available
+
+### Journal
+advanced materials
+
+### Ten Keywords
+Not available
+
+### Authors
+Wang Z Y, Ding Y R, Zeng M Q, et al. Atomic manufacturing of advanced materials (in Chinese). Chin Sci Bull, 2023, 68: 4035–4054, doi: 10.1360/TB-
+
+### Contact Author
+zengmq_lan@whu.edu.cn
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于advanced materials (2023)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 62]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+(EP) flux diagnostics (19) it is possible to
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 63]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+integration and discusses applications in electronics, robotics, and biomedicine. It also outlines future
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s44455-025-00010-9
+
+### Journal
+npj | metamaterials
+
+### Ten Keywords
+Not available
+
+### Authors
+Kefan Guo1,2,4, Yinong Li1,2,4, Shu Zhu3,4, Chong Li1 & Yang Lu1,2
+
+### Contact Author
+ylu1@hku.hk
+
+### Affiliations
+1Department of Mechanical Engineering, The University of Hong Kong, Kowloon, Hong Kong, 518057, China. 2Materials Innovation Institute for Life Sciences and; Energy (MILES), HKU-SIRI Shenzhen, China. 3School of Electrical and Automation Engineering, and Jiangsu Key Laboratory of 3D Printing Equipment and; Manufacturing, Nanjing Normal University, Nanjing, 210023, China. 4These authors contributed equally: Kefan Guo, Yinong Li, Shu Zhu.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于npj | metamaterials (2026)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2026年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 64]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Quantitative calculation of atomic-scale frictional behavior of two-dimensional material based on sliding potential energy surface
+
+### Publication Year
+2021
+
+### DOI
+10.7498/aps.70.20201430
+
+### Journal
+物理学报
+
+### Ten Keywords
+Not available
+
+### Authors
+引用信息 Citation: Acta Physica Sinica, 70, 028102 (2021)    DOI: 10.7498/aps.70.20201430
+
+### Contact Author
+pengtianhuan@hnu.edu.cn
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于物理学报 (2021)，引用信息 Citation: Acta Physica Sinica, 70, 028102 (2021)    DOI: 10.7498/aps.70.20201430。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2021年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 65]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+one of the criteria for the evaluation of the quality of ultra-precision surface. However, research regarding the step
+
+### Publication Year
+2016
+
+### DOI
+10.1038/srep29964
+
+### Journal
+Scientific Reports
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+guodan26@mail.tsinghua.edu.cn
+
+### Affiliations
+1State Key Laboratory of Tribology, Tsinghua University, Beijing, 100084, China. 2Guangdong Provincial Key; Laboratory of Optomechatronics, Shenzhen, 518057, China. *These authors contributed equally to this work.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于Scientific Reports (2016)，Not identified。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2016年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 66]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+optoelectronic applications, but its low fracture toughness combined with high resistance to plastic
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s44334-026-00081-0
+
+### Journal
+npj | advanced
+
+### Ten Keywords
+Not available
+
+### Authors
+Sheng Liu1, Shuiquan Huang1
+
+### Contact Author
+shuiquan.huang@ysu.edu.cn
+
+### Affiliations
+1School of Mechanical Engineering, Yanshan University, Qinhuangdao, China. 2School of Mechanical and Mining Engineering, The University of Queensland, St; or oxygen-centered free radicals by heat at low temperatures of 45
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于npj | advanced (2026)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2026年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 67]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+This paper describes objective technical results and analysis. Any subjective views or opinions that might be expressed
+
+### Publication Year
+2014
+
+### DOI
+Not available
+
+### Journal
+Applied physics letters
+
+### Ten Keywords
+Not available
+
+### Authors
+Sandia National Laboratories is a
+
+### Contact Author
+Not identified
+
+### Affiliations
+multimission laboratory managed and; Inc. for the U.S. Department of Energy’s; in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Applied physics letters (2014)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2014年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 68]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Fig. 97.1). In other words, the tunneling current is proportional to the integral of the
+
+### Publication Year
+2018
+
+### DOI
+10.1007/978-981-10-6156-1_97
+
+### Journal
+Nature Singapore
+
+### Ten Keywords
+Not available
+
+### Authors
+The Surface Science Society of Japan (ed.), Compendium of Surface
+
+### Contact Author
+hasegawa@issp.u-tokyo.ac.jp
+
+### Affiliations
+The Institute for Solid State Physics, The University of Tokyo, Kashiwa, Japan
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nature Singapore (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 69]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+cists, materials scientists, and electrical engineers, nanostructures are
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Molecular Self-Assembly and Nanochemistry:
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 70]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+ger size effect. Experiments identify concentrated-porosity regions as primary
+
+### Publication Year
+2025
+
+### DOI
+10.1038/s41467-026-69845-8
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+squirrel.w.zhang@gmail.com
+
+### Affiliations
+1Division of Engineering and Applied Sciences, California Institute of Technology, 1200 E. California Blvd., Pasadena, CA, USA. 2School of Mechanical and; Aerospace Engineering, College of Engineering, Nanyang Technological University, Singapore, Republic of Singapore. 3Mechano-X Institute, Applied; Mechanics Laboratory, Department of Engineering Mechanics, Tsinghua University, Beijing, China. 4Kavli Nanoscience Institute, California Institute of
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2025)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2025年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 71]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Tullio A. M. Tolio, Department of Mechanical Engineering, Politecnico di Milano,
+
+### Publication Year
+2024
+
+### DOI
+10.1007/978-3-031-54034-9
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+, Dipartimento di Ingegneria “Enzo Ferrari”, Università di
+
+### Contact Author
+Not identified
+
+### Affiliations
+Fakher Chaari, National School of Engineers, University of Sfax, Sfax, Tunisia; Vitalii Ivanov, Department of Manufacturing Engineering, Machines and Tools,; Sumy State University, Sumy, Ukraine
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2024)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2024年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 72]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+33. Y. Shiloh, in Archaeology and Biblical Interpretation, L. G. Perdue, L. E. Toombs, G.
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+science
+
+### Ten Keywords
+Not available
+
+### Authors
+17. A. Horowitz, The Quaternary ofIsrael (Academic Press, New York, 1979).
+
+### Contact Author
+Not identified
+
+### Affiliations
+which are stereogenic centers, that has more than two sextillion
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于science (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 73]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+stream countries, potentially opposite interests arise as is the case in the Syrdarya river in Central Asia.
+
+### Publication Year
+2015
+
+### DOI
+10.1088/1748-9326/10/1/015002
+
+### Journal
+nature of
+
+### Ten Keywords
+reservoirs, remotesensing, transboundary river, Syrdarya Abstract
+
+### Authors
+Crétaux Jean-François1, Biancamaria Sylvain2, Arsen Adalbert1, Bergé-Nguyen Muriel1 and Becker Mélanie2
+
+### Contact Author
+jean-francois.cretaux@legos.obs-mip.fr
+
+### Affiliations
+Not extracted
+
+### Abstract
+Large reservoirs along rivers regulate downstream ﬂows to generate hydropower but may also store water for irrigation and urban sectors. Reservoir management therefore becomes critical, particularly for transboundary basins, where coordination between riparian countries is needed. Reservoir man- agement is even more important in semiarid regions where downstream water users may be totally reliant on upstream reservoir releases. If the water resources are shared between upstream and down- stream countries, potentially opposite interests arise as is the case in the Syrdarya river in Central Asia. In this case study, remote sensing data (radar altimetry and optical imagery) are used to highlight the potential of satellite data to monitor water resources: water height, areal extent and storage variations. New results from 20 years of monitoring using satellites over the Syrdarya basin are presented. The accuracy of satellite data is 0.6 km3 using a combination of MODIS data and satellite altimetry, and only 0.2 km3 with Landsat images representing 2–4% of average annual reservoir volume variations in the reservoirs in the Syrdarya basin. With future missions such as Sentinel-3A (S3A), 
+
+### Objective
+研究stream countries, potentially opposite interests a。基于摘要内容：Large reservoirs along rivers regulate downstream ﬂows to generate hydropower but may also store water for irrigation and urban sectors. Reservoir management therefore becomes critical, particularly f...
+
+### Novelty
+创新点待进一步确认。论文发表于nature of (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 74]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+sufﬁciently interact with each transferring electron. As a result, a single collected electron carries information
+
+### Publication Year
+2015
+
+### DOI
+10.1103/PhysRevB.92.155433
+
+### Journal
+PHYSICAL REVIEW B
+
+### Ten Keywords
+Not available
+
+### Authors
+Wenxi Lai and Wen Yang
+
+### Contact Author
+Not identified
+
+### Affiliations
+Beijing Computational Science Research Center, Beijing 100094, China
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于PHYSICAL REVIEW B (2015)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 75]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+This paper describes objective technical results and analysis. Any subjective views or opinions that might be expressed
+
+### Publication Year
+2021
+
+### DOI
+Not available
+
+### Journal
+Nature (2019
+
+### Ten Keywords
+Not available
+
+### Authors
+managed and operated by National Technology & Engineering
+
+### Contact Author
+Not identified
+
+### Affiliations
+Sandia National Laboratories is a multimission laboratory; Honeywell International Inc., for the U.S. Department of; in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government.
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nature (2019 (2021)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2021年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 76]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Balaram Pradhan,[a] V. M. Vaisakh,[b] Geetha G. Nair,[b] D. S. Shankar Rao,[b] S. Krishna Prasad,[b]
+
+### Publication Year
+2016
+
+### DOI
+10.1002/chem.201603678.
+
+### Journal
+chem.
+
+### Ten Keywords
+Not available
+
+### Authors
+& Liquid Crystals
+
+### Contact Author
+achalkumar@iitg.ernet.in
+
+### Affiliations
+Department of Chemistry, Indian Institute of Technology Guwahati; Centre for Nano and Soft Matter Sciences
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于chem. (2016)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2016年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 77]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Not identified
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (Not identified)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+二、扫描隧道显微镜(STM)原子操纵
+================================================================================
+
+[论文 78]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Atomic Precision Advanced Manufacturing for Ultraprecise 2D Bipolar Devices
+
+### Publication Year
+2012
+
+### DOI
+10.1038/nnano.2012.21
+
+### Journal
+Nature Nanotechnology (Fuechsle et al.), with references to MRS Bulletin 2021 and other works
+
+### Ten Keywords
+atomic precision advanced manufacturing; APAM; scanning tunneling microscopy; single-dopant placement; bipolar devices; p-n junction; silicon quantum computing; STM lithography; atomic-scale fabrication; delta-doping
+
+### Authors
+J. H. G. Owen, E. Fuchs, R. Santini, J. N. Randall (Zyvex Labs); J. P. Mendez, X. Gao, D. Mamaluy, S. Misra (Sandia National Lab)
+
+### Contact Author
+Not identified
+
+### Affiliations
+Zyvex Labs, Richardson, TX, USA; Sandia National Laboratory, Albuquerque, NM, USA
+
+### Abstract
+This work reports on the development of STM lithography for Atomically Precise Advanced Manufacturing (APAM) targeting ultra-precise 2D bipolar devices. The research covers automated STM patterning with atomic precision from the single-pixel scale (0.768 nm) up to full STM scanner range. Key developments include real-time correction of creep, hysteresis, and thermal drift using the ZyVector controller, precursor chemistry for both donor (PH3) and acceptor (BCl3) dopants, and fabrication of p-i-n junctions with variable gap widths (0-10 pixels = 0-7.68 nm). Simulations using the Charon device modeling code predict strong gap-width-dependent device behavior, including negative differential conductance that diminishes when the gap exceeds 4 nm.
+
+### Objective
+发展 STM 光刻技术用于原子级精确先进制造（APAM），实现超高精度二维双极器件的制造。核心目标是开发可同时放置施主（P）和受主（B）掺杂原子的自动化 STM 系统，实现原子级精度的 p-n 结制造。
+
+### Novelty
+ZyVector STM 光刻控制系统实现了从单像素（0.768nm）到全扫描范围的原子级精确图案化，实时修正蠕变、迟滞和热漂移误差。dI/dZ 和 dI/dV 多变量成像技术同时与形貌成像结合，提供掺杂剂图案的额外电子对比度，简化了图案对准。开发了一套从施主到受主的双极器件制造全流程。
+
+### Method
+(1) 使用 ZyVector 控制系统进行 STM 光刻，以 SVG 图案绘制掺杂剂位置；(2) 先写入 n 型图案，用 PH3 饱和，热退火掺入 P 原子；(3) 重新定位并写入 p 型图案，用 BCl3 饱和 B 原子，与 P 区域对准；(4) dI/dZ 和 dI/dV 成像辅助对准，精度达二聚体行分辨率；(5) 制造变间隙宽度的 p-i-n 结（0, 3, 10 像素 = 0, 2.31, 7.68 nm）；(6) 使用 Sandia 实验室的 Charon 开源器件建模代码进行仿真。
+
+### Performance Metrics
+STM 像素分辨率 0.768nm（1px），10px = 7.68nm。p-i-n 结仿真预测：间隙≥4nm 时负微分电导（NDC）行为减弱。制造了三种不同间隙的结（0, 3, 10px）。ZyVector 控制器实时修正蠕变、迟滞和热漂移，实现近乎完美的定位精度。器件区域 4×8mm 硅片中央 20μm 区域。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 79]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Towards Atomic-Scale Fabrication in Silicon
+
+### Publication Year
+2018
+
+### DOI
+10.1017/S1431927618001289
+
+### Journal
+Microscopy & Microanalysis
+
+### Ten Keywords
+atomic-scale fabrication; scanning transmission electron microscopy; STEM; silicon; crystallization; amorphization; dopant positioning; quantum devices; beam-induced epitaxy; sub-surface dopants
+
+### Authors
+Bethany M. Hudak, Stephen Jesse, Jiaming Song, Albina Borisevich, Paul C. Snijders, Sergei V. Kalinin, Andrew R. Lupini
+
+### Contact Author
+Not identified
+
+### Affiliations
+1. Materials Science and Technology Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+2. The Institute for Functional Imaging of Materials, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+3. The Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+
+### Abstract
+The advance of modern technology requires the ability to produce ever-shrinking devices, in some cases reaching atomic scales or relying on quantum effects. This demand for quantum devices requires fabrication on the atomic scale to guarantee precise control of crystalline layers, active dopant placement, and to avoid or understand atomic-scale defects. However, current techniques for nanoscale fabrication in the semiconductor industry lack the capability to fabricate on the atomic scale. The current state of the art in atomic fabrication includes the positioning of single atoms and surface lithography using scanning tunnelling microscopy (STM) and atomic force microscopy (AFM) on two-dimensional surfaces, but an active quantum device would require sub-surface dopant positioning. Scanning transmission electron microscopy (STEM) has recently been demonstrated as a technique for the epitaxial growth of material at a crystalline-amorphous (CA) interface. Here we show the ability to crystallize, amorphize, remove material, and direct dopants, which form important steps toward quantum device fabrication.
+
+### Objective
+开发基于 STEM 的电子束诱导技术，实现硅中纳米/原子级精确制造，包括晶体生长、非晶化、材料去除和掺杂剂定位。解决半导体工业当前缺乏原子级制造能力的问题，为量子器件制造提供关键技术。
+
+### Novelty
+首次利用 STEM 作为原子级制造工具，在硅的晶体-非晶（CA）界面上实现外延生长、非晶化、钻孔和掺杂剂定向移动。相比传统 STM/AFM 局限于表面的原子操纵，STEM 方法可操纵表面下（sub-surface）的掺杂剂，这是量子器件制造的关键需求。开发了基于傅里叶变换振幅反馈的原子层控制算法。
+
+### Method
+使用 STEM 原子级精确探针，将电子束聚焦到原子尺度并扫描样品。将束扫描从晶体基质进入非晶区域时，在硅基质上外延生长晶体硅。增加束流可将晶体硅转化为非晶硅或钻孔移除材料。开发反馈控制系统：沿 CA 界面平行扫描，通过计算 STEM 信号傅里叶变换振幅确定结晶度，当达到预期转变时自动推进一个原子层。使用高浓度 Bi 掺杂剂样品，直接观察电子束扫描如何沿多个硅晶体轴垂直移动掺杂剂。
+
+### Performance Metrics
+STEM 探针聚焦至原子尺度，实现单原子层级别的外延生长控制。傅里叶变换反馈系统实现原子层步进精度。电子束可在多个硅晶体轴方向上移动 Bi 掺杂剂。束流强度可调以控制结晶、非晶化和材料去除三种模式。相比传统 STM 表面操纵，此方法可直接控制表面下掺杂剂位置。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 80]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+nature of
+
+### Ten Keywords
+photolithography, photothermal effects, hydrogen lithography, surface morphology, nanoscale devices, scanned probe lithography
+
+### Authors
+* Corresponding author: Shashank Misra, smisra@sandia.gov, (505) 284-1953
+
+### Contact Author
+Not identified
+
+### Affiliations
+aSandia National Laboratories, Albuquerque, NM 87185 bCollege of Optical Sciences, University of; in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government.; Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned
+
+### Abstract
+The attachment of dopant precursor molecules to depassivated areas of hydrogen-terminated silicon templated with a scanning tunneling microscope (STM) has been used to create electronic devices with sub-nanometer precision, typically for quantum physics demonstrations, and to dope silicon past the solid-solubility limit, with potential applications in microelectronics and plasmonics. However, this process, which we call atomic precision advanced manufacturing (APAM), currently lacks the throughput required to develop sophisticated applications because there is no proven scalable hydrogen lithography pathway. Here, we demonstrate and characterize an APAIVI device workflow where STM lithography has been replaced with photolithography. An ultraviolet laser is shown to locally heat silicon controllably above the temperature required for hydrogen depassivation. STM images indicate a narrow range of laser energy density where hydrogen has been depassivated, and the surface remains well-ordered. A model for photothermal heating of silicon predicts a local temperature which is consistent with atomic-scale STM images of the photo-patterned regions. Finally, a simple device made by exposing 
+
+### Objective
+研究subsidiary of Honeywell International Inc., for th。基于摘要内容：The attachment of dopant precursor molecules to depassivated areas of hydrogen-terminated silicon templated with a scanning tunneling microscope (STM) has been used to create electronic devices with s...
+
+### Novelty
+创新点待进一步确认。论文发表于nature of (Not identified)。
+
+### Method
+主要研究方法包括：光刻技术。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 81]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+within this article, their full citation and copyright line may not be present in this Accepted Manuscript version. Before using any content from this
+
+### Publication Year
+2019
+
+### DOI
+10.1088/2631-7990/ab0dfc
+
+### Journal
+Journal of Extreme Manufacturing
+
+### Ten Keywords
+ atomic and close-to-atomic scale, ACSM, manufacturing, metrology,
+
+### Authors
+Towards Atomic and Close-to-Atomic Scale Manufacturing
+
+### Contact Author
+Not identified
+
+### Affiliations
+This Accepted Manuscript is © 2019 The Author(s). Published by IOP Publishing Ltd on behalf of the Institute of Machinery; Fang, Fengzhou; Center of Micro/Nano Manufacturing Technology; (MNMT), Tianjin University; University College Dublin
+
+### Abstract
+Human beings have witnessed unprecedented developments since the 1760s using precision tools and manufacturing methods that have led to ever-increasing precision, from millimeter to micrometer, to single nanometer, and to atomic levels.  The modes of manufacturing have also advanced from craft- based manufacturing in the Stone, Bronze, and Iron Ages to precision-controllable manufacturing using automatic machinery.  In the past 30 years, since the invention of the scanning tunneling microscope, humans have become capable of manipulating single atoms, laying the groundwork for the coming era of atomic and close-to-atomic scale manufacturing (ACSM).  Close-to-atomic scale manufacturing includes all necessary steps to convert raw materials, components, or parts into products designed to meet the user's specifications.  The processes involved in ACSM are not only atomically precise but also remove, add, or transform work material at the atomic and close-to-atomic scales.  This review discusses the history of the development of ACSM and the current state-of-the-art processes to achieve atomically precise and/or atomic-scale manufacturing.  Existing and future applications of ACSM in qua
+
+### Objective
+研究within this article, their full citation and copyr。基于摘要内容：Human beings have witnessed unprecedented developments since the 1760s using precision tools and manufacturing methods that have led to ever-increasing precision, from millimeter to micrometer, to sin...
+
+### Novelty
+创新点待进一步确认。论文发表于Journal of Extreme Manufacturing (2019)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 82]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+KEYWORDS: atomically precise manufacturing, hydrogen terminated silicon, atomic scale devices, scanning tunneling microscopy,
+
+### Publication Year
+2024
+
+### DOI
+10.1021/acsnano.3c10412
+
+### Journal
+ACS Nano
+
+### Ten Keywords
+atomically precise manufacturing, hydrogen terminated silicon, atomic scale devices, scanning tunneling microscopy, atomic force microscopy, dangling bond, silicon quantum atomic designer, atomic electronics, atomic quantum dot
+
+### Authors
+Jason Pitters, Jeremiah Croshaw, Roshan Achal, Lucian Livadaru, Samuel Ng, Robert Lupoiu,
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。先进制造工艺的创新是该工作的核心贡献。基于探针显微镜的原子尺度表征/操纵是该工作的技术核心。论文发表于ACS Nano (2024)，Jason Pitters, Jeremiah Croshaw, Roshan Achal, Lucian Livadaru, Samuel Ng, Robert Lupoiu,。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2024年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 83]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+In the original article, there was an unfortunate oversight stating that scanning tunneling microscopy is the only platform that offers
+
+### Publication Year
+2019
+
+### DOI
+10.1002/smll.201805310
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+基于探针显微镜的原子尺度表征/操纵是该工作的技术核心。论文发表于small (2019)，© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 84]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+within this article, their full citation and copyright line may not be present in this Accepted Manuscript version. Before using any content from this
+
+### Publication Year
+2018
+
+### DOI
+10.1088/1361-6528/aad7ab
+
+### Journal
+Nanotechnology
+
+### Ten Keywords
+atom-scale fabrication, dopant device, silicon-on-insulator, CMOS
+
+### Authors
+Accepted Manuscript is “the version of the article accepted for publication including all changes made as a result of the peer review process,
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Controlled atomic scale fabrication based on scanning probe patterning or surface assem- bly typically involves a complex process ﬂow, stringent requirements for an ultra-high vacuum environment, long fabrication times and, consequently, limited throughput and device yield. We demonstrate a device platform that overcomes these limitations by integrating scanning- probe based dopant device fabrication with a CMOS-compatible process ﬂow. Silicon on insulator substrates are used featuring a reconstructed Si(001):H surface that is protected by a capping chip and has pre-implanted contacts ready for scanning tunneling microscope (STM) patterning. Processing in ultra-high vacuum is thereby reduced to a few critical steps. Subsequent reintegration of the samples into the CMOS process ﬂow opens the door to suc- cessful application of STM fabricated dopant devices in more complex device architectures. Full functionality of this approach is demonstrated with magnetotransport measurements on degenerately doped STM patterned Si:P nanowires up to room temperature.
+
+### Objective
+研究within this article, their full citation and copyr。基于摘要内容：Controlled atomic scale fabrication based on scanning probe patterning or surface assem- bly typically involves a complex process ﬂow, stringent requirements for an ultra-high vacuum environment, long...
+
+### Novelty
+创新点待进一步确认。论文发表于Nanotechnology (2018)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+三、分子自组装与底向上合成
+================================================================================
+
+[论文 85]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Keywords: Colloidal cystals, photonic crystals, self-assembly, SiO2 spherical particles, weakly-flocculated suspensions.
+
+### Publication Year
+2019
+
+### DOI
+10.2174/2405465804666190313153806
+
+### Journal
+Science
+
+### Ten Keywords
+Colloidal cystals, photonic crystals, self-assembly, SiO2 spherical particles, weakly-flocculated suspensions.
+
+### Authors
+Current Smart Materials, 2019, 4, 68-74
+
+### Contact Author
+matjaz.valant@ung.si
+
+### Affiliations
+aVALL-CER d.o.o. Tehnološki Park 24, Ljubljana 1000, Slovenia; bInstitute of Fundamental and Frontier Sciences,; University of Electronic Science and Technology of China, Chengdu 610054, China; cMaterials Research Laboratory,; University of Nova Gorica, Nova Gorica 5000, Slovenia
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2019)。
+
+### Method
+主要研究方法包括：分子束外延(MBE)、自组装、自组装。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 86]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+fully peer reviewed, but should not be considered the official version of record. They are accessible to all
+
+### Publication Year
+2017
+
+### DOI
+10.1021/acsnano.7b05694
+
+### Journal
+ACS Nano
+
+### Ten Keywords
+Not available
+
+### Authors
+Capping Ligand Vortices as "Atomic Orbitals" in Nanocrystal Self-Assembly
+
+### Contact Author
+trvsst@ameslab.gov
+
+### Affiliations
+†Department of Materials Science and Engineering and Ames lab, Ames, IA, 50011, USA; ‡Department of Physics and Astronomy and Ames lab, Ames, IA 50011, USA
+
+### Abstract
+We present a detailed analysis of the interaction between two nanocrystals capped with ligands consisting of hydrocarbon chains by united atom molecular dynamics simulations. We show that the bonding of two nanocrystals is characterized by lig- and textures in the form of vortices. These results are generalized to nanocrystals of diﬀerent types (diﬀering core and ligand sizes) where the structure of the vortices depends on the softness asymmetry. We provide rigorous calculations for the binding free energy, show that these energies are independent of the chemical composition of the cores and derive analytical formulas for the equilibrium separation. We discuss the implications of our results for the self-assembly of single component and binary nanoparticle superlattices. Overall, our results show that the structure of the ligands completely determines the bonding of nanocrystals, fully supporting the predictions of the recently proposed Orbifold Topological Model (OTM). 1 Page 1 of 29 ACS Paragon Plus Environment ACS Nano 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 
+
+### Objective
+研究fully peer reviewed, but should not be considered 。基于摘要内容：We present a detailed analysis of the interaction between two nanocrystals capped with ligands consisting of hydrocarbon chains by united atom molecular dynamics simulations. We show that the bonding ...
+
+### Novelty
+创新点待进一步确认。论文发表于ACS Nano (2017)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2017年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 87]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Wang Z G. Physical insights on self-assembly at an atomic level (in Chinese). Chin Sci Bull, 2018, 63: 1775–1782, doi: 10.1360/N972018-00404
+
+### Publication Year
+2018
+
+### DOI
+10.1360/N972018-00404
+
+### Journal
+SCIENCE
+
+### Ten Keywords
+Not available
+
+### Authors
+Wang Z G. Physical insights on self-assembly at an atomic level (in Chinese). Chin Sci Bull, 2018, 63: 1775–1782, doi: 10.1360/N972018-00404
+
+### Contact Author
+wangzg@jlu.edu.cn
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于SCIENCE (2018)，Wang Z G. Physical insights on self-assembly at an atomic level (in Chinese). Chin Sci Bull, 2018, 63: 1775–1782, doi: 10.1360/N972018-00404。
+
+### Method
+主要研究方法包括：自组装。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 88]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+to surpass the constraints of current technology and achieve precise construction at the
+
+### Publication Year
+2023
+
+### DOI
+10.1088/1361-6528/ace262
+
+### Journal
+Nanotechnology
+
+### Ten Keywords
+DNA, atomic and close-to-atomic scale manufacturing, precision manufacturing, functional devices, self-assembly
+
+### Authors
+Fengzhou Fang, Nan Zhang, Dongming
+
+### Contact Author
+Not identified
+
+### Affiliations
+School of Chemical Science and; Institute for Intelligent; Laboratory of Advanced Civil
+
+### Abstract
+The revolutionary products obtained from atomic and close-to-atomic scale manufacturing (ACSM) has motivated people to conduct more in-depth research. There is a pressing need to surpass the constraints of current technology and achieve precise construction at the atomic scale. The emergence of DNA nanotechnology has enabled DNA to serve as a template for precisely localizing functional components. These advantages of DNA in bottom-up manufacturing give it great potential in ACSM. From this perspective, we review the ability of DNA to accurately build complex structures and discuss its application and prospects in precise atomic manipulation. Finally, opportunities and challenges for DNA in ACSM are systematically summarized.
+
+### Objective
+研究to surpass the constraints of current technology a。基于摘要内容：The revolutionary products obtained from atomic and close-to-atomic scale manufacturing (ACSM) has motivated people to conduct more in-depth research. There is a pressing need to surpass the constrain...
+
+### Novelty
+创新点待进一步确认。论文发表于Nanotechnology (2023)。
+
+### Method
+主要研究方法包括：分子束外延(MBE)、自组装。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 89]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Department of Physics, Korea Advance Institute of Science and Technology, 291 Daehak-ro,
+
+### Publication Year
+2017
+
+### DOI
+10.1117/12.2268849
+
+### Journal
+Science
+
+### Ten Keywords
+optical tweezer, single atom, cold atoms, spatial light modulator, atom loading, atom sorting Optical Manipulation Conference, edited by Takashige Omatsu, Ryuji Morita, Proc. of SPIE Vol.
+
+### Authors
+Hyosub Kim, Woojun Lee, Jaewook Ahn*
+
+### Contact Author
+Not identified
+
+### Affiliations
+Department of Physics, Korea Advance Institute of Science and Technology, 291 Daehak-ro,
+
+### Abstract
+Atoms can be individually captured and guided by light through optical dipole-trapping. However, applying this to many atoms simultaneously has been difficult due to the low inertia of atoms. Recently dynamically-controlled laser beams achieved such demonstrations, enabling a bottom-up approach to form arbitrary atom lattices, deterministic atom loading, atom-sorting, and even single-atom-level machinery. Here we report the latest improvements of the single-atom-level dynamic holographic optical tweezers. With the hardware and software upgrades to be explained in the text, the overall performance has improved to form arbitrary 2D lattices of a size about N=20, with success probability exceeding 50%.
+
+### Objective
+研究Department of Physics, Korea Advance Institute of 。基于摘要内容：Atoms can be individually captured and guided by light through optical dipole-trapping. However, applying this to many atoms simultaneously has been difficult due to the low inertia of atoms. Recently...
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2017)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2017年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 90]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+their electronic structures robustly in self-assembly owing to the core-shell structure and the atomic-like electron
+
+### Publication Year
+2019
+
+### DOI
+10.1088/0256-307X/36/11/116401
+
+### Journal
+Carbon
+
+### Ten Keywords
+Not available
+
+### Authors
+Weiyu Xie(解伟誉)†, Yu Zhu(朱瑜)†, Jianpeng Wang(王健鹏),
+
+### Contact Author
+Not identified
+
+### Affiliations
+Institute of Atomic and Molecular Physics, Jilin University, Changchun 130012
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。论文发表于Carbon (2019)，Weiyu Xie(解伟誉)†, Yu Zhu(朱瑜)†, Jianpeng Wang(王健鹏),。
+
+### Method
+主要研究方法包括：自组装。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+四、原子层沉积(ALD)技术
+================================================================================
+
+[论文 91]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+27.3 Basics of ALD........................................................................................................................... 1105
+
+### Publication Year
+2015
+
+### DOI
+10.1016/B978-0-444-63304-0.00027-5
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+27.1 Thin Films and the Need for Precise Growth Control ........................................................ 1102
+
+### Contact Author
+Not identified
+
+### Affiliations
+DEPARTMENT OF APPLIED PHYSICS, EINDHOVEN UNIVERSITY OF TECHNOLOGY,
+
+### Abstract
+Not available
+
+### Objective
+本文旨在系统介绍原子层沉积（ALD）技术的基本原理、工艺方案、材料体系和反应器设计。目标是阐述ALD如何实现亚纳米级厚度的精确控制，以及其在先进纳米电子器件制造中的关键作用。
+
+### Novelty
+本文系统总结了从原子层外延（ALE）到ALD的技术演进历程，全面梳理了ALD在自限制表面反应基础上的独特优势。文章详细分析了ALD在厚度控制、均匀性、保形性和低温沉积方面相比传统PVD和CVD的突破性进展。
+
+### Method
+ALD通过交替脉冲前驱体气体和共反应气体，利用自限制的表面化学反应逐层生长薄膜。每个周期包括前驱体吸附、吹扫、共反应和再次吹扫四个步骤，形成ABAB循环。文章还介绍了多步工艺（ABC循环）和超级循环（supercycle）等高级ALD方案。
+
+### Performance Metrics
+ALD能够实现亚纳米级（约0.1 nm/周期）的精确厚度控制，在大面积基底上具有优异的均匀性（偏差<1%）。对于三维结构，ALD薄膜表现出近乎完美的保形性，即使在深孔和沟槽中也能均匀覆盖。生长温度窗口通常在100-400°C之间，适用于热敏感材料。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 92]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the
+
+### Publication Year
+2025
+
+### DOI
+10.1038/s43246-026-01116-x
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+Seacat, S., Torres Avalos, D. et al.
+
+### Contact Author
+Not identified
+
+### Affiliations
+1Department of Physics & Astronomy, University of Kansas, Lawrence, KS 66045, USA; 2Department of Materials Science and Engineering, University of Houston, Houston, TX, 77009, USA; 3Department of Physics, Astronomy and Materials Science, Missouri State University, Springfield, MO
+
+### Abstract
+Memristors are nonlinear dynamic devices with applications in memory and neuromorphic computing. As memristors scale down to sub-2 nanometer thickness, atomic design is crucial for controlling switching dynamics. Here, we show the design of sub-2 nanometer MgO/Ga2O3/Al2O3 memristors with a bilayer structure consisting of a switching layer and an oxygen vacancy layer using in vacuo atomic layer deposition to control the number and sequence of atomic layers. A switching layer of intrinsic aluminum oxide provides the best switching speed, increasing by up to two orders of magnitude as the number of layers decreases from 12 to 5. Introducing oxygen vacancies in the switching layer offers little benefit and reduces on/off ratio and yield. The oxygen vacancy layer of 5–7 atomic layers strongly influences switching dynamics, with an interposed magnesium oxide/gallium oxide structure enabling switching faster than 50 nanoseconds. These results show that atomic layer design critically controls memristor switching dynamics. ARTICLE IN PRESS ARTICLE IN PRESS
+
+### Objective
+研究article are included in the article’s Creative Com。基于摘要内容：Memristors are nonlinear dynamic devices with applications in memory and neuromorphic computing. As memristors scale down to sub-2 nanometer thickness, atomic design is crucial for controlling switchi...
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2025)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2025年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 93]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+KEYWORDS: broad-band absorber, image-derived ﬁnite element method, metastable atomic layer deposition, self-assembly,
+
+### Publication Year
+2015
+
+### DOI
+10.1021/acsnano.0c04974
+
+### Journal
+carbon
+
+### Ten Keywords
+broad-band absorber, image-derived ﬁnite element method, metastable atomic layer deposition, self-assembly, ultradark material
+
+### Authors
+Mario Ziegler,*,# André Dathe,# Kilian Pollok, Falko Langenhorst, Uwe Hübner, Dong Wang,
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。原子层沉积/薄膜生长工艺的创新是该工作的重点。论文发表于carbon (2015)，Mario Ziegler,*,# André Dathe,# Kilian Pollok, Falko Langenhorst, Uwe Hübner, Dong Wang,。
+
+### Method
+主要研究方法包括：分子束外延(MBE)、自组装、自组装。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2015年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 94]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+June 16th to 19th, 2019, Eindhoven, The Netherlands. © 2019 Elsevier B.V. All rights reserved.
+
+### Publication Year
+2019
+
+### DOI
+10.1016/B978-0-12-818634-3.50068-0
+
+### Journal
+nanotechnology
+
+### Ten Keywords
+particle technology, nanotechnology, fluidization, ALD, nanoparticles
+
+### Authors
+Anton A. Kiss, Edwin Zondervan, Richard Lakerveld, Leyla Özkan (Eds.)
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Atomic layer deposition (ALD) is a gas-phase coating technique that can be used to coat nanoparticles in a fluidized bed reactor. ALD is based on the alternating supply of two precursors, which makes it an inherent dynamic process. We discuss a multi-scale, multi- phase mass transfer-diffusion-reaction model capable of predicting the evolution of surface coverage of particles at different local operating conditions. The dynamic ALD- reactor model can be extended with operational scenarios. The reactor design combined with the scenarios has many degrees of freedom, yielding ample opportunities to optimize the process with efficient utilization of precursors.
+
+### Objective
+研究June 16th to 19th, 2019, Eindhoven, The Netherland。基于摘要内容：Atomic layer deposition (ALD) is a gas-phase coating technique that can be used to coat nanoparticles in a fluidized bed reactor. ALD is based on the alternating supply of two precursors, which makes ...
+
+### Novelty
+创新点待进一步确认。论文发表于nanotechnology (2019)。
+
+### Method
+主要研究方法包括：原子层沉积(ALD)。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+五、二维材料原子级制造
+================================================================================
+
+[论文 95]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+ACS Appl. Nano Mater., Just Accepted Manuscript • DOI: 10.1021/acsanm.0c01549 • Publication Date (Web): 10 Jul 2020
+
+### Publication Year
+2020
+
+### DOI
+10.1021/acsanm.0c01549
+
+### Journal
+ACS Applied Nano Materials
+
+### Ten Keywords
+Not available
+
+### Authors
+is published by the American Chemical Society. 1155 Sixteenth Street N.W.,
+
+### Contact Author
+klas.lindfors@uni-koeln.de
+
+### Affiliations
+Subscriber access provided by Macquarie University; †Department f¨ur Chemie, Universit¨at zu K¨oln, Luxemburger Strasse 116, 50939 K¨oln,; §Department of Chemistry, University of California at Berkeley, Tan Hall, Berkeley, CA
+
+### Abstract
+In the search for high sensitivity, low noise, and high bandwidth photodetectors, materials are a key ingredient. One- and two-dimensional materials are of particular 1 Page 1 of 29 ACS Paragon Plus Environment ACS Applied Nano Materials 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 interest in this area due to their extraordinary properties such as ballistic transport. Here we demonstrate nanoscale photoconductive photodetectors using aligned atom- ically precise seven-atom wide armchair-edge graphene nanoribbons. The detector responsivity is 0.035 mAW−1 at a bias voltage of 2 V. The dark current is below 30 pA for a bias voltage of 1.5 V, which is orders of magnitude lower than that of typical graphene photodetectors. The possibility to align the nanoribbons and to tune their optical and electronic properties by choice of ribbon width and edge structure, enables nanoscale polarization-resolving photodetectors optimized for speciﬁc spectral ranges. Graphene nanoribbons with identical electronic and optical properties can be prepared on large scale using bott
+
+### Objective
+本文旨在利用原子级精确的七原子宽扶手椅边缘石墨烯纳米带（7-AGNRs）制备纳米级光电导探测器。目标是解决传统石墨烯探测器由于零带隙导致的高暗电流和差开关比问题，通过带隙可调的半导体GNRs实现低噪声、高响应度的光检测器件。
+
+### Novelty
+这是首次基于对齐排列的原子级精确7-AGNRs实现的光探测器。与通过刻蚀石墨烯或解旋碳纳米管制备的纳米带不同，本文采用自下而上表面聚合合成方法，获得具有精确结构和一致光电特性的GNRs。这种合成方法可在晶圆尺度上大规模制备，解决了碳纳米管等传统材料的一致性难题。
+
+### Method
+在Au(788)表面上通过10,10'-二溴-9,9'-双蒽（DBBA）分子的表面聚合反应合成7-AGNRs。器件采用叉指电极结构，电极间距为100 nm，在GNRs层上制作钛/金电极。通过测量光照和黑暗条件下的电流-电压特性来表征光电导响应。光波长为635 nm，峰值光强为19.1 kW/cm²。
+
+### Performance Metrics
+在2 V偏压下，探测器响应度为0.035 mA/W。在1.5 V偏压下，暗电流低于30 pA，比典型石墨烯光电探测器低数个数量级。由于GNRs的对齐排列，光电响应具有偏振敏感性，沿GNRs方向的光吸收大于垂直方向。7-AGNRs的平均长度约为30 nm。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 96]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+studies reveal the effect of graphene-substrate interactions on the
+
+### Publication Year
+2016
+
+### DOI
+10.1109/TNANO.2016.2558620
+
+### Journal
+IEEE permission. See
+
+### Ten Keywords
+Not available
+
+### Authors
+Not identified
+
+### Contact Author
+kinglai@cityu.edu.hk
+
+### Affiliations
+Xin Tang, and King Wai Chiu Lai are with Department of Mechanical and; Biomedical Engineering, City University of Hong Kong, Hong Kong SAR,
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+二维材料的合成与器件应用是该工作的核心创新。论文发表于IEEE permission. See (2016)，Not identified。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2016年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+六、纳米团簇与量子点合成
+================================================================================
+
+[论文 97]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+nanoclusters oﬀer great potential for attaining high activity and selectivity in their electrocatalytic applications. The well-deﬁned
+
+### Publication Year
+2018
+
+### DOI
+10.1021/acs.accounts.8b00379
+
+### Journal
+Accounts of Chemical Research
+
+### Ten Keywords
+Not available
+
+### Authors
+Kyuju Kwak and Dongil Lee*
+
+### Contact Author
+Not identified
+
+### Affiliations
+Department of Chemistry, Yonsei University, Seoul 03722, Korea
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Accounts of Chemical Research (2018)。
+
+### Method
+主要研究方法包括：纳米团簇合成。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2018年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 98]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Single-charge band-to-band tunneling via multiple-dopant clusters in nanoscale Si Esaki diodes
+
+### Publication Year
+2025
+
+### DOI
+10.1063/5.0245242
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Single-charge band-to-band tunneling via multiple-dopant clusters in nanoscale Si Esaki diodes
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+We investigate the different transport mechanisms that can occur in pn junction devices made using atomic precision advanced manufacturing at temperatures ranging from cryogenic to room temperature. We first elucidate the potential cause of the anomalous behavior observed in the forward-bias response of these devices in recent cryogenic temperature measurements, which deviates from the theoretical response of a silicon Esaki diode. These anomalous behaviors include current suppression at low voltages in the forward-bias response and a much lower valley voltage at cryogenic temperatures than theoretically expected for a silicon diode. To investigate the potential causes of these anomalies, we studied the effects of a few possible transport mechanisms, including band-to-band tunneling, bandgap narrowing, potential impact of non- Ohmic contacts, band quantization, impact of leakage, and inelastic trap-assisted tunneling, through semi-classical simulations. We find that a combination of two sets of band-to-band tunneling (BTBT) parameters can qualitatively approximate the shape of the tunneling current at low bias. This can arise from band quantization and realignment due to the strong
+
+### Objective
+研究Single-charge band-to-band tunneling via multiple-。基于摘要内容：We investigate the different transport mechanisms that can occur in pn junction devices made using atomic precision advanced manufacturing at temperatures ranging from cryogenic to room temperature. W...
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2025)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2025年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 99]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+and properties. Finally, the present challenges in studying the nanocluster structural isomerism, as well as some personal perspectives
+
+### Publication Year
+2020
+
+### DOI
+10.1021/acs.chemmater.0c03979
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Xi Kang and Manzhou Zhu*
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于small (2020)。
+
+### Method
+主要研究方法包括：纳米团簇合成。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+七、光刻与纳米图案化技术
+================================================================================
+
+[论文 100]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Distribution or reproduction of this work in whole or in part requires full attribution of the original pub-
+
+### Publication Year
+2020
+
+### DOI
+10.1117/1.JMM.20.1.014901
+
+### Journal
+Not identified
+
+### Ten Keywords
+photolithography; photothermal effects; hydrogen lithography; surface morphology; nanoscale devices; scanned probe lithography.
+
+### Authors
+Aaron M. Katzenmeyer ,a,* Sanja Dmitrovic,b Andrew D. Baczewski ,a
+
+### Contact Author
+Not identified
+
+### Affiliations
+bUniversity of Arizona, College of Optical Sciences, Tucson, Arizona, United States; in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government.; Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (2020)。
+
+### Method
+主要研究方法包括：光刻技术。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 101]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+and hydrogen-resist lithography, etc., are striving to achieve
+
+### Publication Year
+2020
+
+### DOI
+10.1007/s41871-020-00073-4
+
+### Journal
+Nature Singapore
+
+### Ten Keywords
+Not available
+
+### Authors
+Foreword to the Special Issue on Nanofabrication, Atomic
+
+### Contact Author
+Not identified
+
+### Affiliations
+© International Society for Nanomanufacturing and Tianjin University and Springer Nature Singapore Pte Ltd. 2020; technical director of Centre for; at the University of Strathclyde
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Nature Singapore (2020)。
+
+### Method
+主要研究方法包括：光刻技术。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 102]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+paradigm, multilayer soft lithography, with which devices consisting of multiple
+
+### Publication Year
+Not identified
+
+### DOI
+Not available
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Marc A. Unger, Hou-Pu Chou, Todd Thorsen, Axel Scherer,
+
+### Contact Author
+Not identified
+
+### Affiliations
+Department of Applied Physics, California Institute of; bient laboratory conditions instead of a clean
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Not identified (Not identified)。
+
+### Method
+主要研究方法包括：光刻技术。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+八、激光直写与微纳加工
+================================================================================
+
+[论文 103]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+deflection of a cantilever is measured either with a laser beam [3] or shift in resonance
+
+### Publication Year
+2016
+
+### DOI
+Not available
+
+### Journal
+Science
+
+### Ten Keywords
+Not available
+
+### Authors
+Handbook of Measurement in Science and Engineering, First Edition. Edited by Myer Kutz.
+
+### Contact Author
+Not identified
+
+### Affiliations
+Department of Physics and Astronomy, University of Kentucky, Lexington, KY, USA
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于Science (2016)。
+
+### Method
+主要研究方法包括：激光技术。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2016年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+九、AI/ML 辅助原子级制造
+================================================================================
+
+[论文 104]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Skeleton of Euplectella sp.: Structural Hierarchy from the Nanoscale to the Macroscale
+
+### Publication Year
+2005
+
+### DOI
+10.1126/science.1112255
+
+### Journal
+Science
+
+### Ten Keywords
+biosilica; sponge skeleton; hierarchical structure; nanometer silica spheres; laminated spicules; mechanical rigidity; structural materials; glass reinforcement; biomineralization; materials science
+
+### Authors
+Joanna Aizenberg, James C. Weaver, Monica S. Thanawala, Vikram C. Sundar, Daniel E. Morse, Peter Fratzl
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not fully extracted from text
+
+### Abstract
+Structural materials in nature exhibit remarkable designs with building blocks, often hierarchically arranged from the nanometer to the macroscopic length scales. We report on the structural properties of biosilica observed in the hexactinellid sponge Euplectella sp. Consolidated, nanometer-scaled silica spheres are arranged in well-defined microscopic concentric rings glued together by organic matrix to form laminated spicules. The assembly of these spicules into bundles, effected by the laminated silica-based cement, results in the formation of a macroscopic cylindrical square-lattice cagelike structure reinforced by diagonal ridges. The ensuing design overcomes the brittleness of its constituent material, glass, and shows outstanding mechanical rigidity and stability. The mechanical benefits of each of seven identified hierarchical levels and their comparison with common mechanical engineering strategies are discussed.
+
+### Objective
+研究六角海绵（Euplectella sp.）生物二氧化硅骨架的层次结构，从纳米尺度到宏观尺度，理解自然界如何通过多级结构设计克服玻璃材料的脆性问题，为仿生工程材料提供启示。
+
+### Novelty
+首次系统揭示了海绵骨架中七层层次结构（纳米二氧化硅球→同心环→层叠骨针→骨针束→宏观笼状结构）的完整结构链条，将每一层次结构与机械工程学策略进行了系统对比，建立了生物矿物材料的层次设计范式。
+
+### Method
+利用显微技术对六角海绵 Euplectella sp. 的二氧化硅骨架进行多层次结构分析，从纳米级硅球的排列到宏观笼状结构的组装，逐层识别并量化每一层次结构的几何参数和力学贡献，对比常见机械工程学策略。
+
+### Performance Metrics
+识别出 7 个层次结构级别。每个层次都对最终力学性能有贡献，纳米级二氧化硅球通过有机基质粘结形成层叠骨针，骨针组装成宏观圆柱方格笼状结构，对角脊强化设计显著提升了整体刚度，克服了纯玻璃的脆性问题。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 105]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Deep learning drives autonomous molecular reactions with single-bond selectivity in tetra-brominated porphyrins on Au(111)
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s41467-026-69080-1
+
+### Journal
+Nature Communications
+
+### Ten Keywords
+deep learning; autonomous chemistry; single-bond selectivity; scanning tunneling microscopy; molecular reactions; tetra-brominated porphyrins; reinforcement learning; on-surface synthesis; computer vision; atomic precision
+
+### Authors
+Zhiwen Zhu, Qi Huang, Tairan Yang, Hao Jiang, Shaoxuan Yuan, Juan Xiang, Liangliang Cai, Qiang Sun
+
+### Contact Author
+Qiang Sun (qiangsun@shu.edu.cn)
+
+### Affiliations
+Materials Genome Institute, Shanghai Engineering Research Center for Integrated Circuits and Advanced Display Materials, Shanghai University, Shanghai, China
+
+### Abstract
+The pursuit of autonomous chemical transformations with single-bond precision represents a central challenge in molecular nanoscience. While scanning tunneling microscopy (STM) enables site-specific reactions by directly engaging individual atoms and bonds, conventional approaches rely on expert intervention and lack reproducibility and scalability. Here we introduce a deep learning-based strategy that autonomously executes multi-step, bond-selective transformations. Our system integrates computer vision for molecular recognition, neural networks for bond-state classification, and deep reinforcement learning for closed-loop optimization of activation parameters. As a proof of concept, we demonstrate the selective dissociation of C-Br bonds in a tetra-brominated porphyrin on Au(111). Importantly, the approach extends beyond single-bond events, enabling programmed multi-step sequences including four distinct pathways with high fidelity. By advancing from isolated, human-directed manipulations to fully autonomous, data-driven reaction control, this platform establishes a paradigm for intelligent single-molecule chemistry. It provides a generalizable framework for on-surface synthesis, where adaptive agents orchestrate molecular transformations with a level of precision and scalability unattainable by manual approaches.
+
+### Objective
+解决分子纳米科学中的核心挑战——实现具有单键精度的自主化学反应。传统 STM 诱导反应依赖人工操作，缺乏可重复性和可扩展性。本文目标是建立深度学习驱动的自主平台，实现无需人工干预的多步、选择性键断裂反应。
+
+### Novelty
+首次将计算机视觉、神经网络的键态分类和深度强化学习（DRL）集成到一个闭环系统中，实现 STM 诱导的单分子多步键选择性反应。相比此前仅能执行单步反应的 AI 系统，本平台支持编程多步反应序列，包含四种不同路径，具有高通量和可推广性。
+
+### Method
+三步自主工作流：(1) 计算机视觉算法在大面积 STM 扫描中识别候选分子，使用关键点检测定位 TPP-Br4 分子；(2) 神经网络对分子键态进行分类，识别反应中间态（TPP-Br3*, TPP-Br2*-ortho/para 等）；(3) DRL 代理通过 TCP 接口自主控制 STM 系统，动态优化激活参数（偏压和设定点电流）以实现 C-Br 键选择性断裂。在液氦温度下于 Au(111) 表面进行实验。
+
+### Performance Metrics
+在 30nm×30nm 扫描区域内实现分子定位。TPP-Br4 分子经过四步脱溴反应，实现四种不同路径（ortho: 1→2→3→4, para: 1→3→2→4, ortho*: 1→4→3→2, ortho-Z: 1→2→4→3），每种路径均能以高保真度和可重复性完成，最终达到全脱溴产物 TPP4*。相比手动操作，AI 代理的准确性和一致性显著提高。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 106]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Lihua Lei7, Tao Jin10, Dongbai Xue1,2,3,4,5,6, Yuying Xie1,2,3,4,5,6, Chunling He1,2,3,4,5,6, Xiong Dun1,2,3,4,5,6,
+
+### Publication Year
+2026
+
+### DOI
+10.1038/s44310-026-00131-7
+
+### Journal
+npj | nanophotonics
+
+### Ten Keywords
+Not available
+
+### Authors
+Xiao Deng1,2,3,4,5,6, Zichao Lin1,2,3,4,5,6, Guangxu Xiao1,2,3,4,5,6, Zhangning Xie7, Yushu Shi8,9, Jianbo Wang8,
+
+### Contact Author
+chengxb@tongji.edu.cn
+
+### Affiliations
+national metrology institute shows excellent consistency, while 1 nm and 0.3 nm displacement tests; 1National Metrology and Testing Center for Integrated Circuit Measurement and Inspection Equipment Industry (Shanghai), Tongji University, Shanghai, China.; 2Institute of Precision Optical Engineering, Tongji University, Shanghai, China. 3MOE Key Laboratory of Advanced Micro-Structured Materials, Tongji University,
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+创新点待进一步确认。论文发表于npj | nanophotonics (2026)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2026年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 107]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Atomically Precise Manufacturing, Design Psychology, Design-For-Values, Ethics, Nanotechnology, Research
+
+### Publication Year
+2019
+
+### DOI
+10.4018/IJT.2019070101
+
+### Journal
+Journal of Technoethics
+
+### Ten Keywords
+Not available
+
+### Authors
+and Responsible Innovation:
+
+### Contact Author
+Not identified
+
+### Affiliations
+Steven Umbrello, Institute for Ethics and Emerging Technologies, Torino, Italy
+
+### Abstract
+Although continued investments in nanotechnology are made, atomically precise manufacturing (APM) to date is still regarded as speculative technology. APM, also known as molecular manufacturing, is a token example of a converging technology, has great potential to impact and be affected by other emerging technologies, such as artificial intelligence, biotechnology, and ICT. The development of APM thus can have drastic global impacts depending on how it is designed and used. This article argues that the ethical issues that arise from APM - as both a standalone technology or as a converging one - affects the roles of stakeholders in such a way as to warrant an alternate means furthering responsible innovation in APM research. This article introduces a value-based design methodology called value sensitive design (VSD) that may serve as a suitable framework to adequately cater to the values of stakeholders. Ultimately, it is concluded that VSD is a strong candidate framework for addressing the moral concerns of stakeholders during the preliminary stages of technological development. Keywords Atomically Precise Manufacturing, Design Psychology, Design-For-Values, Ethics, Nanotechnology,
+
+### Objective
+研究Atomically Precise Manufacturing, Design Psycholog。基于摘要内容：Although continued investments in nanotechnology are made, atomically precise manufacturing (APM) to date is still regarded as speculative technology. APM, also known as molecular manufacturing, is a ...
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。先进制造工艺的创新是该工作的核心贡献。论文发表于Journal of Technoethics (2019)，and Responsible Innovation:。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2019年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+
+================================================================================
+十、原子精度掺杂与半导体制造
+================================================================================
+
+[论文 108]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Two-scale structure of the current layer controlled by meandering motion during steady-state collisionless
+
+### Publication Year
+2025
+
+### DOI
+10.1063/5.0278639
+
+### Journal
+Not identified
+
+### Ten Keywords
+Not available
+
+### Authors
+Special Collection: Advances on Manufacturing and Next-generation Devices Towards CHIPS Act
+
+### Contact Author
+Not identified
+
+### Affiliations
+Not extracted
+
+### Abstract
+Atomic precision advanced manufacturing (APAM) dopes silicon with enough carriers to change its electronic structure and can be used to create novel devices by defining metallic regions whose boundaries have single-atom abruptness. Incompatibility with the thermal and lithog- raphy process requirements for gated silicon transistor manufacturing have inhibited exploration of both how APAM can enhance CMOS performance and how transistor manufacturing steps can accelerate the discovery of new APAM device concepts. In this work, we introduce an APAM process that enables direct integration into the middle of a transistor manufacturing workflow. We show that a process that com- bines sputtering and annealing with a hardmask preserves a defining characteristic of APAM, a doping density far in excess of the solid solu- bility limit, while trading another, the atomic precision, for compatibility with manufacturing. The electrical characteristics of a chip combining a transistor with an APAM resistor show that the APAM module has only affected the transistor through the addition of a resis- tance and not by altering the transistor. This proof-of-concept demonstration also outlines the requir
+
+### Objective
+本文旨在提出一种概念证明，将原子精度先进制造（APAM）直接集成到CMOS晶体管制造的中间流程（MOL）中。目标是解决APAM与传统CMOS制造工艺在热预算和光刻兼容性方面的两大障碍，使APAM技术能够在晶圆厂环境中应用。
+
+### Novelty
+本文首次展示了APAM与CMOS制造工艺的直接集成方案。创新性地提出了使用离子溅射代替传统高温退火来去除表面氧化物，将APAM的热预算从约1000°C降低至约600°C。同时，用光刻兼容的介质硬掩模替代传统的氢光刻技术，实现了与标准CMOS制造流程的兼容。
+
+### Method
+采用三步APAM流程：（1）使用2.0 keV氖离子溅射30分钟去除表面氧化物，随后在550-600°C进行固相外延（SPE）退火重结晶；（2）利用介质硬掩模定义图案，选择性掺杂磷前驱体分子；（3）用外延硅封顶激活掺杂剂。将该模块插入Sandia实验室0.35 μm CMOS工艺的FEOL和BEOL之间进行验证。
+
+### Performance Metrics
+在600°C退火条件下，APAM delta层仍保持二维弱局域化特征（2D物理标志）。在4 K下测得的2D载流子密度超过1.2×10¹⁴ cm⁻²，迁移率从485°C的22 cm²/V·s提升至600°C的32 cm²/V·s。APAM模块仅通过添加电阻影响CMOS晶体管，不改变其本征电学特性。CMOS晶体管阈值电压漂移保持在±0.05 V可接受范围内。
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 109]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+Manufacturing  process of dopant incorporation with atomic
+
+### Publication Year
+2023
+
+### DOI
+Not available
+
+### Journal
+Small
+
+### Ten Keywords
+Not available
+
+### Authors
+Sandia National Laboratories is a
+
+### Contact Author
+Not identified
+
+### Affiliations
+multimission laboratory managed; U.S. Department of Energy’s National
+
+### Abstract
+Not available
+
+### Objective
+研究内容待进一步分析确认
+
+### Novelty
+原子/纳米级精度的制造/表征技术是主要创新点。先进制造工艺的创新是该工作的核心贡献。论文发表于Small (2023)，Sandia National Laboratories is a。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2023年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+[论文 110]
+================================================================================
+科研论文结构化总结结果
+================================================================================
+
+### Title
+is affected by the functionality and robustness of the system. These theoretical studies can be verified experimentally only
+
+### Publication Year
+2020
+
+### DOI
+10.1007/s41871-020-00067-2
+
+### Journal
+small
+
+### Ten Keywords
+Not available
+
+### Authors
+Atomic and Close‑to‑Atomic Scale Manufacturing: A Review on Atomic
+
+### Contact Author
+Not identified
+
+### Affiliations
+Centre of Micro/Nano Manufacturing Technology; (MNMT‑Dublin), University College Dublin,; School of Physics, University College Dublin,
+
+### Abstract
+Manufacturing at the atomic scale is the next generation of the industrial revolution. Atomic and close-to-atomic scale manufacturing (ACSM) helps to achieve this. Atomic force microscopy (AFM) is a promising method for this purpose since an instrument to machine at this small scale has not yet been developed. As the need for increasing the number of electronic components inside an integrated circuit chip is emerging in the present-day scenario, methods should be adopted to reduce the size of connections inside the chip. This can be achieved using molecules. However, connecting molecules with the electrodes and then to the external world is challenging. Foundations must be laid to make this possible for the future. Atomic layer removal, down to one atom, can be employed for this purpose. Presently, theoretical works are being performed extensively to study the interactions happening at the molecule–electrode junction, and how electronic transport is affected by the functionality and robustness of the system. These theoretical studies can be verified experimentally only if nano electrodes are fabricated. Silicon is widely used in the semiconductor industry to fabricate electronic co
+
+### Objective
+研究is affected by the functionality and robustness of。基于摘要内容：Manufacturing at the atomic scale is the next generation of the industrial revolution. Atomic and close-to-atomic scale manufacturing (ACSM) helps to achieve this. Atomic force microscopy (AFM) is a p...
+
+### Novelty
+创新点待进一步确认。论文发表于small (2020)。
+
+### Method
+具体研究方法待从全文进一步确认。
+
+### Performance Metrics
+具体性能指标待从全文实验数据部分提取。（发表于2020年）
+
+================================================================================
+总结完成 | 文献调研辅助工具 v1.0
+================================================================================
+
+
+================================================================================
+报告结束
+================================================================================
